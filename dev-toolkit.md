@@ -10,7 +10,7 @@ Serverless.
 * **[Visual Studio](@todo)**: @todo
   * **[Productivity Power Tools](@todo)**: : @todo
 * **[Visual Studio Code](@todo)**: @todo   
-* **[LinqPad](@todo)**: @todo
+* **[LinqPad](@todo)**: Quick scratchpad app to test out your .net code snippets. Do buy the license for autocompletion. Worth every penny!
 * **[SQL Server Management Studio (SMSS)](@todo)**: @todo
 * **[Powershell ISE](@todo)**: @todo
 * **[Linters & code analysis](@todo)**: @todo
@@ -32,7 +32,7 @@ Serverless.
   * **[Azure App Service](@todo)**: @todo
   * **[Azure Eventgrid ](@todo)**: @todo
   * **[Azure Servicebus](@todo)**: @todo
-  * **[Azure SQL](@todo)**: @todo
+  * **[Azure SQL Server](@todo)**: @todo
   * **[Azure SQL Warehouse](@todo)**: @todo
   * **[Azure Data Factory](@todo)**: @todo
   * **[Azure Table Storage](@todo)**: @todo
@@ -72,9 +72,9 @@ Serverless.
 
 ## Other miscellaneous tools
 * **[WinMerge](@todo)**: @todo
-* **[Paint.net](@todo)**: @todo
-* **[GifCam](@todo)**: @todo
-* **[Logopit Plus](@todo)**: @todo
+* **[Paint.net](https://www.getpaint.net/)**: MSPaint on steroids.
+* **[GifCam](http://blog.bahraniapps.com/gifcam/)**: Record screen activity and output as gif.
+* **[Logopit Plus](http://logopit.net/)**: Mobile app to quickly design logos, banners and flyers. 
 * **[Windows subsystem for linux](@todo)**: @todo
 * **[Google Authenticator](@todo)**: @todo
 * **[ngrok](@todo)**: @todo
@@ -163,15 +163,15 @@ This is a list of really awesome tools & apps that were used very heavily by me 
 * **Miscellaneous administration tools**
   * **[Remote desktop connection](https://support.microsoft.com/en-in/help/17463/windows-7-connect-to-another-computer-remote-desktop-connection)**: Allows an admin to log into a remote windows machine. Also known as mstsc (microsoft terminal services client).
   * **[Remote desktop connection manager](https://www.microsoft.com/en-in/download/details.aspx?id=44989)**: The "enterprise" version of mstsc, allows an admin to log into a group/pool of remote windows machines.
-  * **[openssh](@todo)**: @todo
-  * **[mmc](https://en.wikipedia.org/wiki/Microsoft_Management_Console)**: @todo. Some of the snap-ins that I used very actively were:
+  * **[OpenSSH](@todo)**: @todo
+  * **[MMC](https://en.wikipedia.org/wiki/Microsoft_Management_Console)**: @todo. Some of the snap-ins that I used very actively were:
     * **[certmgr.msc](https://docs.microsoft.com/en-us/dotnet/framework/tools/certmgr-exe-certificate-manager-tool)**: @todo
     * **[compmgmt.msc](@todo)**: @todo
     * **[devmgmt.msc](https://en.wikipedia.org/wiki/Device_Manager)**: a.k.a. the windows device manager.
     * **[diskmgmt.msc](https://docs.microsoft.com/en-us/windows-server/storage/disk-management/overview-of-disk-management)**: Manage disk partitions and volumes.
     * **[eventvwr.msc](https://en.wikipedia.org/wiki/Event_Viewer)**: See system-wide and application-specific event logs.
     * **[fsmgmt.msc](@todo)**: Lists all file shares on your machine along with any open connections to them, open files etc.  
-    * **[perfmon.msc](https://en.wikipedia.org/wiki/Performance_Monitor)**: @todo
+    * **[perfmon.msc](https://en.wikipedia.org/wiki/Performance_Monitor)**: Choose from hundreds of performance counters to monitor & measure system-wide or application-specific perf stats.
     * **[services.msc](@todo)**: Manage the set of NT background services running on your machine.
     * **[taskschd.msc](https://docs.microsoft.com/en-us/windows/desktop/taskschd/task-scheduler-start-page)**: Create and schedule tasks to run on your machine. Define their trigger conditions and actions (commands, scripts, executables etc). 
   * **[Regedit](https://support.microsoft.com/en-us/help/82821/registration-info-editor-regedit-command-line-switches)**: Windows's built-in registry editing tool.
