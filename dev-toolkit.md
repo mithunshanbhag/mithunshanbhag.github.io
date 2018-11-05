@@ -153,7 +153,7 @@ This is a list of really awesome tools & apps that were used very heavily by me 
 
 * **Cloud computing**
   * **[Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)**: @todo 
-  * **[Azure VM Scale-sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)**: Allows you to create a set of identical, load-balanced VMs. You can compose auto-scaling rules (both horizontal & vertical scaling supported) based on various internal or external metrics (CPU, memory, IO, networking, storage, service bus queues etc).
+  * **[Azure VM Scale-sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)**: Allows you to create a set of identical, load-balanced VMs. You can compose auto-scaling rules (both horizontal & vertical scaling supported) based on various internal or external metrics (CPU, memory, IO, network traffic, storage, service bus queues etc).
   * **[Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview)**: @todo
   * **[Azure WebJobs]()**: In the past, I've used WebJobs for my time-triggered & data-triggered tasks (these tasks execute in the context of the associated Azure app service). I've now moved these tasks to Azure functions, which is truly serverless and [no app-service is needed](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#consumption-plan) (well unless you really [need it](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#app-service-plan)).  
 
