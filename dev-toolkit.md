@@ -15,12 +15,12 @@ Serverless.
 * **[Powershell ISE](@todo)**: @todo
 * **[Linters & code analysis](@todo)**: @todo
 
-## Configuration, dependency and package management
+## Dependency and package management
 * **[Web Platform Installer](@todo)**: @todo
-* **[Chocolatey](@todo)**: @todo
-* **[Nuget](@todo)**: @todo
+* **[Chocolatey](https://chocolatey.org/)**: Basically an "apt-get" for windows.
+* **[Homebrew](https://brew.sh/)**: Basically an "apt-get" for mac.
+* **[Nuget](https://www.nuget.org/)**: Basically an "npm" for .net code.
 * **[NPM](@todo)**: @todo
-* **[homebrew](@todo)**: @todo
 
 ## Cloud computing
 * **[Azure](@todo)**: @todo 
@@ -153,9 +153,9 @@ This is a list of really awesome tools & apps that were used very heavily by me 
 
 * **Cloud computing**
   * **[Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)**: @todo 
-  * **[azure VM Scale-sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)**: @todo
+  * **[Azure VM Scale-sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)**: Allows you to create a set of identical, load-balanced VMs. You can compose auto-scaling rules (both horizontal & vertical scaling supported) based on various internal or external metrics (CPU, memory, IO, networking, storage, service bus queues etc).
   * **[Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview)**: @todo
-  * **[Azure WebJobs]()**: In the past, I've used WebJobs for my time-triggered & data-triggered tasks (the tasks execute in the context of the associated Azure app service). I've now moved these tasks to Azure functions, which is truly serverless and [no app-service is needed](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#consumption-plan) (well unless you really [need it](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#app-service-plan)).  
+  * **[Azure WebJobs]()**: In the past, I've used WebJobs for my time-triggered & data-triggered tasks (these tasks execute in the context of the associated Azure app service). I've now moved these tasks to Azure functions, which is truly serverless and [no app-service is needed](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#consumption-plan) (well unless you really [need it](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#app-service-plan)).  
 
 * **Configuration management**
   * **[PowerShell DSC](https://docs.microsoft.com/en-us/powershell/dsc/overview)**: Allows you to express your system's DSC (desired state configuration) via a psuedo-declarative (PowerShell based) language. Very effective for managing state of Windows machines (both on-prem and Azure VMs).
