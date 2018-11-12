@@ -15,7 +15,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.author.name }}</a></h1>
-        <p>(<a href="">blog</a> |<a href="{{site.author.twitter}}">twitter</a> | <a href="{{site.author.linkedin}}">linkedin)</a></p>
+        <p>(<a href="/">home</a> |<a href="{{site.author.twitter}}">twitter</a> | <a href="{{site.author.linkedin}}">linkedin)</a></p>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -25,10 +25,10 @@
         <br>
         <br>
 
+        <!--
         <h3>Quick links</h3>
         <p><a href="./dev-toolkit">my dev toolkit</a></p>
 
-        <!--
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}

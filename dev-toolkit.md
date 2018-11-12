@@ -129,10 +129,12 @@ This is a list of really awesome tools & apps that were used very heavily by me 
   * **[CLR Profiler](https://www.microsoft.com/en-in/download/details.aspx?id=16273)**: A memory profiler which displayed the allocation profile & call tree using sankey diagrams.
   * **[PerfView](https://github.com/Microsoft/perfview)**: An [ETW](https://docs.microsoft.com/en-us/windows/desktop/etw/about-event-tracing) based utility for diagnosing performance issues in .net code.
   * **[MDbg](https://docs.microsoft.com/en-us/dotnet/framework/tools/mdbg-exe)**: A simple, yet powerful command-line debugger for .net code.
+  * **[CLRMD](https://github.com/Microsoft/clrmd)**: @todo.
 
 * **Other miscellaneous diagnostic utilities**  
     * **[Spy++](https://docs.microsoft.com/en-us/visualstudio/debugger/introducing-spy-increment?view=vs-2017)**: Visualize WndProc messages and window handles. Extremely useful for Win32 GUI programmers.
     * **[App Verifier](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/application-verifier)**: A runtime verification tool that monitors an application's interaction with the OS, profiling its use of kernel objects, registry, file system and Win32 apis (heap, handles, locks, and more) and flagging any violations.
+    * **[DebugDiag v2](https://www.microsoft.com/en-us/download/details.aspx?id=49924)**: @todo.
     * **[Orca](https://docs.microsoft.com/en-us/windows/desktop/msi/orca-exe)**: Inspect and modify MSI installer packages.
     * **[OleView](https://docs.microsoft.com/en-us/windows/desktop/com/using-oleview)**: A convenience utility for inspecting registration details of COM components.
  
