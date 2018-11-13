@@ -43,7 +43,9 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[MDbg](https://docs.microsoft.com/en-us/dotnet/framework/tools/mdbg-exe)**: A simple, yet powerful command-line debugger for .Net code.
 
-  * **[CLRMD](https://github.com/Microsoft/clrmd)**: APIs for analyzing the .Net heap and other runtime structures from running managed processes and dumps.  
+  * **[CLRMD](https://github.com/Microsoft/clrmd)**: APIs for analyzing the .Net heap and other runtime structures from running managed processes and dumps.
+
+  * **[CCI](https://github.com/Microsoft/cci)**: a.k.a Common Compiler Infrastructure. APIs that allow manipulation of .Net executables (metadata, IL) and related PDB symbols.
 
 
 <br>**[Sysinternals suite](https://docs.microsoft.com/en-us/sysinternals/)**: An awesome, awesome suite of diagnostic & administration tools for Windows. Looks like there is now an [effort underway to port these tools to linux](https://github.com/microsoft/procdump-for-linux).
