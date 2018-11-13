@@ -77,6 +77,8 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[Depends](https://en.wikipedia.org/wiki/Dependency_Walker)**: a.k.a. Dependency Walker. A utility that scanned an executable's import & export address tables to figure out its module depdendencies.
 
+  * **[PEDump](http://www.wheaty.net/downloads.htm)**: Dump the contents of a Windows [portable executable](https://docs.microsoft.com/en-us/windows/desktop/debug/pe-format) file.
+
 
 <br>**IDEs, code editors and related stuff**
 
