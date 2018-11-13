@@ -5,3 +5,6 @@ author:
   linkedin: https://www.linkedin.com/in/mithunshanbhag/
   twitter: https://twitter.com/MithunShanbhag
 logo: images/logo_200_200.jpg
+plugins:
+  - jekyll-feed
+  - jekyll-mentions

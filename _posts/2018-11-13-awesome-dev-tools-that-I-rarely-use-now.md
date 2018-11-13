@@ -43,7 +43,7 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[MDbg](https://docs.microsoft.com/en-us/dotnet/framework/tools/mdbg-exe)**: A simple, yet powerful command-line debugger for .Net code.
 
-  * **[CLRMD](https://github.com/Microsoft/clrmd)**: APIs for analyzing the .Net heap and other runtime structures from running managed processes and dumps.
+  * **[CLRMD](https://github.com/Microsoft/clrmd)**: APIs for analyzing the .Net heap and other runtime structures from running managed processes and dumps. Hat tip to @leculver.
 
   * **[CCI](https://github.com/Microsoft/cci)**: a.k.a Common Compiler Infrastructure. APIs that allow manipulation of .Net executables (metadata, IL) and related PDB symbols.
 
