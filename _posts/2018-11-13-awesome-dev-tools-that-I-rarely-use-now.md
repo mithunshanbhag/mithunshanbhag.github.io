@@ -102,7 +102,8 @@ Thought I should take a small trip down the memory lane and capture these tools 
     * **[perfmon.msc](https://en.wikipedia.org/wiki/Performance_Monitor)**: Choose from hundreds of performance counters to monitor & measure system-wide or application-specific perf stats.
     * **[services.msc](https://en.wikipedia.org/wiki/Service_Control_Manager)**: Manage the set of NT background services running on your machine.
     * **[taskschd.msc](https://docs.microsoft.com/en-us/windows/desktop/taskschd/task-scheduler-start-page)**: Create and schedule tasks to run on your machine. Define their trigger conditions and actions (commands, scripts, executables etc). 
-    * **compmgmt.msc**: A convenience snap-in that loads most of the various snap-ins mentioned above:  
+    * **compmgmt.msc**: A convenience snap-in that loads most of the various snap-ins mentioned above.
+    * **dsa.msc**: Manage active directory users, groups, computer accounts, OUs (organizational units) etc.  
 
   * **[Regedit](https://support.microsoft.com/en-us/help/82821/registration-info-editor-regedit-command-line-switches)**: Duh. Windows's built-in registry editing tool.
 
