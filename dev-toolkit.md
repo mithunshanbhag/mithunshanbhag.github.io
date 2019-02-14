@@ -24,28 +24,20 @@ Serverless.
 
 ## Cloud computing
 * **[Azure](@todo)**: @todo 
-  * **[Azure CLI](@todo)**: @todo
-  * **[Azure PowerShell](@todo)**: @todo
   * **[Azure Cloud Shell](@todo)**: @todo
-  * **[Azure Storage Explorer](@todo)**: @todo
-  * **[Azure Functions](@todo)**: @todo
-  * **[Azure App Service](@todo)**: @todo
   * **[Azure Eventgrid ](@todo)**: @todo
   * **[Azure Servicebus](@todo)**: @todo
   * **[Azure SQL Server](@todo)**: @todo
   * **[Azure SQL Warehouse](@todo)**: @todo
-  * **[Azure Data Factory](@todo)**: @todo
   * **[Azure Table Storage](@todo)**: @todo
   * **[Azure AppInsights](@todo)**: @todo
   * **[Azure Monitor](@todo)**: @todo
   * **[Azure Eventhub](@todo)**: @todo
-  * **[Azure API Management (API gateway)](@todo)**: @todo
   * **[Azure Search](@todo)**: @todo
   * **[Azure Blob Storage](@todo)**: @todo
   * **[Azure KeyVault](@todo)**: @todo
   * **[Azure Active Directory](@todo)**: @todo
   * **[Azure Redis](@todo)**: @todo
-  * **[Azure CosmosDB](@todo)**: @todo
   * **[Azure Data Lake Storage](@todo)**: @todo
 
 ## PAAS services
