@@ -25,6 +25,7 @@ My curated list of awesome azure-related resources (this will be a living docume
 
 * azure apis, sdks & tools
   * azure cli: [docs](https://docs.microsoft.com/en-us/cli/azure/)
+  * azure mobile app: [google play](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=en)
   * azure powershell: [docs](https://docs.microsoft.com/en-us/powershell/azure/) \| [github](https://github.com/Azure/azure-powershell)
   * azure rest apis: [docs](https://docs.microsoft.com/en-us/rest/api/?view=Azure)
   * azure sdk for .net: [docs](https://docs.microsoft.com/en-us/dotnet/api/overview/azure)
