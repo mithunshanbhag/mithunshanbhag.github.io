@@ -1,20 +1,16 @@
 ---
-layout: default
+layout: post
 title: Awesome Azure Resources
 ---
+My curated list of awesome azure-related resources (this will be a living document that I'll be updating frequently).
 
-# Awesome azure resources
-_____
-
-A curated list of awesome azure-related resources:
-
-* [azure architecture center](https://docs.microsoft.com/en-us/azure/architecture/)
-  * [cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
-  * [cloud best practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/)
-  * [reference architectures](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
-
-* [azure solutions](https://azure.microsoft.com/en-in/solutions/)
-  * [solutions architecture](https://azure.microsoft.com/en-in/solutions/architecture/)
+* azure architectures, designs & best practices
+  * [azure architecture center](https://docs.microsoft.com/en-us/azure/architecture/)
+    * [cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+    * [cloud best practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/)
+    * [reference architectures](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
+  * [azure solutions](https://azure.microsoft.com/en-in/solutions/)
+    * [solutions architecture](https://azure.microsoft.com/en-in/solutions/architecture/)
 
 * azure resources
   * azure api management: [docs](https://docs.microsoft.com/en-us/azure/api-management/) 
@@ -44,3 +40,6 @@ A curated list of awesome azure-related resources:
   * [microsoft cloud](https://www.youtube.com/channel/UCSgzRJMqIiCNtoM6Q7Q9Lqw)
   * [microsoft developer](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
   * [azure friday](https://channel9.msdn.com/Shows/Azure-Friday)
+
+
+_Know of any more awesome azure-related resources that are worth sharing? Would love to hear from you, [send me a tweet]({{site.author.twitter}})._
