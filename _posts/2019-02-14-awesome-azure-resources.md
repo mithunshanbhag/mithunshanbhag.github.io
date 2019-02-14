@@ -14,6 +14,7 @@ My curated list of awesome azure-related resources (this will be a living docume
 
 * azure resources
   * azure api management: [docs](https://docs.microsoft.com/en-us/azure/api-management/) 
+  * azure app service: [docs](https://docs.microsoft.com/en-us/azure/app-service/)
   * azure cosmosdb: [docs](https://docs.microsoft.com/en-us/azure/cosmos-db/) \| [youtube](https://www.youtube.com/channel/UC9OJ32CzooNJNoP6_iIfxRw)
   * azure data factory: [docs](https://docs.microsoft.com/en-us/azure/data-factory/) \| [youtube](https://www.youtube.com/channel/UC2S0k7NeLcEm5_IhHUwpN0g)
   * azure dns: [docs](https://docs.microsoft.com/en-us/azure/dns/)
