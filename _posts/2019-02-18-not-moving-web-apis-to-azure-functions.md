@@ -43,7 +43,8 @@ _Edit: I stand corrected. Looks like binding to POCOs is indeed supported [as sh
 
 ~~Azure functions do not support POCOs during request/response model binding. All types must be serialized to one of the following: `string`, `binary` or `stream`. You can choose to author a [custom binding](https://github.com/Azure/azure-webjobs-sdk/wiki/Creating-custom-input-and-output-bindings) as a workaround for this issue (which again is tedious).~~
 
+Technically speaking, there is nothing preventing us from transitioning our web APIs to azure functions. We simply have to work around the above-mentioned issues (which are nitpicks really). However since our web APIs are still nascent & evolving, this transition will require us to sacrifice some developer productivity (e.g. the OpenAPI support issue).
 
-For the foreseeable future, we'll be sticking with asp.net core + azure web apps to host our web APIs. But really hoping the azure functions team addresses these above-mentioned issues, so we can go 'truly' serverless.
+So for the foreseeable future, we'll be sticking with asp.net core + azure web apps to host our web APIs. But really hoping the azure functions team addresses the above-mentioned issues, so we can go 'truly' serverless.
 
 Comments? Suggestions? Thoughts? Would love to hear from you, [send me a tweet]({{site.author.twitter}}).
