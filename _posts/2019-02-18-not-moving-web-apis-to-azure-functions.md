@@ -1,0 +1,48 @@
+---
+layout: post
+title:  Why we've not moving our web APIs to azure functions yet
+---
+I'm a big proponent of azure functions, having used it on a daily basis for over a year now (for both work and personal projects). The cost savings have been enormous, especially with the [consumption plan](https://docs.microsoft.com/en-in/azure/azure-functions/functions-scale#consumption-plan).
+
+As you probably know, azure functions can be classified into three groups: _timer-triggered_, _data-triggered_ and _http-triggered_. 
+* We've converted a bunch of old CRON tasks to time-triggered azure functions. 
+* Also a bunch of our old azure webjobs have been converted to data-triggered azure functions (the transition has been seamless, very little code changes required to the input bindings & triggers). 
+
+However, today I want to talk about why we haven't converted our asp.net core web APIs to http-triggered azure functions. What's stopping us?
+
+### 1. No SLA/guarantees around cold start latency
+
+In our anecdotal observations, for the consumption plan, we've seen cold start latencies exceeding 45 seconds at times. 
+
+Since we're talking about the consumption plan, there is no _"always on"_ option for these function apps (and rightfully so). Yes, it is possible to resort to workarounds to keep the function app warm (by calling it every 'x' minutes from an external app). But this is unnecessarily tedious. 
+
+Note: This [blog post](https://blogs.msdn.microsoft.com/appserviceteam/2018/02/07/understanding-serverless-cold-start/) is the only "official" documentation that we could find around cold start latencies in azure functions (it's a well written, detailed blog post). 
+
+
+### 2. Azure functions v2.x don't yet support OpenAPI / swagger
+
+We use azure [API management](https://docs.microsoft.com/en-in/azure/api-management/) (API gateway) as a "front-door" to our Web APIs. Since 
+[v2.x azure functions don't yet support OpenAPI / swagger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition), it is not possible to import them into the above-mentioned API gateway ([related twitter thread](https://twitter.com/MithunShanbhag/status/1025052593221820417).
+
+You'll have to generate the openAPI definitions either manually or using external tools (swagger inspector, postman etc) which again is a tedious process.
+
+FWIW - The azure functions team has been [aware of this issue](https://github.com/Azure/azure-functions-host/issues/2874) for a while. Hopefully, they'll add this support in their coming sprints.
+
+
+### 3. Lack of dependency injection services (IoC container)
+
+Yes, a whole slew of input bindings exist for azure functions. However it is not possible to inject custom depdencies (a la asp.net). A DI service support would have been really useful for instantiating entity framework dbContexts, auto-mapper profiles etc ([related twitter thread](https://twitter.com/MithunShanbhag/status/1014808563196166144)). 
+
+Currently, the "recommended" approach is to [use statics to cache these dependency objects](https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections), but what we really want is a mechanism for creating & passing around ephemeral/transient depedencies.
+
+### 4. Lack of middleware
+
+Would have been really nice to have a lightweight middleware (say) to process JWT tokens across all http-triggered functions in a function app. Instead we now have to explicitly invoke helper methods from each http-triggered function. 
+
+### 5. Model binding behavior
+
+
+
+So for the forseeable future, we'll be sticking with asp.net core + azure web apps to host our web APIs. But really hoping the azure functions team addresses these above-mentioned issues, so we can go 'truly' serverless.
+
+Comments? Suggestions? Thoughts? Would love to hear from you, [send me a tweet]({{site.author.twitter}}).

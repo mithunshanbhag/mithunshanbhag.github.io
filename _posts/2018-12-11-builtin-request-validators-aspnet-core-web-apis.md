@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Built-in request validators for ASP.NET Core Web APIs.
+title:  Built-in request validators for ASP.NET Core Web APIs
 ---
 There are various techniques for validating requests in ASP.NET Core Web APIs. Here is a quick recap: 
 

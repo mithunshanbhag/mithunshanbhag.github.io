@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Awesome dev tools that I rarely use now.
+title:  Awesome dev tools that I rarely use now
 ---
 
 This is a list of really awesome tools, apps and utilities that were used very heavily by me in a past life. I still whip these out whenever needed, but I really don't use them on a daily basis anymore. 
