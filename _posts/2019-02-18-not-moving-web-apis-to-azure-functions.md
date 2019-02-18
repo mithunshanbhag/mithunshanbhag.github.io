@@ -29,9 +29,9 @@ FWIW - The azure functions team has been [aware of this issue](https://github.co
 
 ### 3. Lack of dependency injection services (IoC container)
 
-Yes, a whole slew of input bindings exist for azure functions. However it is not possible to inject custom depdencies (a la asp.net). A DI service support would have been really useful for instantiating entity framework dbContexts, auto-mapper profiles etc ([related twitter thread](https://twitter.com/MithunShanbhag/status/1014808563196166144)). 
+Yes, a whole slew of input bindings exist for azure functions. However it is not possible to inject custom dependencies (a la asp.net). A DI service support would have been really useful for instantiating entity framework dbContexts, auto-mapper profiles etc ([related twitter thread](https://twitter.com/MithunShanbhag/status/1014808563196166144)). 
 
-Currently, the "recommended" approach is to [use statics to cache these dependency objects](https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections), but what we really want is a mechanism for creating & passing around ephemeral/transient depedencies.
+Currently, the "recommended" approach is to [use statics to cache these dependency objects](https://docs.microsoft.com/en-us/azure/azure-functions/manage-connections), but what we really want is a mechanism for creating & passing around ephemeral/transient dependencies.
 
 ### 4. Lack of a middleware mechanism
 
