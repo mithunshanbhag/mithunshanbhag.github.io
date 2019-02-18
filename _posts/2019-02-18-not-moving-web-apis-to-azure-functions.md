@@ -37,7 +37,7 @@ Currently, the "recommended" approach is to [use statics to cache these dependen
 
 Would have been really nice to have a lightweight middleware (say) to [process JWT tokens](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.authentication.jwtbearer?view=aspnetcore-2.2) across all http-triggered functions in a function app. Instead we now have to explicitly invoke helper methods from each http-triggered function. 
 
-### 5. POCO model binding
+### 5. No POCO model binding support
 
 _Edit: I stand corrected. Looks like binding to POCOs is indeed supported [as shown in this example](https://github.com/Azure-Samples/functions-dotnet-codercards/blob/master/CoderCards/CardGenerator.cs#L47). More details [here](https://github.com/Azure/Azure-Functions/issues/397) and [here](https://github.com/Azure/Azure-Functions/issues/401)._
 
