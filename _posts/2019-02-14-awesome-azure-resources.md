@@ -48,5 +48,8 @@ My curated list of awesome azure-related resources (this will be a living docume
   * [microsoft developer](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
   * [azure friday](https://channel9.msdn.com/Shows/Azure-Friday)
 
+* blogs
+  * https://azure.microsoft.com/en-us/blog/
+  * https://www.azurefromthetrenches.com/
 
 _Know of any more awesome azure-related resources that are worth sharing? Would love to hear from you, [send me a tweet]({{site.author.twitter}})._
