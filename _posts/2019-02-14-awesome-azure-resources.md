@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Awesome Azure Resources
+comments: true
 ---
 My curated list of awesome azure-related resources (this will be a living document that I'll be updating frequently).
 
@@ -52,4 +53,4 @@ My curated list of awesome azure-related resources (this will be a living docume
   * https://azure.microsoft.com/en-us/blog/
   * https://www.azurefromthetrenches.com/
 
-_Know of any more awesome azure-related resources that are worth sharing? Would love to hear from you, [send me a tweet]({{site.author.twitter}})._
+_Know of any more awesome azure-related resources that are worth sharing? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._

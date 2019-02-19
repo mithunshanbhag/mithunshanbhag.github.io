@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Built-in request validators for ASP.NET Core Web APIs
+comments: true
 ---
 There are various techniques for validating requests in ASP.NET Core Web APIs. Here is a quick recap: 
 
@@ -14,6 +15,6 @@ There are various techniques for validating requests in ASP.NET Core Web APIs. H
 
 You can use 3rd party libraries like [FluentValidation](https://fluentvalidation.net/) to set up validation rules. FluentValidation middleware is executed before any of the above ([More details here](https://fluentvalidation.net/aspnet#asp-net-core)). Maybe I should write a blog post soon on this. 
 
-_PS: This blog post emanated from a discussion on a slack channel. Thought I should capture it in case anyone else finds it useful. Did I get something wrong? Or miss out on some details? Would love to hear from you, [send me a tweet]({{site.author.twitter}})._
+_PS: This blog post emanated from a discussion on a slack channel. Thought I should capture it in case anyone else finds it useful. Did I get something wrong? Or miss out on some details? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
 
 That's it for today folks!

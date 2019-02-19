@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Why we're not moving our web APIs to azure functions yet
+comments: true
 ---
 I'm a big proponent of azure functions, having used it on a daily basis for over a year now (for both work and personal projects). The cost savings have been enormous, especially with the [consumption plan](https://docs.microsoft.com/en-in/azure/azure-functions/functions-scale#consumption-plan).
 
@@ -47,4 +48,4 @@ Technically speaking, there is nothing preventing us from transitioning our web 
 
 So for the foreseeable future, we'll be sticking with asp.net core + azure web apps to host our web APIs. But really hoping the azure functions team addresses the above-mentioned issues, so we can go 'truly' serverless.
 
-Comments? Suggestions? Thoughts? Would love to hear from you, [send me a tweet]({{site.author.twitter}}).
+Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}}).
