@@ -4,9 +4,9 @@ title:  Awesome dev tools that I rarely use now
 comments: true
 ---
 
-This is a list of really awesome tools, apps and utilities that were used very heavily by me in a past life. I still whip these out whenever needed, but I really don't use them on a daily basis anymore. 
+This is a list of really awesome tools, apps and utilities that were used very heavily by me in a past life. I still whip these out whenever needed, but I really don't use them on a daily basis anymore.
 
-Pretty much all of these are "Windows OS centric" or  ".Net framework centric". 
+Pretty much all of these are "Windows OS centric" or  ".Net framework centric".
 
 Thought I should take a small trip down the memory lane and capture these tools here in a blog post. Hopefully someone will find this list useful.
 
@@ -25,7 +25,6 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[UMDH](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/umdh)**: User mode dump heap, a utility for detecting memory leaks. Later integrated into GFlags itself.
 
-
 <br>**Diagnostic tools for .Net framework**: Quite a few of the tools on this list were authored by my awesome co-workers on Microsoft's Common Language Runtime team (they started out as internal-only tools, but grew in usefulness over time and were then publicly shipped).
 
   * **[SOS.dll](https://docs.microsoft.com/en-us/dotnet/framework/tools/sos-dll-sos-debugging-extension)**: WinDbg extension to debug managed code. Particularly useful for peeking into CLR structures & diagnosing GC issues.
@@ -34,7 +33,7 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[ILDASM](https://docs.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler)**: Inspect metadata of a .Net executable.
 
-  * **[ILSPY](https://github.com/icsharpcode/ILSpy)** and **[.Net Reflector](https://www.red-gate.com/products/dotnet-development/reflector/)**: Similar to ILDASM above but also allows you to decompile IL to C# or VB.net 
+  * **[ILSPY](https://github.com/icsharpcode/ILSpy)** and **[.Net Reflector](https://www.red-gate.com/products/dotnet-development/reflector/)**: Similar to ILDASM above but also allows you to decompile IL to C# or VB.net.
 
   * **[PInvoke.net](http://pinvoke.net/)**: Easily generate pinvoke signatures for calling native Win32 API or COM components from .Net code.  
 
@@ -48,21 +47,19 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[CCI](https://github.com/Microsoft/cci)**: a.k.a Common Compiler Infrastructure. APIs that allow manipulation of .Net executables (metadata, IL) and related PDB symbols.
 
-
 <br>**[Sysinternals suite](https://docs.microsoft.com/en-us/sysinternals/)**: An awesome, awesome suite of diagnostic & administration tools for Windows. Looks like there is now an [effort underway to port these tools to linux](https://github.com/microsoft/procdump-for-linux).
 
-  * **[Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)**: 'Task manager on steroids' would be an overly simplistic way to describe it. It does much, much more. You can view a process's handles, loaded DLLs and various perf stats. 
+  * **[Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)**: 'Task manager on steroids' would be an overly simplistic way to describe it. It does much, much more. You can view a process's handles, loaded DLLs and various perf stats.
 
-  * **[Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)**: A flight data recorder of sorts that tracks an application's file, registry, network, process & thread activities. 
+  * **[Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)**: A flight data recorder of sorts that tracks an application's file, registry, network, process & thread activities.
 
-  * **[DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)**: A tool to monitor system-wide or application-specific debug output. Specifically user-mode debug outputs from Kernel32!OutputDebugString() or System.Diagnostics.Debug.Write(). Kernel mode debug outputs are also shown. 
+  * **[DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)**: A tool to monitor system-wide or application-specific debug output. Specifically user-mode debug outputs from Kernel32!OutputDebugString() or System.Diagnostics.Debug.Write(). Kernel mode debug outputs are also shown.
 
   * **[AutoLogon](https://docs.microsoft.com/en-us/sysinternals/downloads/autologon)**: Automatically logs a users in to Windows. This utility piggybacks on the autologon keys baked in the Windows registry.  
 
   * **[PSExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)**: Enables admins to execute commands and apps on remote Windows machines. A quick-n-dirty version of ssh/telnet, minus the setup pain.
 
   * **[Disk2Vhd](https://docs.microsoft.com/en-us/sysinternals/downloads/disk2vhd)**: Useful tool that allows you to snapshot a disk as a VHD.
-
 
 <br>**Other miscellaneous Windows diagnostic utilities**  
 
@@ -80,13 +77,11 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[PEDump](http://www.wheaty.net/downloads.htm)**: Dump the contents of a Windows [portable executable](https://docs.microsoft.com/en-us/windows/desktop/debug/pe-format) file.
 
-
 <br>**IDEs, code editors and related stuff**
 
-  * **[Atom](https://atom.io/), [Notepad++](), [SublimeText](https://www.sublimetext.com/), [SlickEdit](https://notepad-plus-plus.org/)**: All great code editors in their own right. But once VSCode arrived on the scene, I was hooked on to it and never looked back.
+  * **[Atom](https://atom.io/), [Notepad++](https://notepad-plus-plus.org/), [SublimeText](https://www.sublimetext.com/), [SlickEdit](https://notepad-plus-plus.org/)**: All great code editors in their own right. But once VSCode arrived on the scene, I was hooked on to it and never looked back.
 
   * **[FxCop](https://en.wikipedia.org/wiki/FxCop)**: Static analyzer for .Net code. Now superseded by [roslyn analyzers](https://docs.microsoft.com/en-us/visualstudio/code-quality/install-roslyn-analyzers?view=vs-2017).
-
 
 <br>**Windows administration tools**
 
@@ -102,7 +97,7 @@ Thought I should take a small trip down the memory lane and capture these tools 
     * **fsmgmt.msc**: Lists all file shares on your machine along with any open connections to them, open files etc.  
     * **[perfmon.msc](https://en.wikipedia.org/wiki/Performance_Monitor)**: Choose from hundreds of performance counters to monitor & measure system-wide or application-specific perf stats.
     * **[services.msc](https://en.wikipedia.org/wiki/Service_Control_Manager)**: Manage the set of NT background services running on your machine.
-    * **[taskschd.msc](https://docs.microsoft.com/en-us/windows/desktop/taskschd/task-scheduler-start-page)**: Create and schedule tasks to run on your machine. Define their trigger conditions and actions (commands, scripts, executables etc). 
+    * **[taskschd.msc](https://docs.microsoft.com/en-us/windows/desktop/taskschd/task-scheduler-start-page)**: Create and schedule tasks to run on your machine. Define their trigger conditions and actions (commands, scripts, executables etc).
     * **compmgmt.msc**: A convenience snap-in that loads most of the various snap-ins mentioned above.
     * **dsa.msc**: Manage active directory users, groups, computer accounts, OUs (organizational units) etc.  
 
@@ -110,11 +105,11 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[Hyper-V Manager](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)**: Allows you to configure & host VMs on your Windows Server machine.
 
-  * **[Server Manager](https://docs.microsoft.com/en-us/windows-server/administration/server-manager/server-manager)**: Allows you to enable/disable features + add/remove roles on your Windows Server machine. 
+  * **[Server Manager](https://docs.microsoft.com/en-us/windows-server/administration/server-manager/server-manager)**: Allows you to enable/disable features + add/remove roles on your Windows Server machine.
 
-  * **[Resource Monitor](https://en.wikipedia.org/wiki/Resource_Monitor)**: Lists top resource-consuming app and services (CPU, memory, disk I/O and network I/O). 
+  * **[Resource Monitor](https://en.wikipedia.org/wiki/Resource_Monitor)**: Lists top resource-consuming app and services (CPU, memory, disk I/O and network I/O).
 
-  * **[WMIC](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/wmic)**: The CLI for [WMI (Windows Management Instrumentation)](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/about-wmi). Allows you to interact with various [WMI providers](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/wmi-providers). 
+  * **[WMIC](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/wmic)**: The CLI for [WMI (Windows Management Instrumentation)](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/about-wmi). Allows you to interact with various [WMI providers](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/wmi-providers).
 
   * **[WBEMTest](https://msdn.microsoft.com/en-us/library/dn529014.aspx)**: GUI app to explore WMI namespaces and classes.
 

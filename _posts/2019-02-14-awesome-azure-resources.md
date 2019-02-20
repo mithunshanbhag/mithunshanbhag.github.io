@@ -14,7 +14,7 @@ My curated list of awesome azure-related resources (this will be a living docume
     * [solutions architecture](https://azure.microsoft.com/en-in/solutions/architecture/)
 
 * azure resources
-  * azure api management: [docs](https://docs.microsoft.com/en-us/azure/api-management/) 
+  * azure api management: [docs](https://docs.microsoft.com/en-us/azure/api-management/)
   * azure app service: [docs](https://docs.microsoft.com/en-us/azure/app-service/)
   * azure cosmosdb: [docs](https://docs.microsoft.com/en-us/azure/cosmos-db/) \| [youtube](https://www.youtube.com/channel/UC9OJ32CzooNJNoP6_iIfxRw)
   * azure data factory: [docs](https://docs.microsoft.com/en-us/azure/data-factory/) \| [youtube](https://www.youtube.com/channel/UC2S0k7NeLcEm5_IhHUwpN0g)
@@ -36,7 +36,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure billing & cost management: [docs](https://docs.microsoft.com/en-us/azure/billing/)
   * azure code samples: [gallery](https://azure.microsoft.com/en-us/resources/samples/?sort=0) \| [github](https://github.com/Azure-Samples)
   * azure limits & quotas: [docs](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fguides%2fdeveloper%2ftoc.json)
-  * azure quickstart templates: [gallery](https://azure.microsoft.com/en-us/resources/templates/) \| [github](https://github.com/Azure/azure-quickstart-templates) 
+  * azure quickstart templates: [gallery](https://azure.microsoft.com/en-us/resources/templates/) \| [github](https://github.com/Azure/azure-quickstart-templates)
 
 * [azure support](https://azure.microsoft.com/en-us/support/community/)
   * [msdn forums](https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform)
@@ -50,7 +50,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * [azure friday](https://channel9.msdn.com/Shows/Azure-Friday)
 
 * blogs
-  * https://azure.microsoft.com/en-us/blog/
-  * https://www.azurefromthetrenches.com/
+  * [azure blog](https://azure.microsoft.com/en-us/blog/)
+  * [azure from the trenches](https://www.azurefromthetrenches.com/)
 
 _Know of any more awesome azure-related resources that are worth sharing? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
