@@ -73,7 +73,7 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[OleView](https://docs.microsoft.com/en-us/windows/desktop/com/using-oleview)**: A convenience utility for inspecting registration details of COM components.
 
-  * **[Depends](https://en.wikipedia.org/wiki/Dependency_Walker)**: a.k.a. Dependency Walker. A utility that scanned an executable's import & export address tables to figure out its module depdendencies.
+  * **[Depends](https://en.wikipedia.org/wiki/Dependency_Walker)**: a.k.a. Dependency Walker. A utility that scanned an executable's import & export address tables to figure out its module dependencies.
 
   * **[PEDump](http://www.wheaty.net/downloads.htm)**: Dump the contents of a Windows [portable executable](https://docs.microsoft.com/en-us/windows/desktop/debug/pe-format) file.
 
@@ -113,6 +113,6 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[WBEMTest](https://msdn.microsoft.com/en-us/library/dn529014.aspx)**: GUI app to explore WMI namespaces and classes.
 
-I'm pretty sure there were a couple more .Net and Windows tools that I've forgetten about. Know of any? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}}).
+I'm pretty sure there were a couple more .Net and Windows tools that I've forgotten about. Know of any? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}}).
 
 That's it for today folks!
