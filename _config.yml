@@ -1,10 +1,20 @@
 theme: jekyll-theme-minimal
 repository: mithunshanbhag/mithunshanbhag.github.io
+logo: images/logo_200_200.jpg
+
+# 
 author: 
   name: Mithun Shanbhag
   linkedin: https://www.linkedin.com/in/mithunshanbhag/
   twitter: https://twitter.com/MithunShanbhag
-logo: images/logo_200_200.jpg
+
+# SEO related
+title: mithun shanbhag's blog
+description: mostly ranting and raving about tech stuff
+url: https://mithunshanbhag.github.io/
+
+# 
 plugins:
   - jekyll-feed
   - jekyll-mentions
+  - jekyll-seo-tag

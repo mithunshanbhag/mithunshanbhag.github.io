@@ -1,36 +1,39 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% feed_meta %}
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% feed_meta %}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.author.name }}</a></h1>
-        <p>(<a href="/">blog</a> | <a href="/feed.xml">rss</a> | <a href="{{site.author.twitter}}">twitter</a> | <a href="{{site.author.linkedin}}">linkedin)</a></p>
+  {% seo %}
+</head>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+<body>
+  <div class="wrapper">
+    <header>
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.author.name }}</a></h1>
+      <p>(<a href="/">blog</a> | <a href="/feed.xml">rss</a> | <a href="{{site.author.twitter}}">twitter</a> | <a
+          href="{{site.author.linkedin}}">linkedin)</a></p>
 
-        <br>
-        <br>
-        <br>
+      {% if site.logo %}
+      <img src="{{site.logo | relative_url}}" alt="Logo" />
+      {% endif %}
 
-        <h3>Quick links</h3>
-        <p><a href="https://blogs.msdn.microsoft.com/mithuns/">my old blog</a></p>
-        <p><a href="/2019/02/14/awesome-azure-resources">awesome azure resources</a></p>
+      <br>
+      <br>
+      <br>
 
-        <!--
+      <h3>Quick links</h3>
+      <p><a href="https://blogs.msdn.microsoft.com/mithuns/">my old blog</a></p>
+      <p><a href="/2019/02/14/awesome-azure-resources">awesome azure resources</a></p>
+
+      <!--
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -49,32 +52,35 @@
         </ul>
         {% endif %}
         -->
-      </header>
-      <section>
+    </header>
+    <section>
 
       {{ content }}
 
-      </section>
-      <footer>
-        <!--
+    </section>
+    <footer>
+      <!--
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         -->
-        
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
-  </body>
+
+    </footer>
+  </div>
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  {% if site.google_analytics %}
+  <script>
+    (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+  </script>
+  {% endif %}
+</body>
+
 </html>
