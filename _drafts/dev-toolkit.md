@@ -1,10 +1,16 @@
+---
+layout: post
+title:  dev tools
+sitemap: false
+---
+
+
 c# and typescript, some c and c++, some powershell. 
 
 no on-premise
 no vms, no containers (no machine administration)
 Serverless. 
 
-----------
 
 ## IDEs, code editors and related extensions/plugins
 * **[Visual Studio](@todo)**: @todo

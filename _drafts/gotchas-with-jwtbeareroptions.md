@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Gotchas with JwtBearerOptions.
+sitemap: false
 ---
 
 This is not much of a blog post, but more of a "note to self" (and others who might have encountered this issue).
