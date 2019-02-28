@@ -19,3 +19,9 @@ plugins:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# 
+algolia:
+  application_id: 62I1KLPO07
+  index_name: jekyll
+  search_only_api_key: 691eb09f82d28fd5faa53ba2a3215e00
