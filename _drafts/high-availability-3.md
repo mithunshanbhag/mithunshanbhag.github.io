@@ -4,6 +4,7 @@ title: "High Availability in Azure (Part 3): Availability Zones"
 sitemap: false
 ---
 
+https://dzone.com/refcardz/scalability?chapter=1
 
 An Availability Zone in an Azure region is a combination of a fault domain and an update domain. For example, if you create three or more VMs across three zones in an Azure region, your VMs are effectively distributed across three fault domains and three update domains. The Azure platform recognizes this distribution across update domains to make sure that VMs in different zones are not updated at the same time.
 

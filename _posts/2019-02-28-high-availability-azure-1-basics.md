@@ -84,6 +84,8 @@ My next blog post will explore availability sets for VMs in detail.
 
 [VM scale sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview) exist for horizontal scaling under load. In _**my**_ opinion, they have almost nothing to do with redundancies for high availability. So I'll be excluding them from this particular blog series. Perhaps I'll address them in a future series on horizontal & vertical scaling for Azure resources.
 
+Aside: Horizontal scaling & high availability address slightly different issues (performance & reliability respectively). The former adds additional instances when under load to ensure performant service. The latter adds redundant instances (irrespective of load) to prevent service disruption during outages.
+
 #### Will I address high availability on Azure's government cloud?
 
 No. I know very little about Azure's government cloud. You're welcome to read the [documentation](https://docs.microsoft.com/en-in/azure/azure-government/) yourself.
