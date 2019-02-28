@@ -78,4 +78,15 @@ When you create multiple VMs within an availability set, Azure distributes them 
 
 My next blog post will explore availability sets for VMs in detail.
 
+## Preemptive FAQs
+
+#### What about VM scale sets?
+
+[VM scale sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview) exist for horizontal scaling under load. In _**my**_ opinion, they have almost nothing to do with redundancies for high availability. So I'll be excluding them from this particular blog series. Perhaps I'll address them in a future series on horizontal & vertical scaling for Azure resources.
+
+#### Will I address high availability on Azure's government cloud?
+
+No. I know very little about Azure's government cloud. You're welcome to read the [documentation](https://docs.microsoft.com/en-in/azure/azure-government/) yourself.
+
+<br>
 _Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
