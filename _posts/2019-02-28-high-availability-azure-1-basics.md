@@ -6,13 +6,14 @@ comments: true
 _Note: This blog post is part 1 of a series centered around the topic of high availability in Azure:_
 
 * _Part 1: The basics (this post)_
-* _Part 2: Availability Sets for VMs (coming soon)_
-* _Part 3: Availability Zones (coming soon)_
-* _Part 4: Storage Redundancy (coming soon)_
-* _Part 5: Load balancers and traffic management (coming soon)_
-* _Part 6: SQL (coming soon)_
-* _Part 7: CosmosDB (coming soon)_
-* _Part 8: Wrapping up (coming soon)_
+* _Part 2: SLAs and the 9s (coming soon)_
+* _Part 3: Availability Sets for VMs (coming soon)_
+* _Part 4: Availability Zones (coming soon)_
+* _Part 5: Storage Redundancy (coming soon)_
+* _Part 6: Load balancers and traffic management (coming soon)_
+* _Part 7: SQL (coming soon)_
+* _Part 8: CosmosDB (coming soon)_
+* _Part 9: Wrapping up (coming soon)_
 
 _I'll not be addressing scaling (horizontal or vertical), backups/restores, resiliency/healing and disaster recovery in these posts. Each of those topics deserve their own series, perhaps I'll write about them in the future if time permits._
 

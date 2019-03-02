@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High Availability in Azure (Part 8): SLAs and the 9s"
+title: "High Availability in Azure (Part 9): Wrapping up"
 sitemap: false
 ---
 

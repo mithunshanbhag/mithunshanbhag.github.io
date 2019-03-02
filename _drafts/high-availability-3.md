@@ -1,66 +1,51 @@
 ---
 layout: post
-title: "High Availability in Azure (Part 3): Availability Zones"
+title: "High Availability in Azure (Part 3): Availability Sets for VMs"
 sitemap: false
 ---
 
-https://dzone.com/refcardz/scalability?chapter=1
+Higher SLA with av sets
 
-An Availability Zone in an Azure region is a combination of a fault domain and an update domain. For example, if you create three or more VMs across three zones in an Azure region, your VMs are effectively distributed across three fault domains and three update domains. The Azure platform recognizes this distribution across update domains to make sure that VMs in different zones are not updated at the same time.
+open-questions
+- relation of av sets to resource groups, regions etc 
+- powershell cmdlets?
+- vms need not be identical, but there are hardware size constraints
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-availability-sets#check-for-available-vm-sizes
+- azure advisor
+- av sets are free (no cost, you only pay for VMs used)
+- use of managed disks
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#storage-availability
+- fault domains for managed disks
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#managed-disk-fault-domains
+- managed availability sets?
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability?#use-managed-disks-for-vms-in-an-availability-set
+- changing availability sets
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/change-availability-set
+- vm reboots & maintenance & downtime
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability#understand-vm-reboots---maintenance-vs-downtime
+- scheduled events for maintenance windows
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability#use-scheduled-events-to-proactively-respond-to-vm-impacting-events
 
-To achieve comprehensive business continuity on Azure, build your application architecture using the combination of Availability Zones with Azure region pairs. You can synchronously replicate your applications and data using Availability Zones within an Azure region for high-availability and asynchronously replicate across Azure regions for disaster recovery protection.
-
-
-scale sets (and placement groups)
-site recovery
-
-https://azure.microsoft.com/en-in/features/resiliency/
-
-# Storage
-storage redundancy
-storage stamp
-https://azure.microsoft.com/en-us/global-infrastructure/availability-zones/
-
-https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=%2fazure%2fstorage%2fblobs%2ftoc.json
-https://docs.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=%2fazure%2fstorage%2fblobs%2ftoc.json
-https://docs.microsoft.com/en-us/azure/storage/common/storage-scalability-targets?toc=%2fazure%2fstorage%2fblobs%2ftoc.json
-https://docs.microsoft.com/en-us/azure/storage/common/storage-performance-checklist?toc=%2fazure%2fstorage%2fblobs%2ftoc.json
-
-
-https://cloud.netapp.com/blog/azure-storage-behind-the-scenes
-
-
-# databases
-failover
-replicas
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability
 
 
-# misc / web apps
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability
 
-azure application gateways
-azure load balancers
-azure traffic managers
-azure front door
-horizontal scaled instances (auto load-balanced)
+https://www.youtube.com/watch?v=ilXx0cmmGz0
+https://www.youtube.com/watch?v=hS2ZURILI50
+https://www.youtube.com/watch?v=7o5NeWjNoFQ
+https://www.youtube.com/watch?v=eyZELEeYA6o
+https://www.youtube.com/watch?v=PP02QxplC2E
 
-https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/multi-tier-app-disaster-recovery
-https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server#availability-considerations
 
-https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-load-balancing-azure
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/multi-region-sql-server
 
-# misc links
+https://azure.microsoft.com/en-in/solutions/architecture/build-high-availability-into-your-bcdr-strategy/
 
-RTO
-RPO
-active/active vs active/passive
+https://stackoverflow.com/a/49444606 (scale set vs availability sets)
 
-https://docs.microsoft.com/en-us/azure/architecture/checklist/resiliency
-https://docs.microsoft.com/en-us/azure/architecture/checklist/resiliency-per-service
-https://docs.microsoft.com/en-us/azure/architecture/checklist/availability
-https://docs.microsoft.com/en-us/azure/architecture/resiliency/
 
-https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/redundancy
+https://blogs.msdn.microsoft.com/plankytronixx/2015/05/01/azure-exam-prep-fault-domains-and-update-domains/
 
-https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions
-
-https://docs.microsoft.com/en-us/azure/architecture/resiliency/disaster-recovery-azure-applications
+https://kvaes.wordpress.com/2016/06/01/azure-availability-patterns-for-iaas-can-i-do-multiple-regions/
