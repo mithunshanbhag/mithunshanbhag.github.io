@@ -4,6 +4,33 @@ title: "High Availability in Azure (Part 3): Availability Sets for VMs"
 sitemap: false
 ---
 
+Concepts
+- storage stamp
+- storage scale unit
+  - A standard performance tier for storing blobs, files, tables, queues, and Azure virtual machine disks.
+  - A premium performance tier for storing unmanaged virtual machine disks only.
+
+<br>
+## FAQs
+
+**How to find the replication status for GRS and RA-GRS accounts?**
+https://docs.microsoft.com/en-us/dotnet/api/microsoft.windowsazure.storage.blob.cloudblobclient.getservicestats?view=azure-dotnet#Microsoft_WindowsAzure_Storage_Blob_CloudBlobClient_GetServiceStats_Microsoft_WindowsAzure_Storage_Blob_BlobRequestOptions_Microsoft_WindowsAzure_Storage_OperationContext_
+Last sync time?
+
+- FailOver
+- FailBack
+
+**Is it possible to switch between redundancy options?**
+
+**Does the storage account's chosen access tier (hot, cool, archive) have any bearing on high availability?** 
+
+- (no bearing on HA or SLA?) performance tiers: standard vs premium
+
+Special patterns for RA-GRS?
+
+
+
+
 Higher SLA with av sets
 
 open-questions

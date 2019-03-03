@@ -9,13 +9,13 @@ _Note: This blog post is part 1 of a series centered around the topic of high av
 * _Part 2: SLAs and the 9s (coming soon)_
 * _Part 3: Availability Sets for VMs (coming soon)_
 * _Part 4: Availability Zones (coming soon)_
-* _Part 5: Storage Redundancy (coming soon)_
+* _[Part 5: Storage redundancies]({{ site.baseurl }}{% post_url 2019-03-02-high-availability-azure-5-storage %})_
 * _Part 6: Load balancers and traffic management (coming soon)_
 * _Part 7: SQL (coming soon)_
 * _Part 8: CosmosDB (coming soon)_
 * _Part 9: Wrapping up (coming soon)_
 
-_I'll not be addressing scaling (horizontal or vertical), backups/restores, resiliency/healing and disaster recovery in these posts. Each of those topics deserve their own series, perhaps I'll write about them in the future if time permits._
+_I'll not be addressing scaling (horizontal or vertical), backups/restores and resiliency/healing in these posts. Each of those topics deserve their own series, perhaps I'll write about them in the future if time permits._
 
 -----
 
@@ -50,7 +50,7 @@ _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azur
 
 #### Availability Zone
 
-An [availability zone](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview) comprises of one or more datacenters. Each availability zone has its own distinct, independent infrastructure for power, cooling, and networking.
+An [availability zone](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview) comprises of one or more datacenters. Each availability zone has its own autonomous, independent infrastructure for power, cooling, and networking.
 
 The Azure resources that support availability zones are [listed here](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview#services-that-support-availability-zones). Please note that these Azure resources can be categorized as follows:
 
