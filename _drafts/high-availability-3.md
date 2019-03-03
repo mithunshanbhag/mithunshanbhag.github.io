@@ -15,6 +15,13 @@ Concepts
 
 **How to find the replication status for GRS and RA-GRS accounts?**
 https://docs.microsoft.com/en-us/dotnet/api/microsoft.windowsazure.storage.blob.cloudblobclient.getservicestats?view=azure-dotnet#Microsoft_WindowsAzure_Storage_Blob_CloudBlobClient_GetServiceStats_Microsoft_WindowsAzure_Storage_Blob_BlobRequestOptions_Microsoft_WindowsAzure_Storage_OperationContext_
+
+https://webcache.googleusercontent.com/search?q=cache:XwJms1G3mSsJ:https://alexandrebrisebois.wordpress.com/2016/02/21/get-last-sync-time-for-read-access-geo-redundant-azure-storage/+&cd=1&hl=en&ct=clnk&gl=in
+
+https://blogs.msdn.microsoft.com/windowsazurestorage/2013/12/11/windows-azure-storage-redundancy-options-and-read-access-geo-redundant-storage/
+
+https://www.powershellgallery.com/packages/PSAzureToolkit/1.0.1/Content/Public%5CGet-AzureRmStorageGeoReplicationStats.ps1
+
 Last sync time?
 
 - FailOver

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "High Availability in Azure (Part 5): Storage redundancies"
-sitemap: false
+comments: true
 ---
 _Note: This blog post is part 5 of a series centered around the topic of high availability in Azure:_
 
