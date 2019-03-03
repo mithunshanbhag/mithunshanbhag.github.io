@@ -9,7 +9,7 @@ _Note: This blog post is part 5 of a series centered around the topic of high av
 * _Part 2: SLAs and the 9s (coming soon)_
 * _Part 3: Availability Sets for VMs (coming soon)_
 * _Part 4: Availability Zones (coming soon)_
-* _Part 5: Storage redundancies (this post)_
+* _**Part 5: Storage redundancies (this post)**_
 * _Part 6: Load balancers and traffic management (coming soon)_
 * _Part 7: SQL (coming soon)_
 * _Part 8: CosmosDB (coming soon)_

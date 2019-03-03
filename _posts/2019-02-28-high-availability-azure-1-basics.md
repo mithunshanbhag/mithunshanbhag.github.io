@@ -5,7 +5,7 @@ comments: true
 ---
 _Note: This blog post is part 1 of a series centered around the topic of high availability in Azure:_
 
-* _Part 1: The basics (this post)_
+* _**Part 1: The basics (this post)**_
 * _Part 2: SLAs and the 9s (coming soon)_
 * _Part 3: Availability Sets for VMs (coming soon)_
 * _Part 4: Availability Zones (coming soon)_
