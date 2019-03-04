@@ -83,6 +83,8 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
   * **[FxCop](https://en.wikipedia.org/wiki/FxCop)**: Static analyzer for .Net code. Now superseded by [roslyn analyzers](https://docs.microsoft.com/en-us/visualstudio/code-quality/install-roslyn-analyzers?view=vs-2017).
 
+  * **CodeFlow**: An awesome code-review tool (microsoft internal-only) that allowed iterative code reviews (including carry-over of unresolved review comments). IMHO, till date, this was the only tool that got the code-review process right. There was some talk about integrating it with TFS/VSTS source control, but that never happened (not sure why).
+
 <br>**Windows administration tools**
 
   * **[Remote desktop connection](https://support.microsoft.com/en-in/help/17463/windows-7-connect-to-another-computer-remote-desktop-connection)**: Allows an admin to log into a remote Windows machine. Also known as mstsc (microsoft terminal services client).
