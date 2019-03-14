@@ -16,12 +16,14 @@ My curated list of awesome azure-related resources (this will be a living docume
 
 * azure resources
   * azure api management: [docs](https://docs.microsoft.com/en-us/azure/api-management/)
+  * azure application gateway: [docs](https://docs.microsoft.com/en-us/azure/application-gateway/)
   * azure app service: [docs](https://docs.microsoft.com/en-us/azure/app-service/)
   * azure cosmosdb: [docs](https://docs.microsoft.com/en-us/azure/cosmos-db/) \| [youtube](https://www.youtube.com/channel/UC9OJ32CzooNJNoP6_iIfxRw)
   * azure data factory: [docs](https://docs.microsoft.com/en-us/azure/data-factory/) \| [youtube](https://www.youtube.com/channel/UC2S0k7NeLcEm5_IhHUwpN0g)
-  * azure data lake: [docs (gen2)](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) \| [docs (gen1)](https://docs.microsoft.com/en-us/azure/data-lake-store/)
+  * azure data lake storage: [docs (gen2)](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) \| [docs (gen1)](https://docs.microsoft.com/en-us/azure/data-lake-store/)
   * azure dns: [docs](https://docs.microsoft.com/en-us/azure/dns/)
   * azure functions: [docs](https://docs.microsoft.com/en-us/azure/azure-functions/) \| [youtube](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg)
+  * azure load balancer: [docs](https://docs.microsoft.com/en-us/azure/load-balancer/)
   * azure resource manager: [docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
   * azure storage: [docs](https://docs.microsoft.com/en-us/azure/storage/)
   * azure virtual network: [docs](https://docs.microsoft.com/en-us/azure/virtual-network/)
