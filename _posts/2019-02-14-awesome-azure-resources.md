@@ -26,6 +26,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure load balancer: [docs](https://docs.microsoft.com/en-us/azure/load-balancer/)
   * azure resource manager: [docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
   * azure storage: [docs](https://docs.microsoft.com/en-us/azure/storage/)
+  * azure traffic manager: [docs](https://docs.microsoft.com/en-us/azure/traffic-manager/)
   * azure virtual network: [docs](https://docs.microsoft.com/en-us/azure/virtual-network/)
   * azure vpn gateway: [docs](https://docs.microsoft.com/en-us/azure/vpn-gateway/)
 
