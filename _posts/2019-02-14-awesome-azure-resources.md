@@ -49,8 +49,10 @@ My curated list of awesome azure-related resources (this will be a living docume
 * [azure support](https://azure.microsoft.com/en-us/support/community/)
   * [msdn forums](https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform)
   * [uservote feedback](https://feedback.azure.com/)
-  * You can also tweet at [@azuresupport](https://twitter.com/azuresupport) (they're pretty responsive)
   * [azure status](https://azure.microsoft.com/en-us/status/) \| [personalized status](https://portal.azure.com/#blade/Microsoft_Azure_Health/AzureHealthBrowseBlade)
+  * [twitter: @azuresupport](https://twitter.com/azuresupport) (they're pretty responsive)
+  * (unofficial) [reddit: /r/azure](https://www.reddit.com/r/azure)
+  * (unofficial) [slack: ask an azure architect](https://aka.ms/join-ask-azure)
 
 * misc youtube channels & channel9 shows
   * [microsoft azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA)
