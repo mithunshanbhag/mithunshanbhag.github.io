@@ -27,10 +27,9 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 
 [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/) routes a client's DNS query to an appropriate service endpoint, selected based on a combination of factors:
 
-* traffic routing rules (user selected)
+* traffic routing methods (user selected)
 * health of the endpoints (user configured probing/monitoring rules)
-* latency tables (internally maintained)
-* ip address to region maps (internally maintained)
+* latency tables (internally maintained map of ip address ranges to regions)
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works#how-clients-connect-using-traffic-manager)]_
 [![azure traffic manager internals](../../../images/10-azure-traffic-manager-dns.jpg)](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works#how-clients-connect-using-traffic-manager)
@@ -66,31 +65,33 @@ The official docs capture all the [traffic routing methods](https://docs.microso
 
 ### performance routing
 
-Use this when you need to route traffic to the service enpoint with lowest network latency.
-
-The Azure Traffic Manager maintains an internal "latency table", that maps the latencies of IP address ranges to various Azure Regions. Upon an incoming recursive DNS request, it looks up the client's IP address and detects the IP address range that it falls under. For that address range, it picks up an available service endpoint from an Azure region with the lowest possible latency. If multiple service endpoints are detected within the same Azure region, then the Azure Traffic Manager distributes traffic evenly across these available endpoints from that region.
-
 _([official docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods#performance-traffic-routing-method) \| [tutorial](https://docs.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-improve-website-response))_
 
+Use this when you need to route traffic to a service endpoint with the lowest network latency (as measured from the client IP address).
+
+The Azure Traffic Manager maintains an internal "latency table", that maps the latencies of IP address ranges to various Azure Regions. Upon an incoming recursive DNS request, it looks up the client's IP address and detects the IP address range that it falls under. For that address range, it picks up an available service endpoint from an Azure region with the lowest possible latency. If multiple service endpoints are detected within the same Azure region, then the Azure Traffic Manager distributes traffic evenly across them.
+
 ### priority routing
+
+_([official docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods#priority-traffic-routing-method) \| [tutorial](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-priority-routing-method))_
 
 Use this when you want to route all traffic to a primary endpoint (with a secondary on standby).
 
 All service endpoints are assigned a priority number (value between 1 and 1000 with 1 being highest priority and 1000 being lowest). The primary gets assigned the highest priority (i.e. lowest number) and as a result all traffic gets routed to it. If the primary's health degrades, all traffic gets routed to the secondary, which has the next highest priority. Manual fail-overs can be initiated by bumping the secondary to higher priority.
 
-_([official docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods#priority-traffic-routing-method) \| [tutorial](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-priority-routing-method))_
-
 ### weighted routing
+
+_([official docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods#weighted-traffic-routing-method) \| [tutorial](https://docs.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-weighted-endpoint-routing))_
 
 Use this when you need to do staggered roll-outs, blue/green deployments.
 
 All service endpoints are assigned a weight (value between 1 and 1000, 1 being lowest weight and 1000 being highest). The traffic manager will attempt to route traffic to available service endpoints based on weighted priorities.
 
-_Note: Weighted routing is different from priority routing mentioned above. In priority routing, only the highest priority endpoint is selected and others are ignored (until the highest priority endpoint's health degrades). With weighted routing, the traffic manager does route traffic to all endpoints, but uses the assigned weights to choose a specific endpoint on each incoming request._
-
-_([official docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods#weighted-traffic-routing-method) \| [tutorial](https://docs.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-weighted-endpoint-routing))_
+Note: Weighted routing is different from priority routing mentioned above. In priority routing, only the highest priority endpoint is selected and others are ignored (until the highest priority endpoint's health degrades). With weighted routing, the traffic manager does route traffic to all endpoints, but uses the assigned weights to choose a specific endpoint on each incoming request.
 
 ### geographic routing
+
+_([official docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods#geographic-traffic-routing-method) \| [tutorial](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-geographic-routing-method) \| [faqs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-faqs#traffic-manager-geographic-traffic-routing-method))_
 
 Use this when you need to geo-fence your users to specific regions/geographies (for data sovereignty reasons etc).
 
@@ -101,21 +102,19 @@ Per configuration, client requests will get serviced by endpoints from the speci
 * country
 * state (lowest granularity, only available for USA, Canada and Australia as of the time of writing this blog post).
 
-Lookup always starts from the lowest granularity goes to highest granularity and first match found is returned. 
-
-_([official docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods#geographic-traffic-routing-method) \| [tutorial](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-geographic-routing-method) \| [faqs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-faqs#traffic-manager-geographic-traffic-routing-method))_
+Lookup always starts from the lowest granularity goes to highest granularity and first match found is returned.
 
 ### subnet routing
 
-Use this when you need to map specific client IP address ranges to specifc service endpoints.
-
 _([official docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods#subnet-traffic-routing-method) \| [tutorial](https://docs.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-subnet-routing) \| [faqs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-faqs#traffic-manager-subnet-traffic-routing-method))_
+
+Use this when you need to map specific client IP address ranges to specific service endpoints.
 
 ### Multivalue routing
 
-Just mentioning it for completeness sake; I haven't actually used it ever.
-
 _([official docs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods#multivalue-traffic-routing-method) \| [faqs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-faqs#traffic-manager-multivalue-traffic-routing-method))_
+
+Just mentioning it for completeness sake; I haven't actually used it ever.
 
 <br>
 _That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
