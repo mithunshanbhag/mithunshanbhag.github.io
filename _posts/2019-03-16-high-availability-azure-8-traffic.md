@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High Availability in Azure (Part 6): Traffic management"
+title: "High Availability in Azure (Part 8): Traffic management"
 comments: true
 ---
 _Note: This blog post is part 8 of a series centered around the topic of high availability in Azure:_

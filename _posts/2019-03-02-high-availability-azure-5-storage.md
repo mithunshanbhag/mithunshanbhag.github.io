@@ -12,7 +12,7 @@ _Note: This blog post is part 5 of a series centered around the topic of high av
 * _**Part 5: Storage redundancies (this post)**_
 * _Part 6: Load balancing (coming soon)_
 * _Part 7: Application gateways (coming soon)_
-* _[Part 8: Traffic management]({{ site.baseurl }}{% post_url 2019-03-16-high-availability-azure-6-traffic %})_
+* _[Part 8: Traffic management]({{ site.baseurl }}{% post_url 2019-03-16-high-availability-azure-8-traffic %})_
 * _Part 9: SQL (coming soon)_
 * _Part 10: CosmosDB (coming soon)_
 * _Part 11: Wrapping up (coming soon)_
