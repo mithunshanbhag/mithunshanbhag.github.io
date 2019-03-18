@@ -41,6 +41,8 @@ Some scenarios that can be addressed with Azure Traffic Manager are:
 * always routing to specific regional endpoint for data sovereignty compliance.
 * enabling blue/green deployments with weighted routing.
 
+The [Azure Traffic Manager SLA](https://azure.microsoft.com/en-in/support/legal/sla/traffic-manager/v1_0/) is 99.99%.
+
 ## Things it is not (or does not do)
 
 * not a gateway or a proxy. Traffic between the client and the service endpoint does not pass through the traffic manager. Once the traffic manager points a client to a service endpoint, the client communicates with the endpoint directly.
