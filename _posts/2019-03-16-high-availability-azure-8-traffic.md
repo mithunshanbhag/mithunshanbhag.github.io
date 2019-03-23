@@ -13,7 +13,7 @@ _Note: This blog post is part 8 of a series centered around the topic of high av
 * _Part 6: Load balancing (coming soon)_
 * _Part 7: Application gateways (coming soon)_
 * _**Part 8: Traffic management (this post)**_
-* _[Part 9: App Service, Function Apps]({{ site.baseurl }}{% post_url 2019-03-22-high-availability-azure-9-apps %})_
+* _[Part 9: App Service, Function Apps]({{ site.baseurl }}{% post_url 2019-03-23-high-availability-azure-9-apps %})_
 * _Part 10: SQL (coming soon)_
 * _Part 11: CosmosDB (coming soon)_
 * _Part 12: Wrapping up (coming soon)_

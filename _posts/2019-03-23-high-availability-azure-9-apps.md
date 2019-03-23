@@ -55,13 +55,16 @@ The [SLA for Azure Functions](https://azure.microsoft.com/en-us/support/legal/sl
 
 As [I've previously mentioned](../../../2019/02/28/high-availability-azure-1-basics.html#what-about-vm-scale-sets), horizontal auto-scaling exists to address performance concerns rather than high-availability concerns.
 
-When horizontal auto-scaling is enabled on a parent App Service Plan, additional instances are created, and each instance hosts all App Service Apps contained in the parent App Service Plan. All instances are created in the same [WebSpace](#webspaces). The App Service's integrated load-balancer (non-accessible) manages the traffic. Note that all scaled out instances of an app will still have the same endpoint URL.
+_**App Service Apps**_: When horizontal auto-scaling is enabled on a parent App Service Plan, additional instances are created, and each instance hosts all App Service Apps contained in the parent App Service Plan. All instances are created in the same [WebSpace](#webspaces). The App Service's integrated load-balancer (non-accessible) manages the traffic. Note that all scaled out instances of an app will still have the same endpoint URL.
 
-Bonus:
+_**Function Apps**_: Based on a combination of factors (trigger types, rate of incoming requests, language/runtime and perhaps the [host health-monitor stats](https://github.com/Azure/azure-functions-host/wiki/Host-Health-Monitor)), the [scale controller](https://docs.microsoft.com/en-in/azure/azure-functions/functions-scale#runtime-scaling) will create additional instances of an Azure Function App (max limit of 200 instances). Note that the scaling unit is the Function App (host) itself and not individual functions.  
+
+Bonus reading:
 
 * Read more about the [scaling limits imposed on App Service Apps](https://docs.microsoft.com/en-in/azure/azure-subscription-service-limits#app-service-limits) based on [pricing tiers](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/).
 * Read more about [ARR affinity](https://stackoverflow.com/a/49651618) and [ARRAffinity cookies](https://azure.microsoft.com/en-in/blog/disabling-arrs-instance-affinity-in-windows-azure-web-sites/) for scaled out instances.
 * You can now enable [per-app horizontal scaling](https://docs.microsoft.com/en-us/azure/app-service/manage-scale-per-app). More details [in this blog post](https://markheath.net/post/per-app-scaling-app-service).
+* Read more about the [scaling behavior](https://docs.microsoft.com/en-in/azure/azure-functions/functions-scale#understanding-scaling-behaviors) of Function Apps.
 
 ### The "Always On" setting
 
