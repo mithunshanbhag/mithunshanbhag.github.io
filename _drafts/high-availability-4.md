@@ -48,6 +48,9 @@ https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastruct
 
 https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-load-balancing-azure
 
+https://azure.microsoft.com/en-us/blog/best-practices-windows-azure-websites-waws/
+https://docs.microsoft.com/en-us/azure/app-service/overview-compare
+
 # misc links
 
 RTO
