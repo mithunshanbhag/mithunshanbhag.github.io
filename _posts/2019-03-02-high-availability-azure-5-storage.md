@@ -7,7 +7,7 @@ _Note: This blog post is part 5 of a series centered around the topic of high av
 
 * _[Part 1: The basics]({{ site.baseurl }}{% post_url 2019-02-28-high-availability-azure-1-basics %})_
 * _Part 2: SLAs and the 9s (coming soon)_
-* _Part 3: Availability Sets for VMs (coming soon)_
+* _[Part 3: Availability Sets]({{ site.baseurl }}{% post_url 2019-03-29-high-availability-azure-3-availability-sets %})_
 * _Part 4: Availability Zones (coming soon)_
 * _**Part 5: Storage redundancies (this post)**_
 * _Part 6: Load balancing (coming soon)_
@@ -35,7 +35,7 @@ In Azure, the following entities are backed by Azure storage accounts: [blobs](h
 Hopefully this blog post will serve as a cheat-sheet and help you choose the right Azure storage redundancy options for your use cases.
 
 <br>
-## 1: LRS (locally-redundant storage)
+## LRS (locally-redundant storage)
 
 With [LRS](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy-lrs?toc=%2fazure%2fstorage%2fblobs%2ftoc.json), your data is replicated thrice across multiple [fault domains](../../../2019/02/28/high-availability-azure-1-basics#fault-domain-physical-server-rack) & [update domains](../../../2019/02/28/high-availability-azure-1-basics#update-domain) within a single storage scale unit (all within a single datacenter). Note that all three replicas are addressed by a single endpoint (i.e. you can't target individual replicas for read/write operations).
 
@@ -64,7 +64,7 @@ write requests (hot tier)|>= 99.9% (3 nines)
 write requests (cool tier)|>= 99% (2 nines)
 
 <br>
-## 2: ZRS (zone-redundant storage)
+## ZRS (zone-redundant storage)
 
 With [ZRS](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy-zrs?toc=%2fazure%2fstorage%2fblobs%2ftoc.json), your data is replicated across three availability zones within the same region (please note that currently not all regions support availability zones). As in the earlier case with LRS, all three replicas are addressed by a single endpoint.
 
@@ -94,7 +94,7 @@ write requests (hot tier)|>= 99.9% (3 nines)
 write requests (cool tier)|>= 99% (2 nines)
 
 <br>
-## 3: GRS (geo-redundant storage)
+## GRS (geo-redundant storage)
 
 With [GRS](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy-grs?toc=%2fazure%2fstorage%2fblobs%2ftoc.json), your data is replicated across two [paired-regions](../../../2019/02/28/high-availability-azure-1-basics#paired-regions) (within the same Azure geography) in a primary region + secondary region setup. This ensures that one regional replica will be available in the event of a regional disaster.
 
@@ -130,7 +130,7 @@ write requests (hot tier)|>= 99.9% (3 nines)
 write requests (cool tier)|>= 99% (2 nines)
 
 <br>
-## 4: RA-GRS (read-access geo-redundant storage)
+## RA-GRS (read-access geo-redundant storage)
 
 Same as GRS, but you always have read-only access to the secondary replica.
 

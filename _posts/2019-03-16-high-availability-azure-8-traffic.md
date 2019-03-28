@@ -7,7 +7,7 @@ _Note: This blog post is part 8 of a series centered around the topic of high av
 
 * _[Part 1: The basics]({{ site.baseurl }}{% post_url 2019-02-28-high-availability-azure-1-basics %})_
 * _Part 2: SLAs and the 9s (coming soon)_
-* _Part 3: Availability Sets for VMs (coming soon)_
+* _[Part 3: Availability Sets]({{ site.baseurl }}{% post_url 2019-03-29-high-availability-azure-3-availability-sets %})_
 * _Part 4: Availability Zones (coming soon)_
 * _[Part 5: Storage redundancies]({{ site.baseurl }}{% post_url 2019-03-02-high-availability-azure-5-storage %})_
 * _Part 6: Load balancing (coming soon)_

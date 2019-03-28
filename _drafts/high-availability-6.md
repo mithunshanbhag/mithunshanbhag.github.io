@@ -124,5 +124,17 @@ https://stackoverflow.com/a/49444606 (scale set vs availability sets)
 Not sure if this link below is actually useful (this article was written before AV zones were available)
 https://kvaes.wordpress.com/2016/06/01/azure-availability-patterns-for-iaas-can-i-do-multiple-regions/
 
+Next two links are redundant
+https://stackoverflow.com/a/46418623
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#managed-disk-fault-domains
+
+
+youtube videos on availability sets
+https://www.youtube.com/watch?v=ilXx0cmmGz0
+https://www.youtube.com/watch?v=hS2ZURILI50
+https://www.youtube.com/watch?v=7o5NeWjNoFQ
+https://www.youtube.com/watch?v=eyZELEeYA6o
+https://www.youtube.com/watch?v=PP02QxplC2E
+
 
 SLA for AV zones is higher than that of AV Sets: https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_8/
