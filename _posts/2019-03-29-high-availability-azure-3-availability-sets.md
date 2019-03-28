@@ -36,9 +36,7 @@ We've already discussed the concepts of [fault domains](https://docs.microsoft.c
 **UD3**|VM4|   |
 **UD4**|   |VM5|
 
-The [SLA for Azure VMs](https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_8/) guarantees that if an availability set has two or more VMs, then at least one VM will be available 99.95% of the time.
-
-Generally an [availability set is paired with a load balancer](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability#combine-a-load-balancer-with-availability-sets) for traffic equi-distribution amongst the VMs in that availability set.
+No two VMs in an availability set share the same fault & update domain. This ensures that there will be at least one available VM in the event of a planned maintenance (where an entire update domain is affected) or hardware failure (where an entire fault domain is affected). The [SLA for Azure VMs](https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_8/) guarantees that if an availability set has two or more VMs, then at least one VM will be available 99.95% of the time.
 
 Availability sets are free (you're only charged for the VMs placed in the availability sets).
 
@@ -63,6 +61,8 @@ Availability sets are free (you're only charged for the VMs placed in the availa
   * 5th VM: FD1, UD4
   * 6th VM: FD2, UD0
   * and so on...
+
+* Generally an [availability set is paired with a load balancer](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability#combine-a-load-balancer-with-availability-sets) for traffic equi-distribution amongst the VMs in that availability set.
 
 * Pro tip: To ensure redundancies in all tiers of your n-tier application, [each tier should be placed in a separate availability set](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability#configure-each-application-tier-into-separate-availability-sets).
 
