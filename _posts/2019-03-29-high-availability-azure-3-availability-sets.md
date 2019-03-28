@@ -3,7 +3,7 @@ layout: post
 title: "High Availability in Azure (Part 3): Availability Sets"
 comments: true
 ---
-_Note: This blog post is part 6 of a series centered around the topic of high availability in Azure:_
+_Note: This blog post is part 3 of a series centered around the topic of high availability in Azure:_
 
 * _[Part 1: The basics]({{ site.baseurl }}{% post_url 2019-02-28-high-availability-azure-1-basics %})_
 * _Part 2: SLAs and the 9s (coming soon)_
