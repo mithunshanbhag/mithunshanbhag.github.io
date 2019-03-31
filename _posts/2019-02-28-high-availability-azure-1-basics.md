@@ -57,8 +57,9 @@ An [availability zone](https://docs.microsoft.com/en-us/azure/availability-zones
 
 The Azure resources that support availability zones are [listed here](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview#services-that-support-availability-zones). Please note that these Azure resources can be categorized as follows:
 
-* _**zone-specific resources**_: Azure ensures that the resources are contained within a specific availability zone. VMs, managed disks and IP addresses fall in this category.
+* _**zone-specific (zonal) resources**_: Azure ensures that the resources are contained within a specific availability zone. VMs, managed disks and IP addresses fall in this category.
 * _**zone-redundant resources**_: Azure automatically replicates the resources across multiple availability zones. Zone-redundant storage accounts and SQL databases fall in this category.
+* _**non-zonal (regional) resources**_: Azure resource that are not supported by availability zones.
 
 I'll talk about availability zones in detail in a future blog post in this series.
 
