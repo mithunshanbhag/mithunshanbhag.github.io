@@ -4,6 +4,8 @@ title: "High Availability in Azure (Part 3): Availability Sets for VMs"
 sitemap: false
 ---
 
+https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/
+
 Concepts
 - storage stamp
 - storage scale unit
