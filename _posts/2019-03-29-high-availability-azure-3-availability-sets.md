@@ -38,7 +38,7 @@ We've already discussed the concepts of [fault domains](https://docs.microsoft.c
 
 No two VMs in an availability set share the same fault & update domain. This ensures that there will be at least one available VM in the event of a planned maintenance (where an entire update domain is affected) or hardware failure (where an entire fault domain is affected). The [SLA for Azure VMs](https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_8/) guarantees that if an availability set has two or more VMs, then at least one VM will be available 99.95% of the time.
 
-Availability sets are free (you're only charged for the VMs placed in the availability sets).
+Availability sets are free (you're only charged for the VMs and resources placed in the availability sets).
 
 ## Caveats, restrictions, gotchas & tidbits
 

@@ -137,4 +137,5 @@ https://www.youtube.com/watch?v=eyZELEeYA6o
 https://www.youtube.com/watch?v=PP02QxplC2E
 
 
-SLA for AV zones is higher than that of AV Sets: https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_8/
+VPN gateways
+https://docs.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway#can-i-changemigrateupgrade-my-existing-virtual-network-gateways-to-zone-redundant-or-zonal-gateways
