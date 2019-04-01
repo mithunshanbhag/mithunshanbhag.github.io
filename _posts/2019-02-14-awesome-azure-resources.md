@@ -67,4 +67,11 @@ My curated list of awesome azure-related resources (this will be a living docume
   * [azure blog](https://azure.microsoft.com/en-us/blog/)
   * [azure from the trenches](https://www.azurefromthetrenches.com/)
 
+* misc third-party tools
+  * azure vm comparison: [site1](https://azureprice.net/) \| [site2](https://www.vmchooser.com/)
+  * azure speed test: [site1](http://www.azurespeed.com/) \| [site2](https://azurespeedtest.azurewebsites.net/)
+
+* new to azure?
+  * [microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
+
 _Know of any more awesome azure-related resources that are worth sharing? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
