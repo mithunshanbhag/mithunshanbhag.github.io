@@ -11,6 +11,7 @@ My curated list of awesome azure-related resources (this will be a living docume
     * [cloud best practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/)
     * [example scenarios](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/)
     * [reference architectures](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
+    * [edx: architecting distributed cloud applications](https://www.edx.org/course/architecting-distributed-cloud-applications-2)
   * [azure solutions](https://azure.microsoft.com/en-in/solutions/)
     * [solutions architecture](https://azure.microsoft.com/en-in/solutions/architecture/)
 
