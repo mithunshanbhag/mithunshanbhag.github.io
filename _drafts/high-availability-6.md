@@ -7,10 +7,12 @@ sitemap: false
 https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/
 
 Concepts
-- storage stamp
-- storage scale unit
+- hardware cluster (compute cluster. storage cluster etc)
+- storage scale unit (storage stamps)
   - A standard performance tier for storing blobs, files, tables, queues, and Azure virtual machine disks.
   - A premium performance tier for storing unmanaged virtual machine disks only.
+
+A storage scale unit is a collection of racks of storage nodes.
 
 <br>
 ## FAQs
@@ -110,9 +112,6 @@ https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-ti
 
 https://azure.microsoft.com/en-in/solutions/architecture/build-high-availability-into-your-bcdr-strategy/
 
-things I still don't fully understand
-- storage scale unit (stamps)
-- hardware cluster (compute cluster. storage cluster etc)
 
 
 - vm reboots & maintenance & downtime

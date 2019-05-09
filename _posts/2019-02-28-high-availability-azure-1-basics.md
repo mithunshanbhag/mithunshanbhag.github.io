@@ -65,7 +65,7 @@ I'll talk about availability zones in detail in a future blog post in this serie
 
 #### Datacenter
 
-You can watch one of [Mark Russinovich](https://twitter.com/markrussinovich)'s excellent presentations ([link1](https://www.youtube.com/watch?v=D8hMu4jJAwo), [link2](https://www.youtube.com/watch?v=m7I8ANssACk) and [link3](https://www.youtube.com/watch?v=t3Vo37V9oU8)) to peek into what an Azure datacenter comprises of. Also you can take a [virtual tour](https://cloud-platform-assets.azurewebsites.net/datacenter/index.html) of an Azure datacenter.
+You can watch one of [Mark Russinovich](https://twitter.com/markrussinovich)'s excellent presentations ([link1](https://www.youtube.com/watch?v=D8hMu4jJAwo), [link2](https://www.youtube.com/watch?v=m7I8ANssACk), [link3](https://www.youtube.com/watch?v=t3Vo37V9oU8) and [link4](https://youtu.be/S2zguwKvlQk)) to peek into what an Azure datacenter comprises of. Also you can take a [virtual tour](https://cloud-platform-assets.azurewebsites.net/datacenter/index.html) of an Azure datacenter.
 
 #### Fault domain (physical server rack)
 
