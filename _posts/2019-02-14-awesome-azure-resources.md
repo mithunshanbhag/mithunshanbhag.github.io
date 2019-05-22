@@ -73,6 +73,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure speed test: [site1](http://www.azurespeed.com/) \| [site2](https://azurespeedtest.azurewebsites.net/)
 
 * new to azure?
+  * [azure glossary](https://docs.microsoft.com/en-us/azure/azure-glossary-cloud-terminology)
   * [microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
 
 _Know of any more awesome azure-related resources that are worth sharing? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
