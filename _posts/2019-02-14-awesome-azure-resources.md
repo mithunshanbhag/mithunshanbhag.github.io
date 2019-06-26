@@ -27,6 +27,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure functions: [docs](https://docs.microsoft.com/en-us/azure/azure-functions/) \| [youtube](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg)
   * azure load balancer: [docs](https://docs.microsoft.com/en-us/azure/load-balancer/)
   * azure migrate: [docs](https://docs.microsoft.com/en-us/azure/migrate/)
+  * azure policy: [docs](https://docs.microsoft.com/en-us/azure/governance/policy/)
   * azure resource manager: [docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
   * azure site recovery: [docs](https://docs.microsoft.com/en-us/azure/site-recovery/)
   * azure storage: [docs](https://docs.microsoft.com/en-us/azure/storage/)
