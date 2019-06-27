@@ -16,6 +16,7 @@ My curated list of awesome azure-related resources (this will be a living docume
     * [solutions architecture](https://azure.microsoft.com/en-in/solutions/architecture/)
 
 * azure resources
+  * azure advisor: [docs](https://docs.microsoft.com/en-in/azure/advisor/)
   * azure api management: [docs](https://docs.microsoft.com/en-us/azure/api-management/)
   * azure application gateway: [docs](https://docs.microsoft.com/en-us/azure/application-gateway/)
   * azure app service: [docs](https://docs.microsoft.com/en-us/azure/app-service/)
