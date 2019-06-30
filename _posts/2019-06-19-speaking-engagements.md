@@ -17,7 +17,7 @@ I often speak at meetup groups and tech conferences targeted at software develop
 
 * Internals of WSL (Windows Subsystem for Linux)
   * _[Slides](https://www.slideshare.net/mithunshanbhag/wsl-windows-subsytem-for-linux)_
-  * _[Jun 29, 2019](https://www.meetup.com/BangaloreITProUG/events/261867126/) \| [Bangalore IT Pro](https://www.meetup.com/BangaloreITProUG/) meetup group)_
+  * _[Jun 29, 2019](https://www.meetup.com/BangaloreITProUG/events/261867126/) \| [Bangalore IT Pro](https://www.meetup.com/BangaloreITProUG/) meetup group_
 * High Availability Architectures in Azure
   * _[Video](https://youtu.be/fVrOYv5pJag) \| [Slides](https://www.slideshare.net/mithunshanbhag/high-availability-architectures-in-azure-144951319)_
   * _[May 11, 2019](https://www.meetup.com/DotNetBLR/events/260241178/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
