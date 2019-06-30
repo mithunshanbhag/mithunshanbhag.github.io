@@ -8,13 +8,16 @@ I often speak at meetup groups and tech conferences targeted at software develop
 
 ## Upcoming Talks
 
-* Internals of WSL (Windows Subsystem for Linux)
-  * [Jun 29, 2019](https://www.meetup.com/BangaloreITProUG/events/261867126/) \| [Bangalore IT Pro](https://www.meetup.com/BangaloreITProUG/) meetup group
 * Design Patterns for Data Management
-  * [Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group
+  * _[Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
+* Authentication & Identity in Asp.Net Core
+  * _[Aug 10, 2019](https://www.meetup.com/DotNetBLR/events/262410498/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 
-## Past Talks
+## Previous Talks
 
+* Internals of WSL (Windows Subsystem for Linux)
+  * _[Slides](https://www.slideshare.net/mithunshanbhag/wsl-windows-subsytem-for-linux)_
+  * _[Jun 29, 2019](https://www.meetup.com/BangaloreITProUG/events/261867126/) \| [Bangalore IT Pro](https://www.meetup.com/BangaloreITProUG/) meetup group)_
 * High Availability Architectures in Azure
   * _[Video](https://youtu.be/fVrOYv5pJag) \| [Slides](https://www.slideshare.net/mithunshanbhag/high-availability-architectures-in-azure-144951319)_
   * _[May 11, 2019](https://www.meetup.com/DotNetBLR/events/260241178/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
