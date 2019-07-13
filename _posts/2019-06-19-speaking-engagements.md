@@ -8,13 +8,14 @@ I often speak at meetup groups and tech conferences targeted at software develop
 
 ## Upcoming Talks
 
-* Design Patterns for Data Management
-  * _[Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
 * Authentication & Identity in Asp.Net Core
   * _[Aug 10, 2019](https://www.meetup.com/DotNetBLR/events/262410498/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 
 ## Previous Talks
 
+* Design Patterns for Data Management & Consistency
+  * _[Slides](https://www.slideshare.net/mithunshanbhag/design-patterns-for-data-management-and-consistency)_
+  * _[Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
 * Internals of WSL (Windows Subsystem for Linux)
   * _[Slides](https://www.slideshare.net/mithunshanbhag/wsl-windows-subsytem-for-linux)_
   * _[Jun 29, 2019](https://www.meetup.com/BangaloreITProUG/events/261867126/) \| [Bangalore IT Pro](https://www.meetup.com/BangaloreITProUG/) meetup group_
