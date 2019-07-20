@@ -45,6 +45,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure rest apis: [docs](https://docs.microsoft.com/en-us/rest/api/?view=Azure)
   * azure sdk for .net: [docs](https://docs.microsoft.com/en-us/dotnet/api/overview/azure)
   * azure storage explorer: [docs](https://azure.microsoft.com/en-us/features/storage-explorer/) \| [github](https://github.com/Microsoft/AzureStorageExplorer)
+  * terraform on azure: [docs](https://docs.microsoft.com/en-us/azure/terraform/) \| [github](https://github.com/terraform-providers/terraform-provider-azurerm)
 
 * misc resources
   * azure billing & cost management: [docs](https://docs.microsoft.com/en-us/azure/billing/)

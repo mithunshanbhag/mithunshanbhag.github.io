@@ -10,6 +10,8 @@ I often speak at meetup groups and tech conferences targeted at software develop
 
 * Authentication & Identity in Asp.Net Core
   * _[Aug 10, 2019](https://www.meetup.com/DotNetBLR/events/262410498/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
+* Terraform on Azure
+  * _Aug 24, 2019 \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
 
 ## Previous Talks
 
