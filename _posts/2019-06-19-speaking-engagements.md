@@ -16,7 +16,7 @@ I often speak at meetup groups and tech conferences targeted at software develop
 ## Previous Talks
 
 * Design Patterns for Data Management & Consistency
-  * _[Slides](https://www.slideshare.net/mithunshanbhag/design-patterns-for-data-management-and-consistency)_
+  * _[Video](https://youtu.be/_nozzpKXeQ4) \| [Slides](https://www.slideshare.net/mithunshanbhag/design-patterns-for-data-management-and-consistency)_
   * _[Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
 * Internals of WSL (Windows Subsystem for Linux)
   * _[Slides](https://www.slideshare.net/mithunshanbhag/wsl-windows-subsytem-for-linux)_
