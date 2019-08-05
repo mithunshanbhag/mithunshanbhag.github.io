@@ -12,6 +12,8 @@ I often speak at meetup groups and tech conferences targeted at software develop
   * _[Aug 10, 2019](https://www.meetup.com/DotNetBLR/events/262410498/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 * Terraform on Azure
   * _[Aug 24, 2019](https://www.meetup.com/Microsoft-Azure-Bangalore/events/263353117/) \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
+* Azure Monitor & Kusto Query Language
+  * _Dec 7, 2019 \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
 
 ## Previous Talks
 
