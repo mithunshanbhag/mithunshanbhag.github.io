@@ -8,13 +8,14 @@ I often speak at meetup groups and tech conferences targeted at software develop
 
 ## Upcoming Talks
 
-* Authentication & Identity in Asp.Net Core
-  * _[Aug 10, 2019](https://www.meetup.com/DotNetBLR/events/262410498/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 * Terraform on Azure
   * _[Aug 24, 2019](https://www.meetup.com/Microsoft-Azure-Bangalore/events/263353117/) \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
 
 ## Previous Talks
 
+* Identity, AuthN & AuthZ with OpenID Connect & OAuth2
+  * _[Slides](https://www.slideshare.net/mithunshanbhag/identity-authentication-and-authorization) \| [Code Samples](https://github.com/mithunshanbhag/meetup-dotnetblr-08102019)_
+  * _[Aug 10, 2019](https://www.meetup.com/DotNetBLR/events/262410498/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 * Design Patterns for Data Management & Consistency
   * _[Slides](https://www.slideshare.net/mithunshanbhag/design-patterns-for-data-management-and-consistency)_
   * _[Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
