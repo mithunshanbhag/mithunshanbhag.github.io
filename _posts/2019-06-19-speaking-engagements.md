@@ -4,7 +4,9 @@ title: "Speaking Engagements"
 comments: true
 ---
 
-I often speak at meetup groups and tech conferences targeted at software developers and devops engineers. Just like my blog posts, my talks are mostly centered on open-source, cross-platform technologies driven by Microsoft _(.net core, asp.net core, azure cloud, powershell core, typescript etc)_.
+I often speak at meetup groups and tech conferences targeted at software developers and devops engineers. Just like my blog posts, my talks are mostly centered on open-source, cross-platform technologies driven by Microsoft _(.net core, asp.net core, azure cloud, powershell core, typescript etc)_. 
+
+Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mithunshanbhag/presentations).
 
 ## Upcoming Talks
 
@@ -16,7 +18,7 @@ I often speak at meetup groups and tech conferences targeted at software develop
 ## Previous Talks
 
 * Identity, AuthN & AuthZ with OpenID Connect & OAuth2
-  * _[Slides](https://www.slideshare.net/mithunshanbhag/identity-authentication-and-authorization) \| [Code Samples](https://github.com/mithunshanbhag/meetup-dotnetblr-08102019)_
+  * _[Slides](https://www.slideshare.net/mithunshanbhag/identity-authentication-and-authorization-162881351) \| [Code Samples](https://github.com/mithunshanbhag/meetup-dotnetblr-08102019)_
   * _[Aug 10, 2019](https://www.meetup.com/DotNetBLR/events/262410498/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 * Design Patterns for Data Management & Consistency
   * _[Video](https://youtu.be/_nozzpKXeQ4) \| [Slides](https://www.slideshare.net/mithunshanbhag/design-patterns-for-data-management-and-consistency)_
