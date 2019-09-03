@@ -10,8 +10,12 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
+* Workshop: Azure Devops with Angular & Node.js
+  * _Nov 23, 2019 \| Microsoft Bangalore_
 * Azure Monitor & Kusto Query Language
   * _Dec 7, 2019 \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
+* Workshop: Azure Devops with Angular & ASP.NET Core Web APIs
+  * _Dec 14, 2019 \| Microsoft Bangalore_
 
 ## Previous Talks
 
