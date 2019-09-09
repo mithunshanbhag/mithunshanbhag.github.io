@@ -10,8 +10,12 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
+* Workshop: Azure Devops with Angular & Node.js
+  * _Nov 23, 2019 \| Microsoft Bangalore_
 * Azure Monitor & Kusto Query Language
   * _Dec 7, 2019 \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
+* Workshop: Azure Devops with Angular & ASP.NET Core Web APIs
+  * _Dec 14, 2019 \| Microsoft Bangalore_
 
 ## Previous Talks
 
@@ -19,7 +23,7 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
   * _[Slides](https://www.slideshare.net/mithunshanbhag/terraform-on-azure-166063069) \| [Code Samples](https://github.com/mithunshanbhag/meetup-azureblr-08242019/)_
   * _[Aug 24, 2019](https://www.meetup.com/Microsoft-Azure-Bangalore/events/263353117/) \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
 * Identity, AuthN & AuthZ with OpenID Connect & OAuth2
-  * _[Slides](https://www.slideshare.net/mithunshanbhag/identity-authentication-and-authorization-162881351) \| [Code Samples](https://github.com/mithunshanbhag/meetup-dotnetblr-08102019)_
+  * _[Video](https://youtu.be/ejinvJkBuHI) \| [Slides](https://www.slideshare.net/mithunshanbhag/identity-authentication-and-authorization-162881351) \| [Code Samples](https://github.com/mithunshanbhag/meetup-dotnetblr-08102019)_
   * _[Aug 10, 2019](https://www.meetup.com/DotNetBLR/events/262410498/) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 * Design Patterns for Data Management & Consistency
   * _[Video](https://youtu.be/_nozzpKXeQ4) \| [Slides](https://www.slideshare.net/mithunshanbhag/design-patterns-for-data-management-and-consistency)_
