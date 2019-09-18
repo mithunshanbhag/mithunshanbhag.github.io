@@ -40,6 +40,8 @@ My curated list of awesome azure-related resources (this will be a living docume
 
 * azure apis, sdks & tools
   * azure cli: [docs](https://docs.microsoft.com/en-us/cli/azure/)
+  * azure cloud shell: [docs](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
+  * azure data studio: [docs](https://docs.microsoft.com/en-in/sql/azure-data-studio/what-is?view=sql-server-2017) \| [github](https://github.com/microsoft/azuredatastudio)
   * azure mobile app: [google play](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=en)
   * azure powershell: [docs](https://docs.microsoft.com/en-us/powershell/azure/) \| [github](https://github.com/Azure/azure-powershell)
   * azure rest apis: [docs](https://docs.microsoft.com/en-us/rest/api/?view=Azure)
