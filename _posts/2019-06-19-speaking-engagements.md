@@ -10,6 +10,8 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
+* WSL for .Net and Azure Developers
+  * _[Nov 9, 2019](https://www.meetup.com/DotNetBLR/events/264545071) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 * Workshop: Azure Devops with Angular & Node.js
   * _Nov 23, 2019 \| Microsoft Bangalore_
 * Azure Monitor & Kusto Query Language
