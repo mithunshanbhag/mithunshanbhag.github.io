@@ -57,6 +57,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure limits & quotas: [docs](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fguides%2fdeveloper%2ftoc.json)
   * azure icons, logos and symbols: [download](https://www.microsoft.com/en-in/download/details.aspx?id=41937)
   * azure pricing: [docs](https://azure.microsoft.com/en-us/pricing/) \| [calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+  * azure product updates: [link](https://azure.microsoft.com/en-us/updates/)
   * azure quickstart templates: [gallery](https://azure.microsoft.com/en-us/resources/templates/) \| [github](https://github.com/Azure/azure-quickstart-templates)
   * azure SLAs: [docs](https://azure.microsoft.com/en-us/support/legal/sla/) \| [summary](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
   * azure documentation sandbox: [link](https://docs.microsoft.com/en-us/sandbox/)
