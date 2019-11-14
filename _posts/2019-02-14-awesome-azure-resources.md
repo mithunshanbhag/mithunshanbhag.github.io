@@ -25,6 +25,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure cost management: [docs](https://docs.microsoft.com/en-in/azure/cost-management/) \| [youtube](https://www.youtube.com/c/AzureCostManagement)
   * azure data factory: [docs](https://docs.microsoft.com/en-us/azure/data-factory/) \| [youtube](https://www.youtube.com/channel/UC2S0k7NeLcEm5_IhHUwpN0g)
   * azure data lake storage: [docs (gen2)](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) \| [docs (gen1)](https://docs.microsoft.com/en-us/azure/data-lake-store/)
+  * azure devops: [see dedicated page here]({{ site.baseurl }}{% post_url 2019-11-14-awesome-azure-devops-resources %})
   * azure dns: [docs](https://docs.microsoft.com/en-us/azure/dns/)
   * azure functions: [docs](https://docs.microsoft.com/en-us/azure/azure-functions/) \| [youtube](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg)
   * azure load balancer: [docs](https://docs.microsoft.com/en-us/azure/load-balancer/)
@@ -47,26 +48,20 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure rest apis: [docs](https://docs.microsoft.com/en-us/rest/api/?view=Azure)
   * azure sdk for .net: [docs](https://docs.microsoft.com/en-us/dotnet/api/overview/azure)
   * azure storage explorer: [docs](https://azure.microsoft.com/en-us/features/storage-explorer/) \| [github](https://github.com/Microsoft/AzureStorageExplorer)
+  * marketplace extensions for vscode: [link](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
   * terraform on azure: [docs](https://docs.microsoft.com/en-us/azure/terraform/) \| [github](https://github.com/terraform-providers/terraform-provider-azurerm)
-
-* azure devops
-  * azure boards: [docs](https://docs.microsoft.com/en-us/azure/devops/boards)
-  * azure repos: [docs](https://docs.microsoft.com/en-us/azure/devops/repos)
-    * [branch policies](https://docs.microsoft.com/en-us/azure/devops/repos/git/branch-policies) \| [pr templates](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-request-templates) \| [auth overview](https://docs.microsoft.com/en-us/azure/devops/repos/git/auth-overview) \| [credentials manager](https://docs.microsoft.com/en-us/azure/devops/repos/git/set-up-credential-managers)
-  * azure pipelines: [docs](https://docs.microsoft.com/en-us/azure/devops/pipelines)
-    * [yaml schema](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema) \| [task reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks) \| [predefined variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables) \| [expressions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expressions) \| [hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted) \| [service connections](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints)
-  * azure artifacts: [docs](https://docs.microsoft.com/en-us/azure/devops/artifacts)
-  * azure test plans: [docs](https://docs.microsoft.com/en-us/azure/devops/test)
-  * marketplace extensions: [gallery](https://marketplace.visualstudio.com/azuredevops)
 
 * misc resources
   * azure billing & cost management: [docs](https://docs.microsoft.com/en-us/azure/billing/)
   * azure code samples: [gallery](https://azure.microsoft.com/en-us/resources/samples/?sort=0) \| [github](https://github.com/Azure-Samples)
   * azure limits & quotas: [docs](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fguides%2fdeveloper%2ftoc.json)
   * azure icons, logos and symbols: [download](https://www.microsoft.com/en-in/download/details.aspx?id=41937)
+  * azure pricing: [docs](https://azure.microsoft.com/en-us/pricing/) \| [calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
   * azure quickstart templates: [gallery](https://azure.microsoft.com/en-us/resources/templates/) \| [github](https://github.com/Azure/azure-quickstart-templates)
   * azure SLAs: [docs](https://azure.microsoft.com/en-us/support/legal/sla/) \| [summary](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
   * azure documentation sandbox: [link](https://docs.microsoft.com/en-us/sandbox/)
+  * (third-party) azure vm comparison: [site1](https://azureprice.net/) \| [site2](https://www.vmchooser.com/)
+  * (third-party) azure speed test: [site1](http://www.azurespeed.com/) \| [site2](https://azurespeedtest.azurewebsites.net/)
 
 * [azure support](https://azure.microsoft.com/en-us/support/community/)
   * [msdn forums](https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform)
@@ -76,11 +71,11 @@ My curated list of awesome azure-related resources (this will be a living docume
   * (unofficial) [reddit: /r/azure](https://www.reddit.com/r/azure)
   * (unofficial) [slack: ask an azure architect](https://aka.ms/join-ask-azure)
 
-* misc youtube channels & channel9 shows
-  * [microsoft azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA)
-  * [microsoft cloud](https://www.youtube.com/channel/UCSgzRJMqIiCNtoM6Q7Q9Lqw)
-  * [microsoft developer](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
-  * [azure friday](https://channel9.msdn.com/Shows/Azure-Friday)
+* videos
+  * [microsoft azure (youtube channel)](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA)
+  * [microsoft cloud (youtube channel)](https://www.youtube.com/channel/UCSgzRJMqIiCNtoM6Q7Q9Lqw)
+  * [microsoft developer (youtube channel)](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g)
+  * [azure friday (channel9 show)](https://channel9.msdn.com/Shows/Azure-Friday)
 
 * blogs
   * [azure blog](https://azure.microsoft.com/en-us/blog/)
@@ -89,10 +84,6 @@ My curated list of awesome azure-related resources (this will be a living docume
 * podcasts
   * [the azure podcast](http://azpodcast.azurewebsites.net/)
   * [azure ninjas](https://www.azureninjas.cloud/)
-
-* misc third-party tools
-  * azure vm comparison: [site1](https://azureprice.net/) \| [site2](https://www.vmchooser.com/)
-  * azure speed test: [site1](http://www.azurespeed.com/) \| [site2](https://azurespeedtest.azurewebsites.net/)
 
 * new to azure?
   * [azure glossary](https://docs.microsoft.com/en-us/azure/azure-glossary-cloud-terminology)
