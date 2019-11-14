@@ -49,6 +49,16 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure storage explorer: [docs](https://azure.microsoft.com/en-us/features/storage-explorer/) \| [github](https://github.com/Microsoft/AzureStorageExplorer)
   * terraform on azure: [docs](https://docs.microsoft.com/en-us/azure/terraform/) \| [github](https://github.com/terraform-providers/terraform-provider-azurerm)
 
+* azure devops
+  * azure boards: [docs](https://docs.microsoft.com/en-us/azure/devops/boards)
+  * azure repos: [docs](https://docs.microsoft.com/en-us/azure/devops/repos)
+    * [branch policies](https://docs.microsoft.com/en-us/azure/devops/repos/git/branch-policies) \| [pr templates](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-request-templates) \| [auth overview](https://docs.microsoft.com/en-us/azure/devops/repos/git/auth-overview) \| [credentials manager](https://docs.microsoft.com/en-us/azure/devops/repos/git/set-up-credential-managers)
+  * azure pipelines: [docs](https://docs.microsoft.com/en-us/azure/devops/pipelines)
+    * [yaml schema](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema) \| [task reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks) \| [predefined variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables) \| [expressions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expressions) \| [hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted) \| [service connections](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints)
+  * azure artifacts: [docs](https://docs.microsoft.com/en-us/azure/devops/artifacts)
+  * azure test plans: [docs](https://docs.microsoft.com/en-us/azure/devops/test)
+  * marketplace extensions: [gallery](https://marketplace.visualstudio.com/azuredevops)
+
 * misc resources
   * azure billing & cost management: [docs](https://docs.microsoft.com/en-us/azure/billing/)
   * azure code samples: [gallery](https://azure.microsoft.com/en-us/resources/samples/?sort=0) \| [github](https://github.com/Azure-Samples)
