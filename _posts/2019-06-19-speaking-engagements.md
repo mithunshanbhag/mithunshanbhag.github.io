@@ -10,12 +10,8 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
-* WSL for .Net and Azure Developers
-  * _[Nov 9, 2019](https://www.meetup.com/DotNetBLR/events/264545071) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 * Workshop: Azure Devops with Angular & Node.js
   * _Nov 23, 2019 \| Microsoft Bangalore_
-* Azure Monitor & Kusto Query Language
-  * _Dec 7, 2019 \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
 * Terraform on Azure
   * _Dec 8, 2019 \| [Azure Advent Calendar (online event)](https://azureadventcalendar.com/)_
 * Workshop: Azure Devops with Angular & ASP.NET Core Web APIs
@@ -34,6 +30,7 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
   * _[Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
 * Internals of WSL (Windows Subsystem for Linux)
   * _[Slides](https://www.slideshare.net/mithunshanbhag/wsl-windows-subsytem-for-linux)_
+  * _[Nov 9, 2019](https://www.meetup.com/DotNetBLR/events/264545071) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
   * _[Jun 29, 2019](https://www.meetup.com/BangaloreITProUG/events/261867126/) \| [Bangalore IT Pro](https://www.meetup.com/BangaloreITProUG/) meetup group_
 * High Availability Architectures in Azure
   * _[Video](https://youtu.be/fVrOYv5pJag) \| [Slides](https://www.slideshare.net/mithunshanbhag/high-availability-architectures-in-azure-144951319)_
