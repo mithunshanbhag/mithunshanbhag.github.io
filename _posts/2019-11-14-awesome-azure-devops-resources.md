@@ -28,6 +28,7 @@ My curated list of awesome resources related to azure devops (this will be a liv
 
 * azure devops apis, sdks & tools
   * azure devops cli (extensions for azure cli): [link](https://marketplace.visualstudio.com/items?itemName=ms-vsts.cli) \| [github](https://github.com/Azure/azure-devops-cli-extension)
+  * azure devops extensibility (developing marketplace extensions & tasks): [link](https://docs.microsoft.com/en-us/azure/devops/marketplace-extensibility/)
   * azure devops rest apis: [link](https://docs.microsoft.com/en-us/rest/api/azure/devops) \| [alternate link](https://docs.microsoft.com/en-us/rest/api/?view=Azure%20DevOps)
   * marketplace extensions for azure devops: [link](https://marketplace.visualstudio.com/azuredevops)
   * marketplace extensions for vscode: [link](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
