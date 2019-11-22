@@ -13,6 +13,7 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 * Workshop: Azure Devops with Angular & Node.js
   * _Nov 23, 2019 \| Microsoft Bangalore_
 * Terraform on Azure
+  * _[Dec 7, 2019](https://www.meetup.com/CloudOps-Meetup-Bangalore/events/266384457/) \| [Azure Developers Day at EY (Cloud Computing & DevOps Meetup Bangalore)](https://www.meetup.com/CloudOps-Meetup-Bangalore)_
   * _Dec 8, 2019 \| [Azure Advent Calendar (online event)](https://azureadventcalendar.com/)_
 * Workshop: Azure Devops with Angular & ASP.NET Core Web APIs
   * _Dec 14, 2019 \| Microsoft Bangalore_
