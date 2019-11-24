@@ -54,13 +54,14 @@ My curated list of awesome azure-related resources (this will be a living docume
 * misc resources
   * azure billing & cost management: [docs](https://docs.microsoft.com/en-us/azure/billing/)
   * azure code samples: [gallery](https://azure.microsoft.com/en-us/resources/samples/?sort=0) \| [github](https://github.com/Azure-Samples)
+  * azure documentation sandbox: [link](https://docs.microsoft.com/en-us/sandbox/)
   * azure limits & quotas: [docs](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fguides%2fdeveloper%2ftoc.json)
   * azure icons, logos and symbols: [download](https://www.microsoft.com/en-in/download/details.aspx?id=41937)
   * azure pricing: [docs](https://azure.microsoft.com/en-us/pricing/) \| [calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
   * azure product updates: [link](https://azure.microsoft.com/en-us/updates/)
   * azure quickstart templates: [gallery](https://azure.microsoft.com/en-us/resources/templates/) \| [github](https://github.com/Azure/azure-quickstart-templates)
+  * azure resource center: [link](https://azure.microsoft.com/en-us/resources/)
   * azure SLAs: [docs](https://azure.microsoft.com/en-us/support/legal/sla/) \| [summary](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
-  * azure documentation sandbox: [link](https://docs.microsoft.com/en-us/sandbox/)
   * (third-party) azure vm comparison: [site1](https://azureprice.net/) \| [site2](https://www.vmchooser.com/)
   * (third-party) azure speed test: [site1](http://www.azurespeed.com/) \| [site2](https://azurespeedtest.azurewebsites.net/)
   * (third-party) azure heat map: [link](https://azurecharts.com/)
@@ -90,7 +91,9 @@ My curated list of awesome azure-related resources (this will be a living docume
 
 * new to azure?
   * [azure glossary](https://docs.microsoft.com/en-us/azure/azure-glossary-cloud-terminology)
-  * [microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
+  * [azure events](https://azure.microsoft.com/en-us/community/events/)
   * [azure tips-n-tricks](http://azuredev.tips/)
+  * [microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
+  * [microsoft source (newsletter)](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/)
 
 _Know of any more awesome azure-related resources that are worth sharing? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
