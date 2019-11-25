@@ -22,7 +22,7 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
   * _[Slides](https://www.slideshare.net/mithunshanbhag/azure-pipelines) \| [Wiki](https://dev.azure.com/mithunshanbhag/workshop-node/_wiki/wikis/workshop%20wiki/1/README) \| Code Samples ([Angular](https://dev.azure.com/mithunshanbhag/workshop-node/_git/workshop-angular) \| [NodeJS](https://dev.azure.com/mithunshanbhag/_git/workshop-node))_
   * _[Nov 23, 2019](https://www.meetup.com/CloudOps-Meetup-Bangalore/events/266428816/) \| [Microsoft Event](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x8163959abcd&ls=Website&lsd=AzureWebsite)_
 * Terraform on Azure
-  * _[Slides](https://www.slideshare.net/mithunshanbhag/terraform-on-azure-166063069) \| [Code Samples](https://github.com/mithunshanbhag/meetup-azureblr-08242019/)_
+  * _[Video](https://youtu.be/ibuHDIwrry8) \| [Slides](https://www.slideshare.net/mithunshanbhag/terraform-on-azure-166063069) \| [Code Samples](https://github.com/mithunshanbhag/meetup-azureblr-08242019/)_
   * _[Aug 24, 2019](https://www.meetup.com/Microsoft-Azure-Bangalore/events/263353117/) \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
 * Identity, AuthN & AuthZ with OpenID Connect & OAuth2
   * _[Video](https://youtu.be/ejinvJkBuHI) \| [Slides](https://www.slideshare.net/mithunshanbhag/identity-authentication-and-authorization-162881351) \| [Code Samples](https://github.com/mithunshanbhag/meetup-dotnetblr-08102019)_
@@ -31,7 +31,7 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
   * _[Video](https://youtu.be/_nozzpKXeQ4) \| [Slides](https://www.slideshare.net/mithunshanbhag/design-patterns-for-data-management-and-consistency)_
   * _[Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
 * Internals of WSL (Windows Subsystem for Linux)
-  * _[Slides](https://www.slideshare.net/mithunshanbhag/wsl-windows-subsytem-for-linux)_
+  * _[Video](https://youtu.be/I0b5Bef_NtI) \| [Slides](https://www.slideshare.net/mithunshanbhag/wsl-windows-subsytem-for-linux)_
   * _[Nov 9, 2019](https://www.meetup.com/DotNetBLR/events/264545071) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
   * _[Jun 29, 2019](https://www.meetup.com/BangaloreITProUG/events/261867126/) \| [Bangalore IT Pro](https://www.meetup.com/BangaloreITProUG/) meetup group_
 * High Availability Architectures in Azure
