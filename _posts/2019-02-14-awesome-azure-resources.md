@@ -46,7 +46,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure mobile app: [google play](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=en)
   * azure powershell: [docs](https://docs.microsoft.com/en-us/powershell/azure/) \| [github](https://github.com/Azure/azure-powershell)
   * azure rest apis: [docs](https://docs.microsoft.com/en-us/rest/api/?view=Azure)
-  * azure sdk for .net: [docs](https://docs.microsoft.com/en-us/dotnet/api/overview/azure)
+  * azure sdk for .net: [docs](https://docs.microsoft.com/en-us/dotnet/api/overview/azure) \| [fluent api concepts](https://docs.microsoft.com/en-us/dotnet/azure/dotnet-sdk-azure-concepts)
   * azure storage explorer: [docs](https://azure.microsoft.com/en-us/features/storage-explorer/) \| [github](https://github.com/Microsoft/AzureStorageExplorer)
   * marketplace extensions for vscode: [link](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
   * terraform on azure: [docs](https://docs.microsoft.com/en-us/azure/terraform/) \| [github](https://github.com/terraform-providers/terraform-provider-azurerm)
