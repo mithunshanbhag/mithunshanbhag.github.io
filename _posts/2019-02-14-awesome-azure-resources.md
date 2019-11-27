@@ -60,6 +60,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure pricing: [docs](https://azure.microsoft.com/en-us/pricing/) \| [calculator](https://azure.microsoft.com/en-us/pricing/calculator/) \| [tco calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
   * azure product updates: [link](https://azure.microsoft.com/en-us/updates/)
   * azure quickstart templates: [gallery](https://azure.microsoft.com/en-us/resources/templates/) \| [github](https://github.com/Azure/azure-quickstart-templates)
+  * azure resource availability by region: [link](https://azure.microsoft.com/en-us/global-infrastructure/services/)
   * azure resource center: [link](https://azure.microsoft.com/en-us/resources/)
   * azure SLAs: [docs](https://azure.microsoft.com/en-us/support/legal/sla/) \| [summary](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
   * (third-party) azure vm comparison: [site1](https://azureprice.net/) \| [site2](https://www.vmchooser.com/)
