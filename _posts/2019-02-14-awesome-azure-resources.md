@@ -84,6 +84,7 @@ My curated list of awesome azure-related resources (this will be a living docume
 
 * blogs
   * [azure blog](https://azure.microsoft.com/en-us/blog/)
+  * [azure blog (on dev.to)](https://dev.to/azure)
   * [azure from the trenches](https://www.azurefromthetrenches.com/)
 
 * podcasts
