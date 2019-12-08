@@ -10,8 +10,6 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
-* Terraform on Azure
-  * _Dec 8, 2019 \| [Azure Advent Calendar (online event)](https://azureadventcalendar.com/)_
 * Workshop: Azure Devops with Angular & ASP.NET Core Web APIs
   * _Dec 14, 2019 \| Microsoft Bangalore_
 
@@ -21,7 +19,8 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
   * _[Slides](https://www.slideshare.net/mithunshanbhag/azure-pipelines) \| [Wiki](https://dev.azure.com/mithunshanbhag/workshop-node/_wiki/wikis/workshop%20wiki/1/README) \| Code Samples ([Angular](https://dev.azure.com/mithunshanbhag/workshop-node/_git/workshop-angular) \| [NodeJS](https://dev.azure.com/mithunshanbhag/_git/workshop-node))_
   * _[Nov 23, 2019](https://www.meetup.com/CloudOps-Meetup-Bangalore/events/266428816/) \| [Microsoft Event](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x8163959abcd&ls=Website&lsd=AzureWebsite)_
 * Terraform on Azure
-  * _[Video](https://youtu.be/ibuHDIwrry8) \| [Slides](https://www.slideshare.net/mithunshanbhag/terraform-on-azure-166063069) \| [Code Samples](https://github.com/mithunshanbhag/meetup-azureblr-08242019/)_
+  * _[Video1](https://youtu.be/oHMei2-CUkY) \| [Video2](https://youtu.be/ibuHDIwrry8) \| [Slides](https://www.slideshare.net/mithunshanbhag/terraform-on-azure-166063069) \| [Code Samples](https://github.com/mithunshanbhag/meetup-azureblr-08242019/)_
+  * _Dec 8, 2019 \| [Azure Advent Calendar (online event)](https://azureadventcalendar.com/)_
   * _[Dec 7, 2019](https://www.meetup.com/CloudOps-Meetup-Bangalore/events/266384457/) \| [Azure Developers Day at EY (Cloud Computing & DevOps Meetup Bangalore)](https://www.meetup.com/CloudOps-Meetup-Bangalore)_
   * _[Aug 24, 2019](https://www.meetup.com/Microsoft-Azure-Bangalore/events/263353117/) \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
 * Identity, AuthN & AuthZ with OpenID Connect & OAuth2
