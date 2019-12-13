@@ -56,7 +56,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * azure code samples: [gallery](https://azure.microsoft.com/en-us/resources/samples/?sort=0) \| [github](https://github.com/Azure-Samples)
   * azure documentation sandbox: [link](https://docs.microsoft.com/en-us/sandbox/)
   * azure limits & quotas: [docs](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits?toc=%2fazure%2fguides%2fdeveloper%2ftoc.json)
-  * azure icons, logos and symbols: [download](https://www.microsoft.com/en-in/download/details.aspx?id=41937)
+  * azure icons, logos and symbols: [download](https://www.microsoft.com/en-in/download/details.aspx?id=41937) \| [more](https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/)
   * azure pricing: [docs](https://azure.microsoft.com/en-us/pricing/) \| [calculator](https://azure.microsoft.com/en-us/pricing/calculator/) \| [tco calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
   * azure product updates: [link](https://azure.microsoft.com/en-us/updates/)
   * azure quickstart templates: [gallery](https://azure.microsoft.com/en-us/resources/templates/) \| [github](https://github.com/Azure/azure-quickstart-templates)
@@ -84,6 +84,7 @@ My curated list of awesome azure-related resources (this will be a living docume
 
 * blogs
   * [azure blog](https://azure.microsoft.com/en-us/blog/)
+  * [azure blog (on dev.to)](https://dev.to/azure)
   * [azure from the trenches](https://www.azurefromthetrenches.com/)
 
 * podcasts
