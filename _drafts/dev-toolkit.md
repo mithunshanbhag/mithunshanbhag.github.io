@@ -51,14 +51,6 @@ Serverless.
 * **[SendGrid](@todo)**: @todo
 * **[Twilio](@todo)**: @todo
 
-## DevOps related
-* **[Git](@todo)**: @todo
-* **[GitHub](@todo)**: @todo
-* **[Azure DevOps](@todo)**: Formerly known as VSTS. 
-  * **[Azure Repos](@todo)**: @todo
-  * **[Azure Pipelines](@todo)**: @todo
-  * **[Azure Boards](@todo)**: @todo
-
 ## Testing utilities
 * **[Fiddler](@todo)**: @todo
 * **[Postman](@todo)**: @todo
