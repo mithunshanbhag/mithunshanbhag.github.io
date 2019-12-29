@@ -10,11 +10,13 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
-* Workshop: Azure Devops with Angular & ASP.NET Core Web APIs
-  * _Dec 14, 2019 \| Microsoft Bangalore_
+* TBA
 
 ## Previous Talks
 
+* WorkShop: Azure DevOps for DotNetCore Developers
+  * _[Slides](https://www.slideshare.net/mithunshanbhag/azure-pipelines) \| [Wiki](https://dev.azure.com/mithunshanbhag/workshop-node/_wiki/wikis/workshop%20wiki/1/README) \| Code Samples ([Blazor](https://dev.azure.com/mithunshanbhag/workshop-node/_git/workshop-blazorwasm) \| [Asp.Net Core](https://dev.azure.com/mithunshanbhag/workshop-node/_git/workshop-dotnetcore) \| [Asp.Net Core on Docker](https://dev.azure.com/mithunshanbhag/workshop-node/_git/workshop-dotnetcoredocker))_
+  * _[Dec 14, 2019](https://www.meetup.com/CloudOps-Meetup-Bangalore/events/267080729/) \| [Microsoft Event](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x8183225abcd)_
 * WorkShop: Azure DevOps for NodeJS Developers
   * _[Slides](https://www.slideshare.net/mithunshanbhag/azure-pipelines) \| [Wiki](https://dev.azure.com/mithunshanbhag/workshop-node/_wiki/wikis/workshop%20wiki/1/README) \| Code Samples ([Angular](https://dev.azure.com/mithunshanbhag/workshop-node/_git/workshop-angular) \| [NodeJS](https://dev.azure.com/mithunshanbhag/_git/workshop-node))_
   * _[Nov 23, 2019](https://www.meetup.com/CloudOps-Meetup-Bangalore/events/266428816/) \| [Microsoft Event](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x8163959abcd&ls=Website&lsd=AzureWebsite)_
