@@ -67,6 +67,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * (third-party) azure speed test: [site1](http://www.azurespeed.com/) \| [site2](https://azurespeedtest.azurewebsites.net/)
   * (third-party) azure heat map: [link](https://azurecharts.com/)
   * (third-party) azure icons and stencils: [site1](https://github.com/David-Summers/Azure-Design) \| [site2](https://code.benco.io/icon-collection/azure-patterns/) \| [site3](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio)
+  * (third-party) azure service map: [site](https://nnmer.github.io/azure-services-map/dist/) \| [github](https://github.com/nnmer/azure-services-map)
 
 * [azure support](https://azure.microsoft.com/en-us/support/community/)
   * [msdn forums](https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform)
