@@ -10,10 +10,14 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
-* TBA
+* Architecture Deep-Dive: CloudSkew.com
+  * _Mar 6, 2020 \| [Namma Cloud Conference](https://www.ncc.konfhub.com/)_
 
 ## Previous Talks
 
+* Architecture Deep-Dive: CloudSkew.com
+  * _[Slides](https://www.slideshare.net/mithunshanbhag/cloudskew-architecture)_ \| [Video](https://youtu.be/b0FMTwO0olc)
+  * _[Feb 8, 2020](https://www.meetup.com/SoftwareArchitectsBangalore/events/267425357/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
 * WorkShop: Azure DevOps for DotNetCore Developers
   * _[Slides](https://www.slideshare.net/mithunshanbhag/azure-pipelines) \| [Wiki](https://dev.azure.com/mithunshanbhag/workshop-node/_wiki/wikis/workshop%20wiki/1/README) \| Code Samples ([Blazor](https://dev.azure.com/mithunshanbhag/workshop-node/_git/workshop-blazorwasm) \| [Asp.Net Core](https://dev.azure.com/mithunshanbhag/workshop-node/_git/workshop-dotnetcore) \| [Asp.Net Core on Docker](https://dev.azure.com/mithunshanbhag/workshop-node/_git/workshop-dotnetcoredocker))_
   * _[Dec 14, 2019](https://www.meetup.com/CloudOps-Meetup-Bangalore/events/267080729/) \| [Microsoft Event](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x8183225abcd)_
