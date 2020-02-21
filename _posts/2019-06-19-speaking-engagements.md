@@ -11,6 +11,7 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 ## Upcoming Talks
 
 * Architecture Deep-Dive: CloudSkew.com
+  * _[Feb 22, 2020](https://www.meetup.com/BDotNetUG/events/268474571/) \| [Bangalore Dotnet (BDotnet)](https://www.meetup.com/BDotNetUG) meetup group_
   * _Mar 6, 2020 \| [Namma Cloud Conference](https://www.ncc.konfhub.com/)_
 
 ## Previous Talks
