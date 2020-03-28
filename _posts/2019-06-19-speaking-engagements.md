@@ -10,8 +10,7 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
-* Architecture Deep-Dive: CloudSkew.com
-  * _Mar 6, 2020 \| [Namma Cloud Conference](https://www.ncc.konfhub.com/)_
+* TBA _(I've cancelled all my speaking engagements for the months of March and April on account of the Covid19 situation)_.
 
 ## Previous Talks
 
