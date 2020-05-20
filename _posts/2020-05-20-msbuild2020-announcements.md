@@ -6,6 +6,18 @@ comments: true
 
 I had so much fun viewing the [MSBuild 2020 Virtual Conference](https://mybuild.microsoft.com/). Tons of amazing new products & features were announced over three days; here are a few that I'm personally excited about (ordered alphabetically):
 
+## Azure DevOps: Multi-Stage YAML CD Pipelines
+
+In addition to CI, the multi-stage YAML pipelines now also support CD. You can now use [deployment jobs](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops) to target your deployments at specific [environments](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/environments?view=azure-devops) (dev, test, staging, production etc).
+
+![multi-stage yaml cd pipeline](../../../images/28-multistage-cd-pipeline.png)
+
+By using environments it is also possible to define the [checks & approvals](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/approvals?view=azure-devops&tabs=check-pass) that need to be fulfilled for the deployment to start.
+
+[Read the full details](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update-for-2020-q2/).
+
+_____
+
 ## CodeSpaces
 
 I've been using [VS CodeSpaces](https://docs.microsoft.com/en-us/visualstudio/online/overview/what-is-vsonline) for a while now as my dev machine in the cloud. You can access your VS CodeSpace environments via [VSCode (remote extension)](https://code.visualstudio.com/docs/remote/codespaces), Visual Studio 2019 or via the [Cloud-based IDE](https://online.visualstudio.com/).
@@ -15,6 +27,8 @@ Using a [devcontainer.json file](https://docs.microsoft.com/en-us/visualstudio/o
 Initially branded as VS Online, the product was then renamed to VS CodeSpaces. Currently it is in private preview.
 
 [Github CodeSpaces](https://github.com/features/codespaces/) (which uses VS CodeSpaces underneath the covers) allows you to spin up a dev environment on the fly directly from a github project.
+
+Read the full details [here](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/) and [here](https://devblogs.microsoft.com/visualstudio/expanding-visual-studio-2019-support-for-visual-studio-codespaces/).
 
 _____
 
