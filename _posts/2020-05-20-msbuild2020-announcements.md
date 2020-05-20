@@ -14,7 +14,7 @@ In addition to CI, the multi-stage YAML pipelines now also support CD. You can n
 
 By using environments it is also possible to define the [checks & approvals](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/approvals?view=azure-devops&tabs=check-pass) that need to be fulfilled for the deployment to start.
 
-[Read the full details](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update-for-2020-q2/).
+_[Read the full details](https://devblogs.microsoft.com/devops/azure-devops-roadmap-update-for-2020-q2/)_.
 
 _____
 
@@ -28,7 +28,7 @@ Initially branded as VS Online, the product was then renamed to VS CodeSpaces. C
 
 [Github CodeSpaces](https://github.com/features/codespaces/) (which uses VS CodeSpaces underneath the covers) allows you to spin up a dev environment on the fly directly from a github project.
 
-Read the full details [here](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/) and [here](https://devblogs.microsoft.com/visualstudio/expanding-visual-studio-2019-support-for-visual-studio-codespaces/).
+_Read the full details [here](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/) and [here](https://devblogs.microsoft.com/visualstudio/expanding-visual-studio-2019-support-for-visual-studio-codespaces/)_.
 
 _____
 
@@ -50,7 +50,7 @@ _____
 
 Windows Terminal steps out of preview mode and into it's official (v1.0) release.
 
-[Read the full details](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)
+_[Read the full details](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)_.
 
 _____
 
@@ -68,7 +68,9 @@ _____
 
 VSCode Settings Sync will link your VSCode preferences/settings with your Microsoft or Github account. You can now sync your VSCode settings across multiple machines just by signing into VSCode. Works even on VS CodeSpaces' browser IDE.
 
-Currently this feature is in preview and available on VSCode Insider builds. [More details](https://code.visualstudio.com/docs/editor/settings-sync).
+Currently this feature is in preview and available on VSCode Insider builds.
+
+_[Read the full details](https://code.visualstudio.com/docs/editor/settings-sync)_.
 
 _____
 
