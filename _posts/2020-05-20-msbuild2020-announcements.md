@@ -4,7 +4,7 @@ title:  MSBuild2020 announcements that I'm excited about
 comments: true
 ---
 
-Tons of amazing products & features were announced at [MSBuild 2020](https://mybuild.microsoft.com/); here are a few that I'm personally excited about (ordered alphabetically):
+I had so much fun viewing the [MSBuild 2020 Virtual Conference](https://mybuild.microsoft.com/). Tons of amazing new products & features were announced over three days; here are a few that I'm personally excited about (ordered alphabetically):
 
 ## CodeSpaces
 
@@ -34,7 +34,7 @@ _____
 
 ## Windows Terminal: 1.0 release
 
-Windows Terminal steps out of preview mode and into it's official (1.0) release.
+Windows Terminal steps out of preview mode and into it's official (v1.0) release.
 
 [Read the full details](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)
 
