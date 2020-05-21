@@ -32,6 +32,14 @@ _Read the full details [here](https://devblogs.microsoft.com/visualstudio/introd
 
 _____
 
+## Service Bus Explorer: Now in Azure Portal
+
+A Service Bus Explorer is now built into the Azure Portal itself. You can use it to send, receive and peek messages on your service bus. You no longer have to download and install the [standalone tool](https://github.com/paolosalvatori/ServiceBusExplorer).
+
+![service bus explorer](../../../images/29-service-bus-explorer.png)
+
+_____
+
 ## Windows PowerToys: New utilities added
 
 In addition to the previously available [FancyZones](https://github.com/microsoft/PowerToys/tree/master/src/modules/fancyzones) and [Keyboard Shortcut Guide](https://github.com/microsoft/PowerToys/tree/master/src/modules/shortcut_guide), Windows PowerToys now has a bunch of new utilities baked-in:
