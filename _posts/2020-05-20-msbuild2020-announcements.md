@@ -24,11 +24,19 @@ _[Read the full details](https://devblogs.microsoft.com/devops/azure-devops-road
 
 _____
 
-## Azure Event Grid: Partner Topics, App Service Events
+## Azure Event Grid: Partner Topics, App Service Events, Managed Identity Support
+
+If you're using Auth0 as your identity provider, you can hook up its log stream to Azure event grid as a partner (3rd party) topic. More partners will be unveiled in the coming months.
 
 ![event grid partner topic](../../../images/30-event-grid-partner-topics.png)
 
-@todo
+Also you can now subscribe to multiple App Service events via an event grid subscription. This is great for customized health checks.
+
+![app service events](../../../images/31-app-service-events.png)
+
+Finally, Event Grid topics & domains now support system assigned managed identity.
+
+_Read the full details [here](https://azure.microsoft.com/en-in/updates/azure-event-grid-partner-topics-are-now-in-preview/), [here](https://azure.microsoft.com/en-in/updates/app-service-is-now-an-events-publisher-on-azure-event-grid-in-preview/) and [here](https://azure.microsoft.com/en-in/updates/azure-event-grid-support-for-system-assigned-managed-identities-is-now-in-preview/)._
 
 _____
 
@@ -132,7 +140,7 @@ _____
 
 ## WSL2: GUI Apps, GPU Workloads
 
-In addition to command line apps, you can now look forward to running GUI apps on WSL2 in the coming days! Underneath the covers there is a built-in Wayland display server on Linux talking to a RDP client on Windows.
+In addition to command line apps, you can now look forward to running GUI apps on WSL2 in the coming months! Underneath the covers there is a built-in Wayland display server on Linux talking to a RDP client on Windows.
 
 _[Read the full details](https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary/)._
 
