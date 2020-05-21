@@ -18,6 +18,36 @@ _[Read the full details](https://devblogs.microsoft.com/devops/azure-devops-road
 
 _____
 
+## Azure Event Grid: Partner Topics, App Service Events
+
+![event grid partner topic](../../../images/30-event-grid-partner-topics.png)
+
+_____
+
+## Azure Functions: Official PowerShell Module
+
+There's now an official PowerShell module `AZ.Functions` to manage Azure Functions. You can [download it from the PowerShell gallery](https://www.powershellgallery.com/packages/Az.Functions/1.0.0) or just run `Install-Module -Name Az.Functions` in a PS console.
+
+_____
+
+## Azure Private Link: Support for Multiple Services
+
+Azure Private Link is now available for multiple Azure services like Event Hubs, Service Bus, Container Registry, Event Grid and Cognitive Search.
+
+_[Read the full details](https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/)._
+
+_____
+
+## Azure Service Bus: Explorer in Portal, Large Message Support
+
+A Service Bus Explorer is now built into the Azure Portal itself. You can use it to send, receive and peek messages on your service bus. You no longer have to download and install the [standalone tool](https://github.com/paolosalvatori/ServiceBusExplorer).
+
+![service bus explorer](../../../images/29-service-bus-explorer.png)
+
+Additionally, support for large messages (up to 100 MB) has been announced.
+
+_____
+
 ## CodeSpaces
 
 I've been using [VS CodeSpaces](https://docs.microsoft.com/en-us/visualstudio/online/overview/what-is-vsonline) for a while now as my dev machine in the cloud. You can access your VS CodeSpace environments via [VSCode (remote extension)](https://code.visualstudio.com/docs/remote/codespaces), Visual Studio 2019 or via the [Cloud-based IDE](https://online.visualstudio.com/).
@@ -32,17 +62,7 @@ _Read the full details [here](https://devblogs.microsoft.com/visualstudio/introd
 
 _____
 
-## Service Bus: Explorer in Portal, Large Messages
-
-A Service Bus Explorer is now built into the Azure Portal itself. You can use it to send, receive and peek messages on your service bus. You no longer have to download and install the [standalone tool](https://github.com/paolosalvatori/ServiceBusExplorer).
-
-![service bus explorer](../../../images/29-service-bus-explorer.png)
-
-Additionally, support for large messages (upto 100 MB) has been announced.
-
-_____
-
-## Windows PowerToys: New utilities added
+## Windows PowerToys: New Utilities Added
 
 In addition to the previously available [FancyZones](https://github.com/microsoft/PowerToys/tree/master/src/modules/fancyzones) and [Keyboard Shortcut Guide](https://github.com/microsoft/PowerToys/tree/master/src/modules/shortcut_guide), Windows PowerToys now has a bunch of new utilities baked-in:
 
@@ -56,7 +76,7 @@ In addition to the previously available [FancyZones](https://github.com/microsof
 
 _____
 
-## Windows Terminal: 1.0 release
+## Windows Terminal: 1.0 Release
 
 Windows Terminal steps out of preview mode and into it's official (v1.0) release.
 
@@ -84,7 +104,7 @@ _[Read the full details](https://code.visualstudio.com/docs/editor/settings-sync
 
 _____
 
-## WSL2: GUI apps, GPU workloads
+## WSL2: GUI Apps, GPU Workloads
 
 In addition to command line apps, you can now look forward to running GUI apps on WSL2 in the coming days!
 
