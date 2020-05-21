@@ -32,11 +32,13 @@ _Read the full details [here](https://devblogs.microsoft.com/visualstudio/introd
 
 _____
 
-## Service Bus Explorer: Now in Azure Portal
+## Service Bus: Explorer in Portal, Large Messages
 
 A Service Bus Explorer is now built into the Azure Portal itself. You can use it to send, receive and peek messages on your service bus. You no longer have to download and install the [standalone tool](https://github.com/paolosalvatori/ServiceBusExplorer).
 
 ![service bus explorer](../../../images/29-service-bus-explorer.png)
+
+Additionally, support for large messages (upto 100 MB) has been announced.
 
 _____
 
