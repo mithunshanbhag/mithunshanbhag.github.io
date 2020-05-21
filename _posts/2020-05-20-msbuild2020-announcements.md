@@ -6,9 +6,26 @@ comments: true
 
 I had so much fun viewing the [MSBuild 2020 Virtual Conference](https://mybuild.microsoft.com/). Tons of amazing new products & features were announced over three days; here are a few that I'm personally excited about (ordered alphabetically):
 
-## Azure CosmosDB
+## Azure CosmosDB: Tons of Announcements
 
-@todo
+Jupyter notebooks can now be [enabled on CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/enable-notebooks) for facilitating [analysis & visualization of the stored data](https://docs.microsoft.com/en-us/azure/cosmos-db/use-python-notebook-features-and-commands).
+
+![cosmosdb jupyter notebook support](../../../images/32-cosmosdb-jupyter-notebooks.png)
+
+CosmosDB now supports encrypting its data at rest with [customer-managed keys](https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-setup-cmk).
+
+![customer managed keys](../../../images/33-cosmosdb-cmk.png)
+
+@todo: autoscaling. Use the following five article below for reference:
+https://docs.microsoft.com/en-us/azure/cosmos-db/provision-throughput-autoscale
+https://azure.microsoft.com/en-in/updates/autoscale-provisioned-throughput-for-azure-cosmos-db/
+https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-provision-autoscale-throughput?tabs=api-async
+https://azure.microsoft.com/en-us/pricing/details/cosmos-db/
+https://azure.microsoft.com/en-us/blog/build-apps-of-any-size-or-scale-with-azure-cosmos-db/
+
+CosmosDB will also introduce a new Serverless SKU in the coming months. This will be ideal for apps dealing with intermittent traffic spikes/bursts.
+
+And in case you still haven't heard, CosmosDB recently introduced a free tier!
 
 _____
 
@@ -67,12 +84,6 @@ A Service Bus Explorer is now built into the Azure Portal itself. You can use it
 ![service bus explorer](../../../images/29-service-bus-explorer.png)
 
 Additionally, support for large messages (up to 100 MB) has been announced.
-
-_____
-
-## Azure SQL
-
-@todo
 
 _____
 
