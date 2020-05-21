@@ -6,6 +6,12 @@ comments: true
 
 I had so much fun viewing the [MSBuild 2020 Virtual Conference](https://mybuild.microsoft.com/). Tons of amazing new products & features were announced over three days; here are a few that I'm personally excited about (ordered alphabetically):
 
+## Azure CosmosDB
+
+@todo
+
+_____
+
 ## Azure DevOps: Multi-Stage YAML CD Pipelines
 
 In addition to CI, the multi-stage YAML pipelines now also support CD. You can now use [deployment jobs](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/deployment-jobs?view=azure-devops) to target your deployments at specific [environments](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/environments?view=azure-devops) (dev, test, staging, production etc).
@@ -21,6 +27,14 @@ _____
 ## Azure Event Grid: Partner Topics, App Service Events
 
 ![event grid partner topic](../../../images/30-event-grid-partner-topics.png)
+
+@todo
+
+_____
+
+## Azure Monitor: Tons of Announcements
+
+@todo
 
 _____
 
@@ -45,6 +59,18 @@ A Service Bus Explorer is now built into the Azure Portal itself. You can use it
 ![service bus explorer](../../../images/29-service-bus-explorer.png)
 
 Additionally, support for large messages (up to 100 MB) has been announced.
+
+_____
+
+## Azure SQL
+
+@todo
+
+_____
+
+## C# and .Net
+
+@todo
 
 _____
 
@@ -84,7 +110,7 @@ _[Read the full details](https://devblogs.microsoft.com/commandline/windows-term
 
 _____
 
-## WinGet
+## WinGet: New Package Manager For Windows
 
 Windows has a new "apt-get" styled package manager: [WinGet](https://devblogs.microsoft.com/commandline/windows-package-manager-preview/) _(currently in preview)_
 
@@ -106,7 +132,7 @@ _____
 
 ## WSL2: GUI Apps, GPU Workloads
 
-In addition to command line apps, you can now look forward to running GUI apps on WSL2 in the coming days!
+In addition to command line apps, you can now look forward to running GUI apps on WSL2 in the coming days! Underneath the covers there is a built-in Wayland display server on Linux talking to a RDP client on Windows.
 
 _[Read the full details](https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary/)._
 
