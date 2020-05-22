@@ -52,28 +52,43 @@ _____
 
 #### Partner topics
 
-If you're using Auth0 as your identity provider, you can hook up its log stream to Azure event grid as a partner (3rd party) topic. More partners will be unveiled in the coming months.
+If you're using Auth0 as your identity provider, you can hook up its log stream to Azure event grid as a [partner (3rd party) topic](https://azure.microsoft.com/en-in/updates/azure-event-grid-partner-topics-are-now-in-preview/). More partners will be unveiled in the coming months.
 
 ![event grid partner topic](../../../images/30-event-grid-partner-topics.png)
 
-#### AppService events
+#### App Service events
 
-Also you can now subscribe to multiple App Service events via an event grid subscription. This is great for customized health checks.
+Also you can now subscribe to multiple [App Service events via an event grid subscription](https://azure.microsoft.com/en-in/updates/app-service-is-now-an-events-publisher-on-azure-event-grid-in-preview/). This is great for customized health checks.
 
 ![app service events](../../../images/31-app-service-events.png)
 
 #### Managed Identity support
 
-Finally, Event Grid topics & domains now support system assigned managed identity.
-
-_Read the full details [here](https://azure.microsoft.com/en-in/updates/azure-event-grid-partner-topics-are-now-in-preview/), [here](https://azure.microsoft.com/en-in/updates/app-service-is-now-an-events-publisher-on-azure-event-grid-in-preview/) and [here](https://azure.microsoft.com/en-in/updates/azure-event-grid-support-for-system-assigned-managed-identities-is-now-in-preview/)._
+Finally, Event Grid topics & domains [now support system assigned managed identity](https://azure.microsoft.com/en-in/updates/azure-event-grid-support-for-system-assigned-managed-identities-is-now-in-preview/).
 
 _____
 
-## Azure Monitor: Tons of Announcements
+## Azure Monitor
 
 The Azure Monitor team had way too many awesome announcements! Below are some of the ones that caught my eye.
 
+#### App Insights now integrated with Log Workspaces
+
+You can now [direct your application insights logs to a Log Analytics Workspace](https://docs.microsoft.com/en-us/azure/azure-monitor/app/create-workspace-resource). This helps unify all the APM and infra logs in one centralized location.
+
+![application insights log workspaces](../../../images/34-appinsights-logworkspace.png)
+
+#### Insights for multiple Azure resources
+
+Insights for [Storage](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/storage-insights-overview) and [CosmosDB](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/cosmosdb-insights-overview) is now GA. Support for [Key Vault](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/key-vaults-insights-overview) and [Azure cache for Redis](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/redis-cache-insights-overview) is now in preview.
+
+#### Customer-managed encryption keys 
+
+You can now [encrypt your Log Analysis Workspace data with your own keys](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/customer-managed-keys). Inclues support for key revocation & rotation.
+
+#### Change analysis support
+
+This feature helps you [diff configuration changes to Azure resources](https://docs.microsoft.com/en-us/azure/azure-monitor/app/change-analysis) over a selected time range. Great for detecting drifts.
 
 _____
 
@@ -89,9 +104,7 @@ _____
 
 #### Support for multiple services
 
-Azure Private Link is now available for multiple Azure services like Event Hubs, Service Bus, Container Registry, Event Grid and Cognitive Search.
-
-_[Read the full details](https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/)._
+Azure Private Link is [now available for multiple Azure services](https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/) like Event Hubs, Service Bus, Container Registry, Event Grid and Cognitive Search.
 
 _____
 
@@ -106,12 +119,6 @@ A Service Bus Explorer is now built into the Azure Portal itself. You can use it
 #### Large message support
 
 Additionally, support for large messages (up to 100 MB) has been announced.
-
-_____
-
-## C# and .Net
-
-@todo
 
 _____
 
@@ -192,3 +199,7 @@ In addition to command line apps, you can now look forward to running GUI apps o
 _[Read the full details](https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary/)._
 
 _____
+
+I still haven't caught up with all the updates from the C# and .Net teams (I should perhaps do another separate post for that when I'm done).
+
+_That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
