@@ -82,9 +82,9 @@ You can now [direct your application insights logs to a Log Analytics Workspace]
 
 Insights for [Storage](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/storage-insights-overview) and [CosmosDB](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/cosmosdb-insights-overview) is now GA. Support for [Key Vault](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/key-vaults-insights-overview) and [Azure cache for Redis](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/redis-cache-insights-overview) is now in preview.
 
-#### Customer-managed encryption keys 
+#### Customer-managed encryption keys
 
-You can now [encrypt your Log Analysis Workspace data with your own keys](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/customer-managed-keys). Inclues support for key revocation & rotation.
+You can now [encrypt your Log Analysis Workspace data with your own keys](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/customer-managed-keys). Includes support for key revocation & rotation.
 
 #### Change analysis support
 

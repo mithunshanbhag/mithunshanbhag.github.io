@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
+        "appinsights",
         "architecting",
+        "autoscaled",
         "azuresupport",
         "blazor",
         "cloudskew",
@@ -9,6 +11,7 @@
         "devops",
         "dotfiles",
         "jupyter",
+        "logworkspace",
         "namma",
         "powertoys",
         "quickstart",
@@ -16,6 +19,7 @@
         "sdks",
         "slas",
         "slideshare",
+        "tmax",
         "uservote",
         "winget",
         "youtube"
