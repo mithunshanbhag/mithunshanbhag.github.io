@@ -14,8 +14,11 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Previous Talks
 
+* Lightning Talk:  My experience building CloudSkew (browser-based, real-time, online diagram editor)
+  * _[Video (skip to 3:49:00 for my presentation)](https://youtu.be/_dZwMidN9wY?t=13741)_
+  * _June 17, 2020 \| [Cloud Community Days](https://ccdays.konfhub.com/)_
 * Architecture Deep-Dive: CloudSkew.com
-  * _[Slides](https://www.slideshare.net/mithunshanbhag/cloudskew-architecture)_ \| [Video](https://youtu.be/b0FMTwO0olc)
+  * _[Slides](https://www.slideshare.net/mithunshanbhag/cloudskew-architecture) \| [Video](https://youtu.be/b0FMTwO0olc)_
   * _[Feb 22, 2020](https://www.meetup.com/BDotNetUG/events/268474571/) \| [Bangalore Dotnet (BDotnet)](https://www.meetup.com/BDotNetUG) meetup group_
   * _[Feb 8, 2020](https://www.meetup.com/SoftwareArchitectsBangalore/events/267425357/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
 * WorkShop: Azure DevOps for DotNetCore Developers
