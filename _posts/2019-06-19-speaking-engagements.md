@@ -10,13 +10,16 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
-* TBA _(I've cancelled all my speaking engagements for the months of March and April on account of the Covid19 situation)_.
+* How I built cloudskew.com on Azure
+  * _Jul 14, 2020 \| [Cloud Lunch and Learn (online event)](https://www.youtube.com/channel/UCHZeZzSlTtmfgPozIq8J2Kw)_
+* Azure Happy Hours: Data Stores On Azure
+  * _Jul 24, 2020 \| [Microsoft Reactor Bangalore (online event)](https://www.meetup.com/Microsoft-Reactor-Bangalore/)_
 
 ## Previous Talks
 
 * Lightning Talk:  My experience building CloudSkew (browser-based, real-time, online diagram editor)
   * _[Video (skip to 3:49:00 for my presentation)](https://youtu.be/_dZwMidN9wY?t=13741)_
-  * _June 17, 2020 \| [Cloud Community Days](https://ccdays.konfhub.com/)_
+  * _June 17, 2020 \| [Cloud Community Days (online event)](https://ccdays.konfhub.com/)_
 * Architecture Deep-Dive: CloudSkew.com
   * _[Slides](https://www.slideshare.net/mithunshanbhag/cloudskew-architecture) \| [Video](https://youtu.be/b0FMTwO0olc)_
   * _[Feb 22, 2020](https://www.meetup.com/BDotNetUG/events/268474571/) \| [Bangalore Dotnet (BDotnet)](https://www.meetup.com/BDotNetUG) meetup group_
