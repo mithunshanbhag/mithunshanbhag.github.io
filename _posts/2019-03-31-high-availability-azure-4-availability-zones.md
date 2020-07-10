@@ -24,7 +24,7 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 
 ## Azure Availability Zones
 
-![azure availability zones](../../../images/02-azure-availability-zones.jpg)
+![azure availability zones](https://assets.cloudskew.com/assets/blog/images/02-azure-availability-zones.jpg)
 
 In the [opening post of this blog series](../../../2019/02/28/high-availability-azure-1-basics#availability-zone) we talked about availability zones and how resources can be classified as zone-redundant, zonal (zone-specific) or non-zonal (regional). If you haven't seen that post, please take a minute to do so.
 
@@ -51,7 +51,7 @@ Only a few Azure resource types support availability zones (we're highlighting a
 ## Availability Sets vs Availability Zones
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/architecture/resiliency/)]_
-[![availability zone vs availability set](../../../images/24-azure-avset-vs-avzone.jpg)](https://docs.microsoft.com/en-us/azure/architecture/resiliency/)
+[![availability zone vs availability set](https://assets.cloudskew.com/assets/blog/images/24-azure-avset-vs-avzone.jpg)](https://docs.microsoft.com/en-us/azure/architecture/resiliency/)
 
 * Availability sets provide redundancies within a datacenter, while availability zones provide redundancies within a region. The former shields you against hardware failures in a physical rack, while the latter shields you against a datacenter-level disaster.
 
@@ -74,7 +74,7 @@ _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azur
   * A zonal VM can only attach to a public IP address that is zone-redundant or zonal (i.e. standard sku only. Basic skus don't have zonal support).
   * A zonal VM can only attach a managed disk from the same availability zone. A non-zonal VM can however attach any managed disk from the same region, irrespective of whether it's zonal or not.
   * It's not possible for a zonal VM to use unmanaged disks.
-![vm in availability zone must use managed disks](../../../images/23-azure-availability-zone-managed-disk.jpg)
+![vm in availability zone must use managed disks](https://assets.cloudskew.com/assets/blog/images/23-azure-availability-zone-managed-disk.jpg)
 
 * Pro tip: [Pair zonal VMs with a zone-redundant load balancer (standard sku)](https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zone-redundant-portal) for traffic equi-distribution amongst the VMs in that availability zone. All the zonal VMs must be connected to the same VNET.
 

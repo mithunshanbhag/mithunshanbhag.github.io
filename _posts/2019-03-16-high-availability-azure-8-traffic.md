@@ -24,7 +24,7 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 
 ## Azure Traffic Manager
 
-![azure storage account](../../../images/08-azure-traffic-manager.png)
+![azure storage account](https://assets.cloudskew.com/assets/blog/images/08-azure-traffic-manager.png)
 
 [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/) routes a client's DNS query to an appropriate service endpoint, selected based on a combination of factors:
 
@@ -33,7 +33,7 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 * latency tables (internally maintained map of ip address ranges to regions)
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works#how-clients-connect-using-traffic-manager)]_
-[![azure traffic manager internals](../../../images/10-azure-traffic-manager-dns.jpg)](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works#how-clients-connect-using-traffic-manager)
+[![azure traffic manager internals](https://assets.cloudskew.com/assets/blog/images/10-azure-traffic-manager-dns.jpg)](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works#how-clients-connect-using-traffic-manager)
 
 Some scenarios that can be addressed with Azure Traffic Manager are:
 
@@ -58,13 +58,13 @@ The [Azure Traffic Manager SLA](https://azure.microsoft.com/en-in/support/legal/
 Azure Traffic Manager is used in conjunction with [Azure Application Gateways](https://docs.microsoft.com/en-us/azure/application-gateway/) and [Azure Load Balancers](https://docs.microsoft.com/en-us/azure/load-balancer/). Here is a [nice article](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-load-balancing-azure) that explains how the trio complement each other.
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-load-balancing-azure)]_
-[![azure load balancing options](../../../images/09-azure-load-balancing-options.jpg)](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-load-balancing-azure#scenario)
+[![azure load balancing options](https://assets.cloudskew.com/assets/blog/images/09-azure-load-balancing-options.jpg)](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-load-balancing-azure#scenario)
 
 ## Traffic routing methods
 
 The official docs capture all the [traffic routing methods](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods) in great detail. However let me provide a quick recap below:
 
-![azure traffic manager routing methods](../../../images/11-azure-traffic-manager-routing-methods.jpg)
+![azure traffic manager routing methods](https://assets.cloudskew.com/assets/blog/images/11-azure-traffic-manager-routing-methods.jpg)
 
 ### performance routing
 

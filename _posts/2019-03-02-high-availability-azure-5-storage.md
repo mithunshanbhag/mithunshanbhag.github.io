@@ -24,7 +24,7 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 
 ## Azure Storage Account
 
-![azure storage account](../../../images/05-azure-storage-account.jpg)
+![azure storage account](https://assets.cloudskew.com/assets/blog/images/05-azure-storage-account.jpg)
 
 In Azure, the following entities are backed by Azure storage accounts: [blobs](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview), [file shares](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction), [queues](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction), [NoSQL table storages](https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-overview), [Data Lake Storage (gen2)](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction) and unmanaged disks. In this blog post, we'll go over the [various redundancy options](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy) available for these storage accounts. We'll compare & contrast them based on the following parameters:
 
@@ -102,7 +102,7 @@ The primary region & the secondary regions are addressed by separate endpoints. 
 
 _Note: Both GRS (geo-redundant storage) and RA-GRS (read-access geo-redundant storage) are misnomers. They don't create redundant copies across Azure geographies, only across paired-regions within the same Azure geography._
 
-![azure storage GRS](../../../images/06-azure-storage-grs.jpg)
+![azure storage GRS](https://assets.cloudskew.com/assets/blog/images/06-azure-storage-grs.jpg)
 
 **Replication latency**: Your data is first replicated synchronously within the primary region via LRS. The data is then replicated asynchronously to the secondary region (eventually consistent). Within the secondary region, it is replicated synchronously using LRS. The [official SLA for Azure storage](https://azure.microsoft.com/en-us/support/legal/sla/storage/v1_3/) does not make any guarantees about the time needed for geo-replication.  
 

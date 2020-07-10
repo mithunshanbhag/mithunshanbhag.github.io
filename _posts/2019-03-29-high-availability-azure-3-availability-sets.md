@@ -24,7 +24,7 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 
 ## Azure Availability Sets
 
-![azure availability sets](../../../images/19-azure-availability-set.png)
+![azure availability sets](https://assets.cloudskew.com/assets/blog/images/19-azure-availability-set.png)
 
 We've already discussed the concepts of [fault domains](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#fault-domains), [update domains](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#update-domains) and [availability sets](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#availability-sets) in the [first post of this series](../../../2019/02/28/high-availability-azure-1-basics.html#fault-domain-physical-server-rack). Visually, you can represent an availability set with a table as follow:
 
@@ -49,7 +49,7 @@ Availability sets are free (you're only charged for the VMs and resources placed
   * Have their network interfaces associated with the same VNET.
 
 * For HA, a VM can be placed in an availability set or in an availability zone. But NOT both. The former offers HA within a datacenter, the latter offers HA within a region.
-![availability set vs availability zone](../../../images/20-azure-avset-vs-avzone.jpg)
+![availability set vs availability zone](https://assets.cloudskew.com/assets/blog/images/20-azure-avset-vs-avzone.jpg)
 
 * All VMs in an availability set need not be identical, but there are hardware size constraints. Use the [Get-AzVmSize](https://docs.microsoft.com/en-us/powershell/module/az.compute/get-azvmsize?view=azps-1.6.0) powershell cmdlet to list all the VM sizes available for a particular availability set ([more details](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-availability-sets#check-for-available-vm-sizes)).
 
@@ -73,7 +73,7 @@ Availability sets are free (you're only charged for the VMs and resources placed
 #### The issue with unmanaged disks in an availability set
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability)]_
-[![unmanaged availability set](../../../images/21-azure-av-set-unmanaged-disks.jpg)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability?#use-managed-disks-for-vms-in-an-availability-set)
+[![unmanaged availability set](https://assets.cloudskew.com/assets/blog/images/21-azure-av-set-unmanaged-disks.jpg)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability?#use-managed-disks-for-vms-in-an-availability-set)
 
 The storage accounts associated with unmanaged disks in an availability set are all placed in a single storage scale unit (stamp), which then becomes a single point of failure.
 
@@ -85,7 +85,7 @@ With [Azure managed disks](https://docs.microsoft.com/en-gb/azure/virtual-machin
 
 If you plan to use managed disks, please ensure you select the "aligned" option while creating the availability set. This effectively creates a managed availability set.
 
-![creating managed availability set](../../../images/20-azure-managed-availability-set.jpg)
+![creating managed availability set](https://assets.cloudskew.com/assets/blog/images/20-azure-managed-availability-set.jpg)
 
 To [migrate VMs in an existing availability set to managed disks](https://docs.microsoft.com/en-gb/azure/virtual-machines/windows/migrate-to-managed-disks), the availability set itself needs to be [converted to a managed availability set](https://docs.microsoft.com/en-gb/azure/virtual-machines/windows/convert-unmanaged-to-managed-disks). This can be done via the Azure portal or via the [Update-AzAvailabilitySet](https://docs.microsoft.com/en-us/powershell/module/az.compute/update-azavailabilityset?view=azps-1.6.0) powershell cmdlet. Once converted, only VMs with managed disks can be added to the availability set (existing VMs with unmanaged disks in the availability set will continue to operate as before).
 
@@ -94,7 +94,7 @@ Please note that the [max number of managed FDs will depend on the availability 
 #### Managed availability sets get it right
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability)]_
-[![unmanaged availability set](../../../images/22-azure-av-set-managed-disks.jpg)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability?#use-managed-disks-for-vms-in-an-availability-set)
+[![unmanaged availability set](https://assets.cloudskew.com/assets/blog/images/22-azure-av-set-managed-disks.jpg)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability?#use-managed-disks-for-vms-in-an-availability-set)
 
 The managed disks in an availability set are all placed in a multiple storage scale units (stamps), aligned with VM FDs, avoiding a single point of failure. In the event of a storage scale unit failing, only VMs with managed disks in that storage scale unit will fail (other VMs will be unaffected). This increases the overall availability of the VMs in that availability set.
 

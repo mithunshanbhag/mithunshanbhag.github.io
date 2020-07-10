@@ -24,7 +24,7 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 
 ## Azure App Service Apps (web apps)
 
-![azure storage account](../../../images/13-azure-app-service.png)
+![azure storage account](https://assets.cloudskew.com/assets/blog/images/13-azure-app-service.png)
 
 An [Azure App Service Plan](https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans) is pinned to a specific [Azure Region](../../../2019/02/28/high-availability-azure-1-basics.html#region). Any [App Service Apps](https://docs.microsoft.com/en-us/azure/app-service/overview) created in the App Service Plan will be provisioned in that same region. If your app needs additional redundancies in other regions or [geographies](../../../2019/02/28/high-availability-azure-1-basics.html#geography), you'll have to:
 
@@ -32,20 +32,20 @@ An [Azure App Service Plan](https://docs.microsoft.com/en-us/azure/app-service/o
 2. Use [Azure Traffic Manager]({{ site.baseurl }}{% post_url 2019-03-16-high-availability-azure-8-traffic %}) to route traffic to all available redundancies (you can only specify one App Service endpoint per region in a Traffic Manager profile). [More details here](https://docs.microsoft.com/en-us/azure/app-service/web-sites-traffic-manager#app-service-and-traffic-manager-profiles).
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/basic-web-app)]_
-![azure app service redundancy](../../../images/14-azure-app-service-redundancy.jpg)
+![azure app service redundancy](https://assets.cloudskew.com/assets/blog/images/14-azure-app-service-redundancy.jpg)
 
 The [SLA for Azure App Services](https://azure.microsoft.com/en-in/support/legal/sla/app-service/v1_4/) guarantee a 99.95% uptime for each regional deployment.
 
 ## Azure Function Apps
 
-![azure functions](../../../images/15-azure-functions.png)
+![azure functions](https://assets.cloudskew.com/assets/blog/images/15-azure-functions.png)
 
 [Azure Function Apps](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) too have regional deployments. If you're using the [consumption plan](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#consumption-plan), then you explicitly specify the region. If on the [App Service Plan](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#app-service-plan), then the region is the same as that of the App Service Plan.
 
 Similar to App Services above, any additional redundancies will have to be explicitly created and traffic to these will have to be routed via Azure Traffic Manager.
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)]_
-[![azure functions redundancy](../../../images/16-azure-functions-redundancy.jpg)](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
+[![azure functions redundancy](https://assets.cloudskew.com/assets/blog/images/16-azure-functions-redundancy.jpg)](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
 
 The [SLA for Azure Functions](https://azure.microsoft.com/en-us/support/legal/sla/functions/v1_1/) guarantee a 99.95% uptime for each regional deployment (for both app service plan and consumption plan).
 
@@ -75,7 +75,7 @@ Notes:
 * This setting is not available for App Service Apps in dev/test tier.
 * Idle Function Apps in the consumption plan will be subject to [cold start latency](https://blogs.msdn.microsoft.com/appserviceteam/2018/02/07/understanding-serverless-cold-start/).
 
-![azure app service always on](../../../images/17-azure-app-service-always-on.jpg)
+![azure app service always on](https://assets.cloudskew.com/assets/blog/images/17-azure-app-service-always-on.jpg)
 
 ### Cloning and Moving App Service Apps
 
