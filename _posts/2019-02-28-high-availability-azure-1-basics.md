@@ -3,7 +3,7 @@ layout: post
 title: "High Availability in Azure: The basics"
 comments: true
 ---
-_Note: This blog post is part 1 of a series centered around the topic of high availability in Azure:_
+_Note: This blog post is part of a series centered around the topic of high availability in Azure:_
 
 * _**The basics (this post)**_
 * _SLAs and the 9s (coming soon)_

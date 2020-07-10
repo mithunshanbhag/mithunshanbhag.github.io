@@ -3,7 +3,7 @@ layout: post
 title: "High Availability in Azure: Traffic management"
 comments: true
 ---
-_Note: This blog post is part 8 of a series centered around the topic of high availability in Azure:_
+_Note: This blog post is part of a series centered around the topic of high availability in Azure:_
 
 * _[The basics]({{ site.baseurl }}{% post_url 2019-02-28-high-availability-azure-1-basics %})_
 * _SLAs and the 9s (coming soon)_
