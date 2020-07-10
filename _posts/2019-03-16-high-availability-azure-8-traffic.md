@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "High Availability in Azure (Part 8): Traffic management"
+title: "High Availability in Azure: Traffic management"
 comments: true
 ---
 _Note: This blog post is part 8 of a series centered around the topic of high availability in Azure:_
 
-* _[Part 1: The basics]({{ site.baseurl }}{% post_url 2019-02-28-high-availability-azure-1-basics %})_
-* _Part 2: SLAs and the 9s (coming soon)_
-* _[Part 3: Availability Sets]({{ site.baseurl }}{% post_url 2019-03-29-high-availability-azure-3-availability-sets %})_
-* _[Part 4: Availability Zones]({{ site.baseurl }}{% post_url 2019-03-31-high-availability-azure-4-availability-zones %})_
-* _[Part 5: Storage redundancies]({{ site.baseurl }}{% post_url 2019-03-02-high-availability-azure-5-storage %})_
-* _Part 6: Load balancing (coming soon)_
-* _Part 7: Application gateways (coming soon)_
-* _**Part 8: Traffic management (this post)**_
-* _[Part 9: App Service, Function Apps]({{ site.baseurl }}{% post_url 2019-03-23-high-availability-azure-9-apps %})_
-* _Part 10: SQL (coming soon)_
-* _Part 11: CosmosDB (coming soon)_
-* _Part 12: Wrapping up (coming soon)_
+* _[The basics]({{ site.baseurl }}{% post_url 2019-02-28-high-availability-azure-1-basics %})_
+* _SLAs and the 9s (coming soon)_
+* _[Availability Sets]({{ site.baseurl }}{% post_url 2019-03-29-high-availability-azure-3-availability-sets %})_
+* _[Availability Zones]({{ site.baseurl }}{% post_url 2019-03-31-high-availability-azure-4-availability-zones %})_
+* _[Storage redundancies]({{ site.baseurl }}{% post_url 2019-03-02-high-availability-azure-5-storage %})_
+* _Load balancing (coming soon)_
+* _Application gateways (coming soon)_
+* _**Traffic management (this post)**_
+* _[App Service, Function Apps]({{ site.baseurl }}{% post_url 2019-03-23-high-availability-azure-9-apps %})_
+* _SQL (coming soon)_
+* _CosmosDB (coming soon)_
+* _Wrapping up (coming soon)_
 
 _I'll not be addressing scaling (horizontal or vertical), backups/restores and resiliency/healing in these posts. Each of those topics deserve their own series, perhaps I'll write about them in the future if time permits._
 

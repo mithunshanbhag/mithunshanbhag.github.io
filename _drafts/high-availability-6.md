@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High Availability in Azure (Part 3): Availability Sets for VMs"
+title: "High Availability in Azure: Availability Sets for VMs"
 sitemap: false
 ---
 

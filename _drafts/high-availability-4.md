@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High Availability in Azure (Part 4): Availability Zones"
+title: "High Availability in Azure: Availability Zones"
 sitemap: false
 ---
 

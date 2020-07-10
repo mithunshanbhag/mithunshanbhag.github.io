@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High Availability in Azure (Part 9): Wrapping up"
+title: "High Availability in Azure: Wrapping up"
 sitemap: false
 ---
 
