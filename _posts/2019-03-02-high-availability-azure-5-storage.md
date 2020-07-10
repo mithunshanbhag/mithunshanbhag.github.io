@@ -37,7 +37,7 @@ Hopefully this blog post will serve as a cheat-sheet and help you choose the rig
 <br>
 ## LRS (locally-redundant storage)
 
-With [LRS](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy-lrs?toc=%2fazure%2fstorage%2fblobs%2ftoc.json), your data is replicated thrice across multiple [fault domains](../../../2019/02/28/high-availability-azure-1-basics#fault-domain-physical-server-rack) & [update domains](../../../2019/02/28/high-availability-azure-1-basics#update-domain) within a single storage scale unit (all within a single datacenter). Note that all three replicas are addressed by a single endpoint (i.e. you can't target individual replicas for read/write operations).
+With [LRS](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy-lrs?toc=%2fazure%2fstorage%2fblobs%2ftoc.json), your data is replicated thrice across multiple [fault domains](../../../2019/02/28/high-availability-azure-1-basics/#fault-domain-physical-server-rack) & [update domains](../../../2019/02/28/high-availability-azure-1-basics/#update-domain) within a single storage scale unit (all within a single datacenter). Note that all three replicas are addressed by a single endpoint (i.e. you can't target individual replicas for read/write operations).
 
 **Replication latency**: No replication latency, data is synchronously written to all three replicas on every write request.
 
@@ -45,11 +45,11 @@ With [LRS](https://docs.microsoft.com/en-us/azure/storage/common/storage-redunda
 
 disaster type|service interruption?|data loss?|recovery possible?|
 -------------|---------------------|----------|------------------|
-hardware failure in [physical rack](../../../2019/02/28/high-availability-azure-1-basics#fault-domain-physical-server-rack)/node|NO|NO<sup>1</sup>|N/A
-[datacenter](../../../2019/02/28/high-availability-azure-1-basics#datacenter) disaster|YES|YES|NO<sup>2</sup>
-[availability zone](../../../2019/02/28/high-availability-azure-1-basics#availability-zone) disaster|"|"|"
-[regional](../../../2019/02/28/high-availability-azure-1-basics#region) disaster|"|"|"
-[geographic](../../../2019/02/28/high-availability-azure-1-basics#geography) disaster|"|"|"
+hardware failure in [physical rack](../../../2019/02/28/high-availability-azure-1-basics/#fault-domain-physical-server-rack)/node|NO|NO<sup>1</sup>|N/A
+[datacenter](../../../2019/02/28/high-availability-azure-1-basics/#datacenter) disaster|YES|YES|NO<sup>2</sup>
+[availability zone](../../../2019/02/28/high-availability-azure-1-basics/#availability-zone) disaster|"|"|"
+[regional](../../../2019/02/28/high-availability-azure-1-basics/#region) disaster|"|"|"
+[geographic](../../../2019/02/28/high-availability-azure-1-basics/#geography) disaster|"|"|"
 worldwide disaster|"|"|"
 
 1. Since the replicas are spread across multiple fault domains.
@@ -74,11 +74,11 @@ With [ZRS](https://docs.microsoft.com/en-us/azure/storage/common/storage-redunda
 
 disaster type|service interruption?|data loss?|recovery possible?|
 -------------|---------------------|----------|------------------|
-hardware failure in [physical rack](../../../2019/02/28/high-availability-azure-1-basics#fault-domain-physical-server-rack)/node|NO|NO<sup>1</sup>|N/A
-[datacenter](../../../2019/02/28/high-availability-azure-1-basics#datacenter) disaster|"|"|"
-[availability zone](../../../2019/02/28/high-availability-azure-1-basics#availability-zone) disaster|YES<sup>2</sup>|NO|N/A
-[regional](../../../2019/02/28/high-availability-azure-1-basics#region) disaster|YES|YES|NO<sup>3</sup>
-[geographic](../../../2019/02/28/high-availability-azure-1-basics#geography) disaster|"|"|"
+hardware failure in [physical rack](../../../2019/02/28/high-availability-azure-1-basics/#fault-domain-physical-server-rack)/node|NO|NO<sup>1</sup>|N/A
+[datacenter](../../../2019/02/28/high-availability-azure-1-basics/#datacenter) disaster|"|"|"
+[availability zone](../../../2019/02/28/high-availability-azure-1-basics/#availability-zone) disaster|YES<sup>2</sup>|NO|N/A
+[regional](../../../2019/02/28/high-availability-azure-1-basics/#region) disaster|YES|YES|NO<sup>3</sup>
+[geographic](../../../2019/02/28/high-availability-azure-1-basics/#geography) disaster|"|"|"
 worldwide disaster|"|"|"
 
 1. Only one replica will be affected, since the replicas are spread across different availability zones.
@@ -96,7 +96,7 @@ write requests (cool tier)|>= 99% (2 nines)
 <br>
 ## GRS (geo-redundant storage)
 
-With [GRS](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy-grs?toc=%2fazure%2fstorage%2fblobs%2ftoc.json), your data is replicated across two [paired-regions](../../../2019/02/28/high-availability-azure-1-basics#paired-regions) (within the same Azure geography) in a primary region + secondary region setup. This ensures that one regional replica will be available in the event of a regional disaster.
+With [GRS](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy-grs?toc=%2fazure%2fstorage%2fblobs%2ftoc.json), your data is replicated across two [paired-regions](../../../2019/02/28/high-availability-azure-1-basics/#paired-regions) (within the same Azure geography) in a primary region + secondary region setup. This ensures that one regional replica will be available in the event of a regional disaster.
 
 The primary region & the secondary regions are addressed by separate endpoints. The secondary endpoint is generally inaccessible. However in case of a [fail-over](https://docs.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=%2fazure%2fstorage%2fblobs%2ftoc.json#understand-the-account-failover-process), the secondary is promoted to primary and read + write access is enabled for this endpoint. Fail-overs are automatically initiated by Azure in the event of a regional disaster. Azure is also introducing [user-initiated fail-overs](https://docs.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=%2fazure%2fstorage%2fblobs%2ftoc.json#initiate-an-account-failover), which is currently in preview mode as of the time of writing this post.
 
@@ -110,11 +110,11 @@ _Note: Both GRS (geo-redundant storage) and RA-GRS (read-access geo-redundant st
 
 disaster type|service interruption?|data loss?|recovery possible?|
 -------------|---------------------|----------|------------------|
-hardware failure in [physical rack](../../../2019/02/28/high-availability-azure-1-basics#fault-domain-physical-server-rack)/node|NO|NO|N/A
-[datacenter](../../../2019/02/28/high-availability-azure-1-basics#datacenter) disaster|YES<sup>1</sup>|POSSIBLE<sup>2</sup>|YES<sup>3</sup>
-[availability zone](../../../2019/02/28/high-availability-azure-1-basics#availability-zone) disaster|"|"|"
-[regional](../../../2019/02/28/high-availability-azure-1-basics#region) disaster|"|"|"
-[geographic](../../../2019/02/28/high-availability-azure-1-basics#geography) disaster|YES|YES|NO
+hardware failure in [physical rack](../../../2019/02/28/high-availability-azure-1-basics/#fault-domain-physical-server-rack)/node|NO|NO|N/A
+[datacenter](../../../2019/02/28/high-availability-azure-1-basics/#datacenter) disaster|YES<sup>1</sup>|POSSIBLE<sup>2</sup>|YES<sup>3</sup>
+[availability zone](../../../2019/02/28/high-availability-azure-1-basics/#availability-zone) disaster|"|"|"
+[regional](../../../2019/02/28/high-availability-azure-1-basics/#region) disaster|"|"|"
+[geographic](../../../2019/02/28/high-availability-azure-1-basics/#geography) disaster|YES|YES|NO
 worldwide disaster|"|"|"
 
 1. Within the primary & secondary regions itself, the data is replicated via LRS. In the event of a datacenter disaster in the primary region, it is possible that all replicas within the storage scale unit are affected and the primary endpoint will now be both inaccessible & unrecoverable. Although the secondary region has replica data, its endpoint will be inaccessible until a fail-over is initiated (the data will be inaccessible until the fail-over is complete).
@@ -140,11 +140,11 @@ Same as GRS, but you always have read-only access to the secondary replica.
 
 disaster type|service interruption?|data loss?|recovery possible?|
 -------------|---------------------|----------|------------------|
-hardware failure in [physical rack](../../../2019/02/28/high-availability-azure-1-basics#fault-domain-physical-server-rack)/node|NO|NO|N/A
-[datacenter](../../../2019/02/28/high-availability-azure-1-basics#datacenter) disaster|YES<sup>1</sup>|POSSIBLE<sup>2</sup>|YES<sup>3</sup>
-[availability zone](../../../2019/02/28/high-availability-azure-1-basics#availability-zone) disaster|"|"|"
-[regional](../../../2019/02/28/high-availability-azure-1-basics#region) disaster|"|"|"
-[geographic](../../../2019/02/28/high-availability-azure-1-basics#geography) disaster|YES|YES|NO
+hardware failure in [physical rack](../../../2019/02/28/high-availability-azure-1-basics/#fault-domain-physical-server-rack)/node|NO|NO|N/A
+[datacenter](../../../2019/02/28/high-availability-azure-1-basics/#datacenter) disaster|YES<sup>1</sup>|POSSIBLE<sup>2</sup>|YES<sup>3</sup>
+[availability zone](../../../2019/02/28/high-availability-azure-1-basics/#availability-zone) disaster|"|"|"
+[regional](../../../2019/02/28/high-availability-azure-1-basics/#region) disaster|"|"|"
+[geographic](../../../2019/02/28/high-availability-azure-1-basics/#geography) disaster|YES|YES|NO
 worldwide disaster|"|"|"
 
 1. In the event of primary replica being destroyed, the secondary region will still have read-only access, even without a failover being initiated (unlike GRS where the secondary is inaccessible until a fail-over has been completed).
