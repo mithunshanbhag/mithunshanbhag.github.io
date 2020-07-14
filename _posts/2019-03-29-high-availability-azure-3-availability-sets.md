@@ -26,7 +26,7 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 
 ![azure availability sets](https://assets.cloudskew.com/assets/blog/images/19-azure-availability-set.png)
 
-We've already discussed the concepts of [fault domains](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#fault-domains), [update domains](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#update-domains) and [availability sets](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#availability-sets) in the [first post of this series](../../../2019/02/28/high-availability-azure-1-basics.html#fault-domain-physical-server-rack). Visually, you can represent an availability set with a table as follow:
+We've already discussed the concepts of [fault domains](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#fault-domains), [update domains](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#update-domains) and [availability sets](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#availability-sets) in the [first post of this series](../../../2019/02/28/high-availability-azure-1-basics/#fault-domain-physical-server-rack). Visually, you can represent an availability set with a table as follow:
 
 -------|FD0|FD1|FD2
 -------|---|---|---
@@ -79,7 +79,7 @@ The storage accounts associated with unmanaged disks in an availability set are 
 
 #### Benefits of managed disks
 
-With [Azure managed disks](https://docs.microsoft.com/en-gb/azure/virtual-machines/windows/managed-disks-overview), you no longer have to explicitly provision storage accounts to back your disks. Managed disks provide a convenient abstraction over storage accounts, blob containers and page blobs. Internally, managed disks use [LRS storage](../../../2019/03/02/high-availability-azure-5-storage.html#lrs-locally-redundant-storage) (3 redundant copies within a storage scale unit inside a single datacenter).
+With [Azure managed disks](https://docs.microsoft.com/en-gb/azure/virtual-machines/windows/managed-disks-overview), you no longer have to explicitly provision storage accounts to back your disks. Managed disks provide a convenient abstraction over storage accounts, blob containers and page blobs. Internally, managed disks use [LRS storage](../../../2019/03/02/high-availability-azure-5-storage/#lrs-locally-redundant-storage) (3 redundant copies within a storage scale unit inside a single datacenter).
 
 #### Managed disks go in managed availability sets
 

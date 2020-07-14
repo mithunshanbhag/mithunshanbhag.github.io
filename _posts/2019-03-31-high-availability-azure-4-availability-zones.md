@@ -26,7 +26,7 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 
 ![azure availability zones](https://assets.cloudskew.com/assets/blog/images/02-azure-availability-zones.jpg)
 
-In the [opening post of this blog series](../../../2019/02/28/high-availability-azure-1-basics#availability-zone) we talked about availability zones and how resources can be classified as zone-redundant, zonal (zone-specific) or non-zonal (regional). If you haven't seen that post, please take a minute to do so.
+In the [opening post of this blog series](../../../2019/02/28/high-availability-azure-1-basics/#availability-zone) we talked about availability zones and how resources can be classified as zone-redundant, zonal (zone-specific) or non-zonal (regional). If you haven't seen that post, please take a minute to do so.
 
 Availability zones exist to shield your resources against a datacenter-level disaster.
 
@@ -44,7 +44,7 @@ Only a few Azure resource types support availability zones (we're highlighting a
 
 * **Public IPs**: During creation, a Public IP address (standard sku only) can be configured as zone-redundant (default) or zonal. Public IPs with basic sku are non-zonal.
 
-* **Storage Accounts**: With zone-redundant storage, your data is replicated across three availability zones within the same region. We already covered ZRS storage in [part 5 of this blog series](../../../2019/03/02/high-availability-azure-5-storage#zrs-zone-redundant-storage).
+* **Storage Accounts**: With zone-redundant storage, your data is replicated across three availability zones within the same region. We already covered ZRS storage in [part 5 of this blog series](../../../2019/03/02/high-availability-azure-5-storage/#zrs-zone-redundant-storage).
 
 * **Load Balancers (standard sku only)**: During creation, load balancers (standard sku only) can be configured as zone-redundant or zonal. Load balancers with basic sku are non-zonal.
 

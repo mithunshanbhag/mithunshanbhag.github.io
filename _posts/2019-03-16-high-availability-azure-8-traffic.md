@@ -101,7 +101,7 @@ Use this when you need to geo-fence your users to specific regions/geographies (
 Per configuration, client requests will get serviced by endpoints from the specified region (this may or may not be the endpoint with lowest latency). Regional endpoints can be assigned at the following granularities:
 
 * world (highest granularity)
-* regional grouping (roughly the same as [Azure Geographies](../../../2019/02/28/high-availability-azure-1-basics#geography))
+* regional grouping (roughly the same as [Azure Geographies](../../../2019/02/28/high-availability-azure-1-basics/#geography))
 * country
 * state (lowest granularity, only available for USA, Canada and Australia as of the time of writing this blog post).
 

@@ -26,7 +26,7 @@ _I'll not be addressing scaling (horizontal or vertical), backups/restores and r
 
 ![azure storage account](https://assets.cloudskew.com/assets/blog/images/13-azure-app-service.png)
 
-An [Azure App Service Plan](https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans) is pinned to a specific [Azure Region](../../../2019/02/28/high-availability-azure-1-basics.html#region). Any [App Service Apps](https://docs.microsoft.com/en-us/azure/app-service/overview) created in the App Service Plan will be provisioned in that same region. If your app needs additional redundancies in other regions or [geographies](../../../2019/02/28/high-availability-azure-1-basics.html#geography), you'll have to:
+An [Azure App Service Plan](https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans) is pinned to a specific [Azure Region](../../../2019/02/28/high-availability-azure-1-basics/#region). Any [App Service Apps](https://docs.microsoft.com/en-us/azure/app-service/overview) created in the App Service Plan will be provisioned in that same region. If your app needs additional redundancies in other regions or [geographies](../../../2019/02/28/high-availability-azure-1-basics/#geography), you'll have to:
 
 1. Provision them yourself (you'll need to create new App Service Plans in those regions, if they don't already exist).
 2. Use [Azure Traffic Manager]({{ site.baseurl }}{% post_url 2019-03-16-high-availability-azure-8-traffic %}) to route traffic to all available redundancies (you can only specify one App Service endpoint per region in a Traffic Manager profile). [More details here](https://docs.microsoft.com/en-us/azure/app-service/web-sites-traffic-manager#app-service-and-traffic-manager-profiles).
@@ -53,7 +53,7 @@ The [SLA for Azure Functions](https://azure.microsoft.com/en-us/support/legal/sl
 
 ### Horizontally scaled instances
 
-As [I've previously mentioned](../../../2019/02/28/high-availability-azure-1-basics.html#what-about-vm-scale-sets), horizontal auto-scaling exists to address performance concerns rather than high-availability concerns.
+As [I've previously mentioned](../../../2019/02/28/high-availability-azure-1-basics#what-about-vm-scale-sets), horizontal auto-scaling exists to address performance concerns rather than high-availability concerns.
 
 _**App Service Apps**_: When horizontal auto-scaling is enabled on a parent App Service Plan, additional instances are created, and each instance hosts all App Service Apps contained in the parent App Service Plan. All instances are created in the same [WebSpace](#webspaces). The App Service's integrated load-balancer (non-accessible) manages the traffic. Note that all scaled out instances of an app will still have the same endpoint URL.
 
