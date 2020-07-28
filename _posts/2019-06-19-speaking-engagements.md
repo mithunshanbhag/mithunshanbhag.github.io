@@ -10,11 +10,13 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 ## Upcoming Talks
 
-* Azure Happy Hours: Data Stores On Azure
-  * _Jul 24, 2020 \| [Microsoft Reactor Bangalore (online event)](https://www.meetup.com/Microsoft-Reactor-Bangalore/)_
+* TBD
 
 ## Previous Talks
 
+* Azure Happy Hours: Data Stores On Azure
+  * _[Video](https://www.youtube.com/watch?v=uK0kbAfG3fo)_
+  * _[Jul 24, 2020](https://www.meetup.com/Microsoft-Reactor-Bangalore/events/271748075/) \| [Microsoft Reactor Bangalore (online event)](https://www.meetup.com/Microsoft-Reactor-Bangalore/)_
 * Lightning Talk:  My experience building CloudSkew (browser-based, real-time, online diagram editor)
   * _[Video (skip to 3:49:00 for my presentation)](https://youtu.be/_dZwMidN9wY?t=13741)_
   * _June 17, 2020 \| [Cloud Community Days (online event)](https://ccdays.konfhub.com/)_
