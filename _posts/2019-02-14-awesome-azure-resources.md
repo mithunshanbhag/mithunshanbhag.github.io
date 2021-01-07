@@ -98,7 +98,7 @@ My curated list of awesome azure-related resources (this will be a living docume
   * [azure tips-n-tricks](http://azuredev.tips/)
   * [azure workshops](https://www.howdoieven.dev/)
   * [microsoft cloud workshop library](https://microsoftcloudworkshop.com/)
-  * [microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
+  * [microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure) \| [github](https://github.com/search?q=org%3AMicrosoftDocs+mslearn&type=repositories)
   * [microsoft source (newsletter)](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/)
 
 _Know of any more awesome azure-related resources that are worth sharing? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
