@@ -61,8 +61,9 @@ My curated list of awesome resources related to azure devops (this will be a liv
 * misc third-party tools
 
 * new to azure devops?
+  * [azure devops demo generator](https://azuredevopsdemogenerator.azurewebsites.net/)
   * [azure devops glossary](https://docs.microsoft.com/en-us/azure/devops/project/navigation/glossary)
-  * [azure devops labs](https://www.azuredevopslabs.com/)
+  * [azure devops labs](https://www.azuredevopslabs.com/) \| [github](https://github.com/Microsoft/azuredevopslabs)
   * [microsoft learn](https://docs.microsoft.com/en-us/learn/browse/?products=azure-devops)
 
 _Know of any more awesome resources related to azure devops that are worth sharing? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
