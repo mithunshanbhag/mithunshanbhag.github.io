@@ -16,3 +16,7 @@ sitemap: false
   * social media
   * labour
 * relying on gut/intuition
+* fear setting
+* anti-fragility (stress to the system)
+* dates, deadlines, calendar, trello, visualization
+* not depending on others, being fully independent
