@@ -9,7 +9,7 @@ sitemap: false
 * energy management vs time management
 * association programming
 * deciding vs wanting
-* leverage (how to get 10X output for 1X input)
+* leverage (how to get 10X output for 1X input, scaling)
   * capital/money
   * knowledge/specialization
   * tech (code)
