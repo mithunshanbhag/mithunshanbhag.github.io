@@ -4,17 +4,20 @@ title:  Recipes
 sitemap: false
 ---
 
-## Be courageous, be bold, be uncomfortable
+## Be courageous
 
 >
 > "Life shrinks or expands in proportion to one's courage." - Anais Nin
 >
 > "He who is not courageous enough to take risks will accomplish nothing in life." - Muhammad Ali
 >
+
+## Be uncomfortable
+
+>
 > "Don't get comfortable." - American Giant
 >
 > "Hard choices, easy life. Easy choices, hard life." - Jerzy Gregorek
->
 >
 
 The only productivity "tool" you need is the habit of getting uncomfortable & critical things done and out of the way asap.
