@@ -1,8 +1,25 @@
 ---
 layout: post
-title:  recipes for success
+title:  Recipes
 sitemap: false
 ---
+
+## Be courageous, be bold, be uncomfortable
+
+>
+> "Life shrinks or expands in proportion to one's courage." - Anais Nin
+>
+> "He who is not courageous enough to take risks will accomplish nothing in life." - Muhammad Ali
+>
+> "Don't get comfortable." - American Giant
+>
+> "Hard choices, easy life. Easy choices, hard life." - Jerzy Gregorek
+>
+>
+
+The only productivity "tool" you need is the habit of getting uncomfortable & critical things done and out of the way asap.
+
+Apps, reminders, to-do lists while useful, are ultimately pointless if you're just gonna keep procrastinating.
 
 * goal vs system
 * simplification vs optimization
@@ -16,7 +33,6 @@ sitemap: false
   * social media
   * labour
 * relying on gut/intuition
-* courage
 * fear setting
 * anti-fragility (stress to the system)
 * dates, deadlines, calendar, trello, visualization
