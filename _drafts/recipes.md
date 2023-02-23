@@ -4,39 +4,34 @@ title:  My playbook
 sitemap: false
 ---
 
-## Being courageous = acknowledging your fears, defining them, facing them, taking action, conquering them
+## Conquer your fears
 
 >
 > "Life shrinks or expands in proportion to one's courage." - Anais Nin
 >
 
-My biggest growth has come from doing things that *INITIALLY* scared me; the critical word being *INITIALLY*: <@TODO: Examples of fear>
+My biggest growth has come from doing things that **initially** scared me: <@TODO: Examples of fear>
 
-I had to acknowledge my fears, define them, face them, and ultimately take action to conquer them. There was no workaround for this.
+What we loosely term as a "fear" is generally a brain salad made from the following ingredients: fear, anxiety, shame, guilt, humiliation, embarrassment, regret, uncertainty, helplessness, inexperience, unfamiliarity, vulnerability, despair, ego, unhappiness (aside: I highly recommend the books by Brené Brown and Chip Conley on these fascinating topics).
 
-Two things that have helped me in this regard:
+But know that there is no workaround, we have to take our fears head-on: we have to acknowledge them, define them, face them, and ultimately take action to conquer them.
 
-1. [Tim Ferris' fear-setting exercise](https://youtu.be/5J6jAC6XxAI) has been particularly useful in creating a process around this.
+Two things can help us tremendously in this regard:
 
-   * First you acknowledge and write down your fears.
-   * Then you write down the worst-case scenarios for each fear.
-   * Then write down what you'll do should that worst case scenario materialize.
+1. [Tim Ferris' fear-setting exercise](https://youtu.be/5J6jAC6XxAI) has been particularly useful in creating a process.
 
-2. [Jeff Bezos recommends taking SOME action. ANY action](https://youtu.be/NqVoOC2azZI). Take solace in the fact that everything seems scary only the first time around (e.g. driving, swimming, public speaking, asking someone out). Once you take action, you'll realize the fears weren't as bad as you thought they'd be.
+   * First I acknowledge and write down my fears.
+   * Then I write down the worst-case scenarios for each fear.
+   * Then I write down what I'll do should that worst case scenario ever materialize.
 
-You'll realize that the worst-case scenario is not as bad as you thought it'd be. Or that the fears were just irrational. Or that the probability of it happening is extremely low. Or that you can handle it if it does happen. Or that you can mitigate the damage if it does happen. Or that you can recover from it if it does happen. Or that you can prevent it from happening in the first place.
+   I soon realize that the worst-case scenario is not as bad as I thought it'd be. Or that the my fears were just irrational. Or that the probability of anything happening is extremely low. Or that I can handle/mitigate it if anything does happen. Or that I can recover from it if it does happen. Or that I can prevent it from happening in the first place.
 
-The more you face your fears, the more it shrinks. The more you do it, the easier it gets. The more you do it, the more you realize that the fears were probably never real. The more you do it, the more you realize that you're capable of doing things you never thought you could do.
+2. [Jeff Bezos recommends a bias for action](https://youtu.be/NqVoOC2azZI). Take SOME action. ANY action. We can take solace in the fact that everything seems scary only the first time around (e.g. driving, swimming, public speaking, asking someone out). Once we take action, we'll realize our fears aren't as bad as we thought they'd be.
+
+   The more we face our fears, the more it shrinks. The more we do it, the easier it gets. The more we do it, the more we realize that the fears were probably never real. The more we do it, the more we realize that we're capable of doing things we never thought we could do.
 
 <@TODO: Some fears have playbooks: moving countries>
-
 <@TODO: Some fears don't have playbooks>
-
-<@TODO: fears vs shame, guilt, humiliation, embarrassment, anxiety>
-
-<@TODO: fears comes from unknown>
-
-<@TODO: fears vs anxiety: unknown vs uncertain>
 
 Crucially, conquering your fears lowers the barrier to taking risks/actions. More on that later.
 
