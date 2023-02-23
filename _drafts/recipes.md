@@ -32,7 +32,7 @@ The more you face your fears, the more it shrinks. The more you do it, the easie
 
 <@TODO: Some fears don't have playbooks>
 
-<@TODO: fears vs shame>
+<@TODO: fears vs shame, guilt, humiliation, embarrassment, anxiety>
 
 <@TODO: fears comes from unknown>
 
