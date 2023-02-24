@@ -4,13 +4,19 @@ title:  My playbook
 sitemap: false
 ---
 
+Based on my life experiences, I've cobbled together this playbook that has helped me in my growth/development. This is mostly for my own reference, but I hope it helps you too (disclaimer: your mileage may vary).
+
+Most of the things in this playbook aren't my original ideas; they're mostly things I've learned & imbibed from various books, podcasts, TED talks, YouTube videos, friends, relatives, co-workers, and many others (I've tried to give credit where it's due). But everything written in this document HAS been tested AND proven to work 100% FOR ME. Again, your mileage may vary.
+
+I intend for this to be a living document that I hope to update & tweak every now and then.
+
 ## Conquer fear
 
 >
 > "Life shrinks or expands in proportion to one's courage." - Anais Nin
 >
 
-My biggest growth has come from doing things that INITIALLY scared me: <@TODO: Examples of fear>
+My growth has mostly come from doing things that INITIALLY scared me: <@TODO: Examples of fear>
 
 What we loosely term as a "fear" is generally a brain cocktail blended from fear, anxiety, shame, guilt, humiliation, embarrassment, regret, uncertainty, helplessness, inexperience, unfamiliarity, vulnerability, despair, ego, unhappiness, insecurities, laziness, inertia, mistrust and many more ingredients.
 
