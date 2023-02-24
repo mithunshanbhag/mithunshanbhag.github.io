@@ -6,7 +6,7 @@ sitemap: false
 
 Based on my life experiences, I've cobbled together this playbook that has helped me in my growth/development. This is mostly for my own reference, but I hope it helps you too (disclaimer: your mileage may vary).
 
-Most of the things in this playbook aren't my original ideas; they're mostly things I've learned & imbibed from various books, podcasts, TED talks, YouTube videos, friends, mentors, co-workers, and what have you (I've tried to give credit where it's due). But everything in this playbook has been tried, tested and proven to work **for me**. Again, your mileage may vary.
+Most of the things in this playbook aren't my original ideas; they're mostly things I've learned & imbibed from various books, podcasts, TED talks, YouTube videos, documentaries, friends, mentors, co-workers, and what have you (I've tried to give credit where it's due). But everything in this playbook has been tried, tested and proven to work **for me**. Again, your mileage may vary.
 
 I intend for this to be a living document that I hope to update & tweak every now and then.
 
@@ -44,15 +44,22 @@ Two things that have helped me tremendously in dealing with my fears:
 > "I am an old man and have known a great many troubles, but most of them never happened." - Mark Twain
 >
 
-   I soon realize that the worst-case scenario is not as bad as I thought it'd be. Or that the my fears were just irrational. Or that the probability of anything happening is extremely low. Or that I can handle/mitigate it if anything does happen. Or that I can recover from it if it does happen. Or that I can prevent it from happening in the first place.
+When dealing with fears, I take solace in these two facts:
 
-   I take solace in the fact that almost everything seems scary the first time around (e.g. driving, swimming, public speaking, asking someone out). Once I take action, I soon realize that my fears aren't as bad as I thought they'd be.
+1. Most fears are imaginary.
 
-   The more I face my fears, the more it shrinks. The more I do it, the easier it gets. The more I do it, the more I realize that my fears were probably never real. The more I do it, the more I realize that I'm capable of doing things I never thought I could do.
+Once I take some action, something magical happens: I realize that my fears were mostly imaginary:
 
-<@TODO: Some fears have playbooks: moving countries>
-<@TODO: Some fears don't have playbooks>
-<@TODO: My fear tends to be in these two categories: irrational, first-time/unfamiliarity>
+* that the worst-case scenario isn't as bad as I thought it'd be. or
+* that my fears were just irrational. or
+* that the probability of anything bad happening is extremely low. or
+* that I can handle/mitigate it if anything does happen. or
+* that I can recover from it if it does happen. or
+* that I can prevent it from happening in the first place.
+
+I also take solace in the fact that almost EVERYTHING seems scary the first time around (e.g. driving, swimming, public speaking, asking someone out, hiring someone, purchasing a home). Once I take some action, I soon realize that my fears aren't as bad as I thought they'd be.
+
+The more we face our fears, the more it shrinks.
 
 Crucially, conquering our fears lowers our barrier to taking risks/actions. More on that later.
 
