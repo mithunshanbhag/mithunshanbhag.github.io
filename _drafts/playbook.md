@@ -46,18 +46,15 @@ Two things that have helped me tremendously in dealing with my fears:
 
 When dealing with fears, I take solace in these two facts:
 
-1. Most fears are imaginary.
+*Almost EVERYTHING seems scary the first time around*: Driving, swimming, public speaking, asking someone out, hiring someone, purchasing a home, yada yada. Once I take some action, I soon realize that my fears aren't as bad as I thought they'd be.
 
-Once I take some action, something magical happens: I realize that my fears were mostly imaginary:
+*Most fears are just imaginary/irrational*: As soon as I take some action, I realize that:
 
-* that the worst-case scenario isn't as bad as I thought it'd be. or
-* that my fears were just irrational. or
-* that the probability of anything bad happening is extremely low. or
-* that I can handle/mitigate it if anything does happen. or
-* that I can recover from it if it does happen. or
-* that I can prevent it from happening in the first place.
-
-I also take solace in the fact that almost EVERYTHING seems scary the first time around (e.g. driving, swimming, public speaking, asking someone out, hiring someone, purchasing a home). Once I take some action, I soon realize that my fears aren't as bad as I thought they'd be.
+* the worst-case scenario isn't as bad as I thought it'd be. or
+* the probability of anything bad happening is extremely low. or
+* should anything bad happen I can handle/mitigate it. or
+* should anything bad happen I can recover from it. or
+* I can prevent anything bad from happening in the first place.
 
 The more we face our fears, the more it shrinks.
 
