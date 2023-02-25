@@ -4,15 +4,15 @@ title:  Preparing for device loss
 comments: true
 ---
 
-Do y'all have a disaster recovery drill if your devices get lost/stolen/damaged?
+![device on fire](../../../images/mobile-fire.gif)
+
+Do y'all have a disaster recovery drill if your devices get lost, stolen, or damaged?
 
 How to prevent misuse if stolen?
 
 Any checklists, best practices for these kinds of scenarios?
 
-![device on fire](../../../images/mobile-fire.gif)
-
-Some precautions I take:
+Here are some precautions I take:
 
 1. Enable [android's find-my-device](https://www.google.com/android/find/) for all devices (enables remote wipe).
 
