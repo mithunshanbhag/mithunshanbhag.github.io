@@ -28,4 +28,6 @@ Here are some precautions I take:
 
 7. Switch from physical SIMs to eSIMs.
 
+8. Devices can only be unlocked with strong passwords or biometrics. No patterns. No numeric PINS.
+
 Comments? thoughts? suggestions?
