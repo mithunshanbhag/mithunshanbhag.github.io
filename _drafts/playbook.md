@@ -92,7 +92,6 @@ Some examples:
 
 1. [Tim Ferriss' morning routine](https://tim.blog/2017/03/21/tim-ferriss-morning-routine/).
 
-
 diet
 exercise
 investing
@@ -115,7 +114,8 @@ relaxation
 entertainment
 recreation
 vacation
-audible subscripion
+audible subscription
+small bets
 
 ## Simplification beats optimization
 
@@ -123,11 +123,10 @@ The easiest way to ensure that a "system" endures is to keep it simple. Super si
 
 Some examples where I have super-simplified my life:
 
-1. Investing: 
+1. Investing:
 2. Clothes:
 3. No caffeine, no sugar, no alcohol, no tobacco, no drugs, no junk food, no processed food, no fast food, no soda, no soft drinks, no junk TV, no junk news, no junk social media, no junk internet, no junk email, no junk phone calls, no junk text messages, no junk mail, no junk ads, no junk anything.
 4. commute, not owning a car
-
 
 will power is in limited supply
 purpose, focus
@@ -169,6 +168,7 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
   * You can't get wildly rich by working for someone else and drawing a salary/income.
 * orders of ignorance
 * situational awareness
+* small bets
 
 ## Some recommended reading & listening
 

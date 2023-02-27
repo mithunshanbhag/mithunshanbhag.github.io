@@ -14,6 +14,7 @@
         "devcontainer",
         "devops",
         "dotfiles",
+        "Ferriss",
         "Gregorek",
         "IMEI",
         "Jerzy",
@@ -30,6 +31,7 @@
         "tmax",
         "uservote",
         "winget",
+        "yada",
         "youtube"
     ],
     "workbench.colorCustomizations": {
