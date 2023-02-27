@@ -170,6 +170,9 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 * orders of ignorance
 * situational awareness
 * small bets
+* deep work, deep focus, avoid distractions
+
+-----
 
 ## Some recommended reading & listening
 
