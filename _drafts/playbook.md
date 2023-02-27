@@ -168,6 +168,7 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 * owning a business (or a part of it or equity in it)
   * You can't get wildly rich by working for someone else and drawing a salary/income.
 * orders of ignorance
+* situational awareness
 
 ## Some recommended reading & listening
 
