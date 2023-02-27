@@ -151,7 +151,7 @@ The only productivity tool you need is the habit of getting uncomfortable & crit
 When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 
 * energy management vs time management
-* association programming
+* association programming, environments, create a pit of success
 * deciding vs wanting
 * leverage (how to get 10X output for 1X input, scaling)
   * capital/money
