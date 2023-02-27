@@ -159,6 +159,7 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
   * tech (code)
   * social media
   * labour
+  * content: books, videos, podcasts, blogs etc
   * note: avoid renting out your time, it prevents scaling
 * relying on gut/intuition
 * fear setting
