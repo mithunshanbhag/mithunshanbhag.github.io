@@ -52,7 +52,7 @@ I'm not going to regurgitate what Scott Adams has already said in his book, but 
 
 Financial systems: Someday, I'll do a deep-dive on these, but for now, I'll just briefly mention them: diversifying income streams, regular SIP investing, creating an emergency fund, creating a succession plan (will), getting insured (health & term/life), and saving on taxes.
 
-Productivity systems: Our productivity is a mostly function of two things: Our ability to pick the right problem to solve, and our ability to lower the mean time to resolution (MTTR). Some systems that apply here: letting simplicity win, conquering fear, maximizing energy, maximizing focus, and applying leverage.
+Productivity systems: Our productivity is a mostly function of two things: our ability to pick the right things to do, and our ability to getting those things done fast. Some systems that apply here: letting simplicity win, conquering fear, maximizing energy, maximizing focus, and applying leverage.
 
 > Aside: Yes, some of these systems may seem a bit "out there" (for lack of a better word). I'll expound more on them in the coming sections. Stick with me, it's well worth it. Read on.
 

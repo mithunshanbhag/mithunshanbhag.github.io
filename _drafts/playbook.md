@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  My playbook
+title:  playbook scratchpad
 sitemap: false
 ---
 
