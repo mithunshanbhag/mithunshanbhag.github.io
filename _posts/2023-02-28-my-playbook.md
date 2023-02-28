@@ -32,18 +32,18 @@ Also, if a goal was achieved, my motivation to keep going would just drop off a 
 
 [Scott Adams' advice on 'goals vs systems'](https://www.amazon.in/How-Fail-Almost-Everything-Still/dp/0241003709) was an eye-opener for me. Goals are just a means to an end. They're not the end in themselves.
 
-Instead of creating goals, we need to create systems: something we execute repeatedly, over and over again. The critical word here is 'repeatedly'; the benefits of a system compounds over a long run. The more boring and predictable a system is, the better. For a system to endure, it needs to be consistent.
+Instead of creating goals, we need to create systems: something we execute repeatedly, over and over again. The critical word here is 'repeatedly'; the benefits of a system compounds over a long run. For a system to endure, it needs to be consistent. The more predictable and boring a system is, the better.
 
-> Aside: The words `systems`, `habits`, `routines`, `practices`, `rituals`, `frameworks` etc. are all synonyms for me. I use them interchangeably.
+> Aside: The words 'systems', 'habits', 'routines', 'practices', 'rituals, 'frameworks' etc. are all synonyms for me. I use them interchangeably.
 
 I'm not going to regurgitate what Scott Adams has already said in his book, but I'll give a few examples of systems that have worked for me:
 
-1. Financial systems: Someday, I'll do a deep-dive on these, but for now, I'll just briefly mention them: diversifying income streams, regular SIP investing, creating an emergency fund, creating a succession plan (will), getting insured (health & term/life), and saving on taxes.
+Financial systems: Someday, I'll do a deep-dive on these, but for now, I'll just briefly mention them: diversifying income streams, regular SIP investing, creating an emergency fund, creating a succession plan (will), getting insured (health & term/life), and saving on taxes.
 
-2. Productivity systems: Our productivity is a mostly function of two things:
+Productivity systems: Our productivity is a mostly function of two things:
 
-   * Our ability to pick the right problem to solve. Some systems that apply here: thinking about leverage, <@TODO>.
-   * Our ability to lower the mean time to resolution (MTTR). Some systems that have been useful to me in this regard: letting simplicity win, conquering fear, maximizing energy, and maximizing focus.
+* Our ability to pick the right problem to solve. Some systems that apply here: thinking about leverage, <@TODO>.
+* Our ability to lower the mean time to resolution (MTTR). Some systems that have been useful to me in this regard: letting simplicity win, conquering fear, maximizing energy, and maximizing focus.
 
 > Aside: Yes, these systems may seem a bit "out there" (for lack of a better word). I'll expound more on them in the coming sections. Stick with me, it's well worth it. Read on.
 
