@@ -32,12 +32,20 @@ Also, if a goal was achieved, my motivation to keep going would just drop off a 
 
 [Scott Adams' advice on 'goals vs systems'](https://www.amazon.in/How-Fail-Almost-Everything-Still/dp/0241003709) was an eye-opener for me. Goals are just a means to an end. They're not the end in themselves.
 
-Instead of creating a goal, you need to create a system: a habit you execute repeatedly, over and over again. A daily practice of sorts. A boring, predictable, consistent routine. The critical word here is 'repeatedly', the benefits of a system compounds over the long run.
+Instead of creating goals, we need to create systems: something we execute repeatedly, over and over again. The critical word here is 'repeatedly'; the benefits of a system compounds over a long run. The more boring and predictable a system is, the better. For a system to endure, it needs to be consistent.
 
-Some examples:
+> Aside: The words `systems`, `habits`, `routines`, `practices`, `rituals`, `frameworks` etc. are all synonyms for me. I use them interchangeably.
 
-1. [Tim Ferriss' morning routine](https://tim.blog/2017/03/21/tim-ferriss-morning-routine/).
-@TODO
+I'm not going to regurgitate what Scott Adams has already said in his book, but I'll give a few examples of systems that have worked for me:
+
+1. Financial systems: Someday, I'll do a deep-dive on these, but for now, I'll just briefly mention them: diversifying income streams, regular SIP investing, creating an emergency fund, creating a succession plan (will), getting insured (health & term/life), and saving on taxes.
+
+2. Productivity systems: Our productivity is a mostly function of two things:
+
+   * Our ability to pick the right problem to solve. Some systems that apply here: thinking about leverage, <@TODO>.
+   * Our ability to lower the mean time to resolution (MTTR). Some systems that have been useful to me in this regard: letting simplicity win, conquering fear, maximizing energy, and maximizing focus.
+
+> Aside: Yes, these systems may seem a bit "out there" (for lack of a better word). I'll expound more on them in the coming sections. Stick with me, it's well worth it. Read on.
 
 -----
 
@@ -49,7 +57,7 @@ Some examples:
 
 I can attribute most of my growth to doing things that INITIALLY scared me: <@TODO: Examples of fear>
 
-What we loosely term as a "fear" is generally a brain cocktail blended from fear, anxiety, shame, guilt, humiliation, embarrassment, regret, uncertainty, helplessness, inexperience, unfamiliarity, vulnerability, despair, ego, unhappiness, insecurities, laziness, inertia, mistrust and many more ingredients.
+What we loosely term as a "fear" is generally a brain cocktail blended from multiple ingredients: anxiety, shame, guilt, humiliation, embarrassment, regret, uncertainty, helplessness, inexperience, unfamiliarity, vulnerability, despair, ego, unhappiness, insecurities, laziness, inertia, mistrust, and many more. Yes, and fear itself.
 
 > Aside: I highly recommend the books by Brené Brown and Chip Conley on many of these fascinating topics.
 
@@ -96,6 +104,8 @@ Crucially, conquering our fears lowers our barrier to taking risks/actions. More
 -----
 
 ## 3. Coming Soon
+
+Stay tuned!
 
 -----
 

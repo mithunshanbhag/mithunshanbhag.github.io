@@ -4,6 +4,8 @@ title:  My playbook
 sitemap: false
 ---
 
+1. [Tim Ferriss' morning routine](https://tim.blog/2017/03/21/tim-ferriss-morning-routine/).
+
 diet
 exercise
 investing
@@ -74,13 +76,12 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
   * content: books, videos, podcasts, blogs etc
   * note: avoid renting out your time, it prevents scaling
 * relying on gut/intuition
-* fear setting
 * anti-fragility (stress to the system)
 * dates, deadlines, calendar, trello, visualization
 * not depending on others, being fully independent
 * owning a business (or a part of it or equity in it)
   * You can't get wildly rich by working for someone else and drawing a salary/income.
-* orders of ignorance
+* reducing orders of ignorance
 * situational awareness
 * small bets
 * deep work, deep focus, avoid distractions
