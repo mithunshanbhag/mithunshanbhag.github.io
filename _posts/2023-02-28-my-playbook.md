@@ -49,7 +49,7 @@ Productivity systems: Our productivity is a mostly function of two things:
 
 -----
 
-## 2. Conquer fear
+## 2. Conquering fear
 
 >
 > "Life shrinks or expands in proportion to one's courage." - Anais Nin
@@ -57,7 +57,7 @@ Productivity systems: Our productivity is a mostly function of two things:
 
 I can attribute most of my growth to doing things that INITIALLY scared me: <@TODO: Examples of fear>
 
-What we loosely term as a "fear" is generally a brain cocktail blended from multiple ingredients: anxiety, shame, guilt, humiliation, embarrassment, regret, uncertainty, helplessness, inexperience, unfamiliarity, vulnerability, despair, ego, unhappiness, insecurities, laziness, inertia, mistrust, and many more. Yes, and fear itself.
+What we loosely term as "fear" is generally a brain cocktail blended from multiple ingredients: anxiety, shame, guilt, humiliation, embarrassment, regret, uncertainty, helplessness, inexperience, unfamiliarity, vulnerability, despair, ego, unhappiness, insecurities, laziness, inertia, mistrust, and many more. Yes, and fear itself.
 
 > Aside: I highly recommend the books by Brené Brown and Chip Conley on many of these fascinating topics.
 
