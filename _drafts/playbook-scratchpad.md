@@ -64,6 +64,8 @@ The only productivity tool you need is the habit of getting uncomfortable & crit
 
 When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 
+-----
+
 * energy management vs time management
 * association programming, environments, create a pit of success
 * deciding vs wanting
@@ -76,6 +78,7 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
   * content: books, videos, podcasts, blogs etc
   * note: avoid renting out your time, it prevents scaling
 * relying on gut/intuition
+* go after the toughest problems to solve. Don't be in a supporting role. Be a Messi/Ronaldo. Get the bacon for your team.
 * anti-fragility (stress to the system)
 * dates, deadlines, calendar, trello, visualization
 * not depending on others, being fully independent
