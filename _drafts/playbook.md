@@ -85,3 +85,4 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 * situational awareness
 * small bets
 * deep work, deep focus, avoid distractions
+* prioritize yourself first, the selfishness illusion
