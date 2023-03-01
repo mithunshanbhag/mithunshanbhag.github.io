@@ -86,4 +86,4 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 * small bets
 * deep work, deep focus, avoid distractions
 * prioritize yourself first, the selfishness illusion
-* inbound, not outbound. make them come to you. don't go to them. pull, not push.
+* inbound, not outbound. make them come to you. don't go to them. pull, not push. get pursued, don't pursue.
