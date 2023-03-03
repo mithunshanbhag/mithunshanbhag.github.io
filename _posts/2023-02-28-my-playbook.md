@@ -52,7 +52,7 @@ I'm not going to regurgitate what Scott Adams has already said in his book, but 
 
 Financial systems: Someday, I'll do a deep-dive on these, but for now, I'll just briefly mention them: diversifying income streams, regular SIP investing, creating an emergency fund, creating a succession plan (will), getting insured (health & term/life), and saving on taxes.
 
-Productivity systems: Our productivity is a mostly function of two things: our ability to pick the right things to do, and our ability to getting those things done fast. Some systems that apply here: letting simplicity win, [conquering fear](#conquering-fear), maximizing energy, maximizing focus, and applying leverage.
+Productivity systems: Our productivity is a mostly function of two things: our ability to pick the right things to do, and our ability to getting those things done fast. Some systems that apply here: [taking small bets](#taking-small-bets), [letting simplicity win](#letting-simplicity-win), [conquering fear](#conquering-fear), [maximizing energy](#maximizing-energy), [maximizing focus](#maximizing-focus), [being uncomfortable](#being-uncomfortable) and [applying leverage](#applying-leverage).
 
 > Aside: Yes, some of these systems may seem a bit "out there" (for lack of a better word). I'll expound more on them in the coming sections. Stick with me, it's well worth it. Read on.
 
@@ -112,18 +112,48 @@ Crucially, conquering our fears lowers our barrier to taking risks/actions. More
 
 -----
 
-## 3. Coming Soon
+## Letting simplicity win
 
-Stay tuned!
+Coming soon! Stay tuned!
+
+-----
+
+## Maximizing energy
+
+Coming soon! Stay tuned!
+
+-----
+
+## Maximizing focus
+
+Coming soon! Stay tuned!
+
+-----
+
+## Applying leverage
+
+Coming soon! Stay tuned!
+
+-----
+
+## Being uncomfortable
+
+Coming soon! Stay tuned!
+
+-----
+
+## Taking small bets
+
+Coming soon! Stay tuned!
 
 -----
 
 ## Some recommended reading & listening
 
-In no particular order:
+A few books, blogs & podcasts have made a profound impact on my life. Here they are, in no particular order:
 
 * [Scott Adams: How to fail at almost everything and still win big](https://www.amazon.in/How-Fail-Almost-Everything-Still/dp/0241003709)
 * [Sam Altman: How to be successful](https://blog.samaltman.com/how-to-be-successful)
 * [Naval Ravikant: Almanac of Naval Ravikant](https://www.navalmanack.com/)
 * [The Tim Ferris Show](https://tim.blog/podcast/)
-* [Robert Greene: The 48 laws of power](https://www.amazon.in/Laws-Power-Robert-Greene-Collection/dp/1861972784)
+* [Dale Carnegie: How to win friends and influence people](https://www.amazon.in/How-Win-Friends-Influence-People/dp/0091906350)
