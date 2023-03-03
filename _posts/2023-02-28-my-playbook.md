@@ -24,9 +24,14 @@ In my early 30s, I was super-obsessed with hitting goals & checking off bucket-l
 
 I would set goals, and then I would religiously track my progress towards those goals.
 
-And it would ALWAYS end with me getting frustrated; either because I failed to make progress towards those goals, or because I failed to achieve those goals. But mostly because I lost track of why I had those goals in the first place.
+And it would ALWAYS end with me getting frustrated!
 
-Also, if a goal was achieved, my motivation to keep going would just drop off a cliff. Goals were temporary, they simply didn't endure.
+* Either because I failed to make progress towards those goals.
+* Or because I failed to achieve those goals.
+* But mostly because I lost track of why I had those goals in the first place.
+* Also, if a goal was achieved, my motivation to keep going would just drop off a cliff.
+
+Goals were temporary, they simply didn't endure.
 
 -----
 
