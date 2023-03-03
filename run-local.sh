@@ -1,4 +1,4 @@
-bundle exec jekyll serve
+bundle exec jekyll serve --drafts
 
-# To run the site locally with drafts
-# bundle exec jekyll serve --drafts
+# To run the site locally without drafts
+# bundle exec jekyll serve

@@ -12,7 +12,7 @@ I intend for this to be a living document that I hope to update & tweak every no
 
 -----
 
-## 1. Systems over goals
+## Systems over goals
 
 >
 > "Systems are for people who care about winning repeatedly. Goals are for people who care about winning once." - James Clear
@@ -52,13 +52,13 @@ I'm not going to regurgitate what Scott Adams has already said in his book, but 
 
 Financial systems: Someday, I'll do a deep-dive on these, but for now, I'll just briefly mention them: diversifying income streams, regular SIP investing, creating an emergency fund, creating a succession plan (will), getting insured (health & term/life), and saving on taxes.
 
-Productivity systems: Our productivity is a mostly function of two things: our ability to pick the right things to do, and our ability to getting those things done fast. Some systems that apply here: letting simplicity win, conquering fear, maximizing energy, maximizing focus, and applying leverage.
+Productivity systems: Our productivity is a mostly function of two things: our ability to pick the right things to do, and our ability to getting those things done fast. Some systems that apply here: letting simplicity win, [conquering fear](#conquering-fear), maximizing energy, maximizing focus, and applying leverage.
 
 > Aside: Yes, some of these systems may seem a bit "out there" (for lack of a better word). I'll expound more on them in the coming sections. Stick with me, it's well worth it. Read on.
 
 -----
 
-## 2. Conquering fear
+## Conquering fear
 
 >
 > "Life shrinks or expands in proportion to one's courage." - Anais Nin
@@ -126,3 +126,4 @@ In no particular order:
 * [Sam Altman: How to be successful](https://blog.samaltman.com/how-to-be-successful)
 * [Naval Ravikant: Almanac of Naval Ravikant](https://www.navalmanack.com/)
 * [The Tim Ferris Show](https://tim.blog/podcast/)
+* [Robert Greene: The 48 laws of power](https://www.amazon.in/Laws-Power-Robert-Greene-Collection/dp/1861972784)
