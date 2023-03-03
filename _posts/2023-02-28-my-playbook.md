@@ -157,3 +157,5 @@ A few books, blogs & podcasts have made a profound impact on my life. Here they 
 * [Naval Ravikant: Almanac of Naval Ravikant](https://www.navalmanack.com/)
 * [The Tim Ferris Show](https://tim.blog/podcast/)
 * [Dale Carnegie: How to win friends and influence people](https://www.amazon.in/How-Win-Friends-Influence-People/dp/0091906350)
+* [Chip Conley: Emotional equations](https://www.amazon.in/Emotional-Equations-Creating-Happiness-Business/dp/1451607261)
+* [Brené Brown: The gifts of imperfection](https://www.amazon.in/Gifts-Imperfection-Think-Supposed-Embrace/dp/159285849X)
