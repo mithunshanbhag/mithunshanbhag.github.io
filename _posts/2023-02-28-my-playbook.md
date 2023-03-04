@@ -133,25 +133,15 @@ Crucially, conquering our fears lowers our barrier to taking risks/actions. More
 
 The easiest way to ensure that a "system" endures is to keep it simple. Super, brain-dead simple. The simpler it is, the easier it is to follow that system.
 
-In Scott Adams' book, he dichotomizes people as either simplifiers or as optimizers. And he argues that we'd be better off if we stick with (or at least start with) the simplest solutions. I wholeheartedly agree. As a recovering (over)optimizer, I'm now firmly in the simplification camp. The more optimal solution is not guaranteed to be better. In fact, 99% of the times, simplification will beat optimization. But unfortunately, as human beings, our evolved brains are wired to seek out optimizations/efficiencies, which makes us veer towards the complex. But you HAVE TO resist that urge and let simplicity win.
+In Scott Adams' book, he dichotomizes people as either simplifiers or as optimizers. And he argues that we'd be better off if we stick with (or at least start with) the simplest solutions. I wholeheartedly agree. As a recovering (over)optimizer, I'm now firmly in the simplification camp. The more optimal solution is not guaranteed to be better. In fact, 99% of the times, simplification will beat optimization. And it'll almost certainly have a higher TCO. But unfortunately, as human beings, our evolved brains are wired to seek out optimizations/efficiencies, which makes us veer towards the complex. But you HAVE TO resist that urge and let simplicity win.
 
-Why choose simple over optimal? Because choosing the simplest path makes it easier to get started, keep the momentum going, and ultimately get things done faster. Since there is almost no cognitive load involved, decisions get made faster. You don't have to tap into your will-power reserves either.
-
-Why let simplicity win?
-
-* . 
-* optimal might have higher TOC. 
-* solution should not be more complex than the problem you're trying to solve.
-* simplicity is related to energy levels
+Why choose simple over optimal? Because choosing the simplest path makes it easier to get started, keep the momentum going, and ultimately get things done faster. Since there is almost no cognitive load involved, decisions get made faster. You don't have to tap into your reserves of will-power, [energy](#maximizing-energy) and [focus](#maximizing-focus) either.
 
 >
 > "That's been one of my mantras – focus and simplicity. Simple can be harder than complex." - Steve Jobs
 >
 
-I now religiously pursue the simpler options in life; but it comes with a cost.
-- simpler might be more expensive
-- simpler might be less efficient (e.g. maybe PMS will beat index funds)
-- 
+I now religiously pursue the simpler options in life; it may come at a higher monetary cost. I'm OK with that. It will likely be less efficient. I'm OK with that too. But simpler will endure. And that's what matters.
 
 Some examples where I have super-simplified my life:
 
@@ -164,7 +154,7 @@ Some examples where I have super-simplified my life:
 4. Work: The KISS principle. start simple, then optimize = Lean / MVP. Easier to communicate (Always opt for simplicity when communicating to a team/org. Zero ambiguity, clear signal)
 5. commute, not owning a car
 
-Simplicity and minimalism are recurring themes in my life. Te more I simplify my life, and eliminate non-essential excesses, the more I'm able to focus on the things that really matter to me.
+Simplicity and minimalism are recurring themes in my life. The more I simplify my life, and eliminate non-essential excesses, the more I'm able to focus on the things that really matter to me.
 
 >
 > "Everything should be made as simple as possible, but not simpler." - Albert Einstein
@@ -172,8 +162,7 @@ Simplicity and minimalism are recurring themes in my life. Te more I simplify my
 
 There is a time & place, when you may have to opt for complexity.
 
-* you've outgrown the simple.
-* in late stages, when you've nailed simple
+* In late stages, when you've nailed the simple and outgrown it.
 * When you full understand the tradeoffs involved in switching from simple to complex.
 * if the probability of failure is high, you might as well stuck with simple
 * Only when we've exhausted all simpler options, should we start looking at more complex solutions.

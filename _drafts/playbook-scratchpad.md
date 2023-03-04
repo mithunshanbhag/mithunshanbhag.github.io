@@ -73,6 +73,7 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 * inbound, not outbound. make them come to you. don't go to them. pull, not push. get pursued, don't pursue.
 * purpose, focus (maximizing your focus)
 * saying no often (in order to pick the right opportunity, in order to prioritize yourself)
+* solution should not be more complex than the problem you're trying to solve.
 
 Some principles (these are not really habits/systems):
 
