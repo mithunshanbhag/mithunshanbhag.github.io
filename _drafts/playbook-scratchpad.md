@@ -31,33 +31,14 @@ vacation
 audible subscription
 small bets
 
-## Simplification beats optimization
-
-The easiest way to ensure that a "system" endures is to keep it simple. Super simple. The simpler it is, the easier it is to follow.
-
-Some examples where I have super-simplified my life:
-
-1. Investing:
-2. Clothes:
-3. No caffeine, no sugar, no alcohol, no tobacco, no drugs, no junk food, no processed food, no fast food, no soda, no soft drinks, no junk TV, no junk news, no junk social media, no junk internet, no junk email, no junk phone calls, no junk text messages, no junk mail, no junk ads, no junk anything.
-4. commute, not owning a car
-
-will power is in limited supply
-purpose, focus
-minimalism
-reduces cognitive load
-team communication
-optimize only when
-simplicity is related to energy levels
-start simple, then optimize
-simplicity eliminates "baggage"/"side-effects": no alcohol, no drugs, no cigarettes, etc
-
 ## Be uncomfortable, stress is good
 
 >
 > "Don't get comfortable." - American Giant
 >
 > "Hard choices, easy life. Easy choices, hard life." - Jerzy Gregorek
+>
+> "If you want to live a life you've never lived, then you have to do things you've never done." - Jen Sincero
 >
 
 The only productivity tool you need is the habit of getting uncomfortable & critical things done and out of the way asap. Apps, reminders, to-do lists while useful, are ultimately pointless if you're just gonna keep procrastinating to avoid stressful situations.
@@ -90,6 +71,8 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 * deep work, deep focus, avoid distractions
 * prioritize yourself first, the selfishness illusion
 * inbound, not outbound. make them come to you. don't go to them. pull, not push. get pursued, don't pursue.
+* purpose, focus (maximizing your focus)
+* saying no often (in order to pick the right opportunity, in order to prioritize yourself)
 
 Some principles (these are not really habits/systems):
 

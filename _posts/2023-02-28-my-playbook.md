@@ -36,9 +36,13 @@ Goals were temporary, they simply didn't endure.
 -----
 
 >
-> "We don't rise to the level of our expectations, we fall to the level of our training." ― Archilochus
+> "Success doesn't come from what you do occasionally, but from what you do consistently." - Unknown wise person
+>
+> "We don't rise to the level of our expectations, we fall to the level of our training." - Archilochus
 >
 > "You do not rise to the level of your goals. You fall to the level of your systems." - James Clear
+>
+> "The more you sweat in practice, the less you bleed in battle." - Ancient proverb
 >
 
 [Scott Adams' advice on 'goals vs systems'](https://www.amazon.in/How-Fail-Almost-Everything-Still/dp/0241003709) was an eye-opener for me. Goals are just a means to an end. They're not the end in themselves.
@@ -119,7 +123,60 @@ Crucially, conquering our fears lowers our barrier to taking risks/actions. More
 
 ## Letting simplicity win
 
-Coming soon! Stay tuned!
+>
+> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+>
+> "Great leaders are almost always great simplifiers, who can cut through argument, debate, and doubt to offer a solution everybody can understand." - Colin Powell
+>
+> "Simplicity is the keynote of all true elegance." - Coco Chanel
+>
+
+The easiest way to ensure that a "system" endures is to keep it simple. Super, brain-dead simple. The simpler it is, the easier it is to follow that system.
+
+In Scott Adams' book, he dichotomizes people as either simplifiers or as optimizers. And he argues that we'd be better off if we stick with (or at least start with) the simplest solutions. I wholeheartedly agree. As a recovering (over)optimizer, I'm now firmly in the simplification camp. The more optimal solution is not guaranteed to be better. In fact, 99% of the times, simplification will beat optimization. But unfortunately, as human beings, our evolved brains are wired to seek out optimizations/efficiencies, which makes us veer towards the complex. But you HAVE TO resist that urge and let simplicity win.
+
+Why choose simple over optimal? Because choosing the simplest path makes it easier to get started, keep the momentum going, and ultimately get things done faster. Since there is almost no cognitive load involved, decisions get made faster. You don't have to tap into your will-power reserves either.
+
+Why let simplicity win?
+
+* . 
+* optimal might have higher TOC. 
+* solution should not be more complex than the problem you're trying to solve.
+* simplicity is related to energy levels
+
+>
+> "That's been one of my mantras – focus and simplicity. Simple can be harder than complex." - Steve Jobs
+>
+
+I now religiously pursue the simpler options in life; but it comes with a cost.
+- simpler might be more expensive
+- simpler might be less efficient (e.g. maybe PMS will beat index funds)
+- 
+
+Some examples where I have super-simplified my life:
+
+1. Investing: No point delving into complex investment instruments (F&O, commodities, REITs, AIFs, T-Bills, G-Secs et al). If you've followed the whole "active vs passive" investing debate, then you know that passive investing in index funds will win out over a 25+ year horizon. I just stick to those basics: mostly SIP investing in index funds.
+
+   > Aside: Bogleheads FTW!
+
+2. Clothes:
+3. Diet: No caffeine, no sugar, no alcohol, no tobacco, no drugs, no junk food, no processed food, no fast food, no soda, no soft drinks, no junk TV, no junk news, no junk social media, no junk internet, no junk email, no junk phone calls, no junk text messages, no junk mail, no junk ads, no junk anything. simplicity eliminates "baggage"/"side-effects": no alcohol, no drugs, no cigarettes, etc
+4. Work: The KISS principle. start simple, then optimize = Lean / MVP. Easier to communicate (Always opt for simplicity when communicating to a team/org. Zero ambiguity, clear signal)
+5. commute, not owning a car
+
+Simplicity and minimalism are recurring themes in my life. Te more I simplify my life, and eliminate non-essential excesses, the more I'm able to focus on the things that really matter to me.
+
+>
+> "Everything should be made as simple as possible, but not simpler." - Albert Einstein
+>
+
+There is a time & place, when you may have to opt for complexity.
+
+* you've outgrown the simple.
+* in late stages, when you've nailed simple
+* When you full understand the tradeoffs involved in switching from simple to complex.
+* if the probability of failure is high, you might as well stuck with simple
+* Only when we've exhausted all simpler options, should we start looking at more complex solutions.
 
 -----
 
@@ -164,3 +221,6 @@ A few books, blogs & podcasts have made a profound impact on my life. Here they 
 * [Dale Carnegie: How to win friends and influence people](https://www.amazon.in/How-Win-Friends-Influence-People/dp/0091906350)
 * [Chip Conley: Emotional equations](https://www.amazon.in/Emotional-Equations-Creating-Happiness-Business/dp/1451607261)
 * [Brené Brown: The gifts of imperfection](https://www.amazon.in/Gifts-Imperfection-Think-Supposed-Embrace/dp/159285849X)
+* [James Clear: Atomic habits](https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834)
+* [Cal Newport: Deep Work](https://www.amazon.in/Deep-Work-Focused-Success-Distracted/dp/0349413681)
+* [Clayton Christensen: How will you measure your life?](https://www.amazon.in/How-Will-Measure-Your-Life/dp/0062102419)
