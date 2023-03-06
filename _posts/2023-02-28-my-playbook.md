@@ -137,6 +137,10 @@ In Scott Adams' book, he dichotomizes people as either simplifiers or as optimiz
 
 Why choose simple over optimal? Because choosing the simplest path makes it easier to get started, keep the momentum going, and ultimately get things done faster. Since there is almost no cognitive load involved, decisions get made faster. You don't have to tap into your reserves of will-power, [energy](#maximizing-energy) and [focus](#maximizing-focus) either.
 
+> Quick tip: If you're dealing with something that has a high probability of failure anyways, you might as well stuck with the simple solution.
+
+-----
+
 >
 > "That's been one of my mantras – focus and simplicity. Simple can be harder than complex." - Steve Jobs
 >
@@ -156,16 +160,13 @@ Some examples where I have super-simplified my life:
 
 Simplicity and minimalism are recurring themes in my life. The more I simplify my life, and eliminate non-essential excesses, the more I'm able to focus on the things that really matter to me.
 
+-----
+
 >
 > "Everything should be made as simple as possible, but not simpler." - Albert Einstein
 >
 
-There is a time & place, when you may have to opt for complexity.
-
-* In late stages, when you've nailed the simple and outgrown it.
-* When you full understand the tradeoffs involved in switching from simple to complex.
-* if the probability of failure is high, you might as well stuck with simple
-* Only when we've exhausted all simpler options, should we start looking at more complex solutions.
+All said and done, there is definitely a time & place, when you may have to opt for complexity. This usually comes in the later stages AFTER you've nailed the simple, and have outgrown it. At this point, you'll also have a better understanding of the shortcoming/drawbacks of the simple, and the tradeoffs involved in switching from simple to complex.
 
 -----
 
