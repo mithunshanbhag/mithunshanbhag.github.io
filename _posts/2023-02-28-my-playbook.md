@@ -135,9 +135,9 @@ The easiest way to ensure that a "system" endures is to keep it simple. Super, b
 
 In Scott Adams' book, he dichotomizes people as either simplifiers or as optimizers. And he argues that we'd be better off if we stick with (or at least start with) the simplest solutions. I wholeheartedly agree. As a recovering over-optimizer, I'm now firmly in the simplification camp. An optimized solution will almost certainly have a higher TCO. Yet it is not guaranteed to be better. In fact, 99% of the times, simplification will beat optimization. But unfortunately, as human beings, our evolved brains are wired to seek out optimizations/efficiencies, which makes us veer towards the complex. But we HAVE TO resist that urge and let simplicity win.
 
-Why choose simple over optimal? Because choosing the simplest path makes it easier to get started, keep the momentum going, and ultimately get things done faster. Since there is almost no cognitive load involved, decisions get made faster. We don't have to tap into our reserves of will-power, [energy](#maximizing-energy) and [focus](#maximizing-focus) either. At work, principles like lean startup, minimum viable product, and the KISS principle are all about starting simple, iterating, and then optimizing later if necessary. Similar strategies can be applied to our personal lives as well.
+Why choose simple over optimal? Because choosing the simplest path makes it easier to get started, keep the momentum going, and ultimately get things done faster. Since there is less cognitive load involved, decisions get made faster. We don't have to tap into our reserves of will-power, [energy](#maximizing-energy) and [focus](#maximizing-focus) either. At work, principles like lean startup, minimum viable product, and the KISS principle are all about starting simple, iterating, and then optimizing later if necessary. Similar strategies can be applied to our personal lives as well.
 
-Keeping things simple is especially important when we're working in a team/organization. The simpler the system, the easier it is to communicate (less room for misinterpretation, ambiguity), the easier it is to onboard new team members, the easier it to iterate/maintain/improve/automate.
+Keeping things simple is especially important when we're working in a team/organization. The simpler the system, the easier it is to communicate (less room for misinterpretation, ambiguity), the easier it is to onboard new team members, the easier it is to iterate/maintain/improve/automate.
 
 Quick tip: If we're dealing with something that has a high probability of failure anyways, we might as well stick with whatever is simpler.
 
@@ -147,7 +147,7 @@ Quick tip: If we're dealing with something that has a high probability of failur
 > "That's been one of my mantras – focus and simplicity. Simple can be harder than complex." - Steve Jobs
 >
 
-I now religiously pursue the simpler options in my personal & professional life; it may come at a higher monetary cost. I'm OK with that. It will likely be less efficient. I'm OK with that too. But simpler will endure, and that's what matters the most to me. Some examples where I have super-simplified my life via elimination, delegation or automation:
+I now religiously pursue the simplest options in my personal & professional life. It may come at a higher monetary cost; I'm OK with that. It will likely be less efficient; I'm OK with that too. But simple will endure, and that's what matters the most to me. Some examples where I have super-simplified my life via elimination, delegation or automation:
 
 1. Automation: SIP investing, bill payments, recurring subscriptions.
 
