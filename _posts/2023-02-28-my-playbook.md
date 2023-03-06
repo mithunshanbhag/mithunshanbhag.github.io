@@ -133,11 +133,13 @@ Crucially, conquering our fears lowers our barrier to taking risks/actions. More
 
 The easiest way to ensure that a "system" endures is to keep it simple. Super, brain-dead simple. The simpler it is, the easier it is to follow that system.
 
-In Scott Adams' book, he dichotomizes people as either simplifiers or as optimizers. And he argues that we'd be better off if we stick with (or at least start with) the simplest solutions. I wholeheartedly agree. As a recovering over-optimizer, I'm now firmly in the simplification camp. An optimized solution will almost certainly have a higher TCO. Yet it is not guaranteed to be better. In fact, 99% of the times, simplification will beat optimization. But unfortunately, as human beings, our evolved brains are wired to seek out optimizations/efficiencies, which makes us veer towards the complex. But you HAVE TO resist that urge and let simplicity win.
+In Scott Adams' book, he dichotomizes people as either simplifiers or as optimizers. And he argues that we'd be better off if we stick with (or at least start with) the simplest solutions. I wholeheartedly agree. As a recovering over-optimizer, I'm now firmly in the simplification camp. An optimized solution will almost certainly have a higher TCO. Yet it is not guaranteed to be better. In fact, 99% of the times, simplification will beat optimization. But unfortunately, as human beings, our evolved brains are wired to seek out optimizations/efficiencies, which makes us veer towards the complex. But we HAVE TO resist that urge and let simplicity win.
 
-Why choose simple over optimal? Because choosing the simplest path makes it easier to get started, keep the momentum going, and ultimately get things done faster. Since there is almost no cognitive load involved, decisions get made faster. You don't have to tap into your reserves of will-power, [energy](#maximizing-energy) and [focus](#maximizing-focus) either.
+Why choose simple over optimal? Because choosing the simplest path makes it easier to get started, keep the momentum going, and ultimately get things done faster. Since there is almost no cognitive load involved, decisions get made faster. We don't have to tap into our reserves of will-power, [energy](#maximizing-energy) and [focus](#maximizing-focus) either. At work, principles like lean startup, minimum viable product, and the KISS principle are all about starting simple, iterating, and then optimizing later if necessary. Similar strategies can be applied to our personal lives as well.
 
-> Quick tip: If you're dealing with something that has a high probability of failure anyways, you might as well stuck with the simple solution.
+Keeping things simple is especially important when we're working in a team/organization. The simpler the system, the easier it is to communicate (less room for misinterpretation, ambiguity), the easier it is to onboard new team members, the easier it to iterate/maintain/improve/automate.
+
+Quick tip: If we're dealing with something that has a high probability of failure anyways, we might as well stick with whatever is simpler.
 
 -----
 
@@ -145,18 +147,18 @@ Why choose simple over optimal? Because choosing the simplest path makes it easi
 > "That's been one of my mantras – focus and simplicity. Simple can be harder than complex." - Steve Jobs
 >
 
-I now religiously pursue the simpler options in life; it may come at a higher monetary cost. I'm OK with that. It will likely be less efficient. I'm OK with that too. But simpler will endure. And that's what matters.
+I now religiously pursue the simpler options in my personal & professional life; it may come at a higher monetary cost. I'm OK with that. It will likely be less efficient. I'm OK with that too. But simpler will endure, and that's what matters the most to me. Some examples where I have super-simplified my life via elimination, delegation or automation:
 
-Some examples where I have super-simplified my life:
+1. Automation: SIP investing, bill payments, recurring subscriptions.
 
-1. Investing: No point delving into complex investment instruments (F&O, commodities, REITs, AIFs, T-Bills, G-Secs et al). If you've followed the whole "active vs passive" investing debate, then you know that passive investing in index funds will win out over a 25+ year horizon. I just stick to those basics: mostly SIP investing in index funds.
+2. Delegation: I hire a CA to handle my complex company-related paperwork (taxes, GST, compliances, etc). I could probably do these myself, but I'd rather spend my time on things that I'm good at. Also, I'd rather not risk messing up my taxes, or missing compliance-related deadlines! 😄
 
-   > Aside: Bogleheads FTW!
-
-2. Clothes:
-3. Diet: No caffeine, no sugar, no alcohol, no tobacco, no drugs, no junk food, no processed food, no fast food, no soda, no soft drinks, no junk TV, no junk news, no junk social media, no junk internet, no junk email, no junk phone calls, no junk text messages, no junk mail, no junk ads, no junk anything. simplicity eliminates "baggage"/"side-effects": no alcohol, no drugs, no cigarettes, etc
-4. Work: The KISS principle. start simple, then optimize = Lean / MVP. Easier to communicate (Always opt for simplicity when communicating to a team/org. Zero ambiguity, clear signal)
-5. commute, not owning a car
+3. Elimination: I've jettisoned a lot of baggage from my life:
+   * Caffeine, sugar, alcohol, tobacco, drugs, junk food, processed food, fast food, soda, soft drinks, anything fried, anything with refined flour. Consequently, I eliminate all the side effects & health risks that come from consuming these.
+   * I'm trying to eliminate junk food for my brain: twitter, reddit, youtube, instagram, screen time, etc. Not 100% successful yet, but I'm getting there.
+   * I don't see any point delving into complex investment instruments (F&O, commodities, REITs, AIFs, T-Bills, G-Secs et al). I've followed the whole "active vs passive" investing debate, and data shows that passive investing in index funds will win out over a 25+ year horizon. So I just stick to the basic index funds (Bogleheads FTW!).
+   * I just use Uber/Ola for my commuting needs. I never liked dealing with the baggage that came with owning a car: loan EMIs, registration, insurance, repairs, servicing, parking spots, gas, etc. I'm OK with paying a premium for the convenience of not having to deal with all that.
+   * My wardrobe is almost entirely made up of black t-shirt and jeans. Seems a bit excessive, but I have zero cognitive overload while answering the question "what should I wear today?".
 
 Simplicity and minimalism are recurring themes in my life. The more I simplify my life, and eliminate non-essential excesses, the more I'm able to focus on the things that really matter to me.
 
