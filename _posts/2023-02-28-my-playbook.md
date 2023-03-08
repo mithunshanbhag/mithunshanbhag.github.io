@@ -153,14 +153,12 @@ I now religiously pursue the simplest options in my personal & professional life
 
 2. Delegation: I hire a CA to handle my complex company-related paperwork (taxes, GST, compliances, etc). I could probably do these myself, but I'd rather spend my time on things that I'm good at. Also, I'd rather not risk messing up my taxes, or missing compliance-related deadlines! 😄
 
-3. Elimination: I've jettisoned a lot of baggage from my life:
+3. Elimination: Simplicity and minimalism are recurring themes in my life. The more I simplify my life, and eliminate non-essential excesses, the more I'm able to focus on the things that really matter to me. Some baggage that I've jettisoned from my life:
    * Caffeine, sugar, alcohol, tobacco, drugs, junk food, processed food, fast food, soda, soft drinks, anything fried, anything with refined flour. Consequently, I eliminate all the side effects & health risks that come from consuming these.
    * I'm trying to eliminate junk food for my brain: twitter, reddit, youtube, instagram, screen time, etc. Not 100% successful yet, but I'm getting there.
    * I don't see any point delving into complex investment instruments (F&O, commodities, REITs, AIFs, T-Bills, G-Secs et al). I've followed the whole "active vs passive" investing debate, and data shows that passive investing in index funds will win out over a 25+ year horizon. So I just stick to the basic index funds (Bogleheads FTW!).
    * I just use Uber/Ola for my commuting needs. I never liked dealing with the baggage that came with owning a car: loan EMIs, registration, insurance, repairs, servicing, parking spots, gas, etc. I'm OK with paying a premium for the convenience of not having to deal with all that.
    * My wardrobe is almost entirely made up of black t-shirt and jeans. Seems a bit excessive, but I have zero cognitive overload while answering the question "what should I wear today?".
-
-Simplicity and minimalism are recurring themes in my life. The more I simplify my life, and eliminate non-essential excesses, the more I'm able to focus on the things that really matter to me.
 
 -----
 
