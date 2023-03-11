@@ -22,7 +22,7 @@ _Note: This [blog post](https://blogs.msdn.microsoft.com/appserviceteam/2018/02/
 
 ### 2. Azure functions v2.x don't yet support OpenAPI / swagger
 
-We use azure [API management](https://docs.microsoft.com/en-in/azure/api-management/) (API gateway) as a "front-door" to our Web APIs. Since [v2.x azure functions don't yet support OpenAPI / swagger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition#set-the-functions-runtime-version), it is not possible to import them into the azure API management ([related twitter thread](https://twitter.com/MithunShanbhag/status/1025052593221820417).
+We use azure [API management](https://docs.microsoft.com/en-in/azure/api-management/) (API gateway) as a "front-door" to our Web APIs. Since [v2.x azure functions don't yet support OpenAPI / swagger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition#set-the-functions-runtime-version), it is not possible to import them into the azure API management ([related twitter thread](https://twitter.com/MithunShanbhag/status/1025052593221820417)).
 
 You'll have to generate the openAPI definitions either manually or using external tools (swagger inspector, postman etc) which again is a tedious process. Currently, it is not possible to use [swashbuckle](https://github.com/domaindrivendev/Swashbuckle) with azure functions either.
 

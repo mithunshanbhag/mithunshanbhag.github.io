@@ -70,18 +70,18 @@ Availability sets are free (you're only charged for the VMs and resources placed
 
 ## Managed disks and managed availability sets
 
-#### The issue with unmanaged disks in an availability set
+### The issue with unmanaged disks in an availability set
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability)]_
 [![unmanaged availability set](https://assets.cloudskew.com/assets/blog/images/21-azure-av-set-unmanaged-disks.jpg)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability?#use-managed-disks-for-vms-in-an-availability-set)
 
 The storage accounts associated with unmanaged disks in an availability set are all placed in a single storage scale unit (stamp), which then becomes a single point of failure.
 
-#### Benefits of managed disks
+### Benefits of managed disks
 
 With [Azure managed disks](https://docs.microsoft.com/en-gb/azure/virtual-machines/windows/managed-disks-overview), you no longer have to explicitly provision storage accounts to back your disks. Managed disks provide a convenient abstraction over storage accounts, blob containers and page blobs. Internally, managed disks use [LRS storage](../../../2019/03/02/high-availability-azure-5-storage/#lrs-locally-redundant-storage) (3 redundant copies within a storage scale unit inside a single datacenter).
 
-#### Managed disks go in managed availability sets
+### Managed disks go in managed availability sets
 
 If you plan to use managed disks, please ensure you select the "aligned" option while creating the availability set. This effectively creates a managed availability set.
 
@@ -91,12 +91,13 @@ To [migrate VMs in an existing availability set to managed disks](https://docs.m
 
 Please note that the [max number of managed FDs will depend on the availability set's region](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability#number-of-fault-domains-per-region).
 
-#### Managed availability sets get it right
+### Managed availability sets get it right
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability)]_
 [![unmanaged availability set](https://assets.cloudskew.com/assets/blog/images/22-azure-av-set-managed-disks.jpg)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability?#use-managed-disks-for-vms-in-an-availability-set)
 
 The managed disks in an availability set are all placed in a multiple storage scale units (stamps), aligned with VM FDs, avoiding a single point of failure. In the event of a storage scale unit failing, only VMs with managed disks in that storage scale unit will fail (other VMs will be unaffected). This increases the overall availability of the VMs in that availability set.
 
+<!-- markdownlint-disable-next-line MD033 -->
 <br>
 _That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._

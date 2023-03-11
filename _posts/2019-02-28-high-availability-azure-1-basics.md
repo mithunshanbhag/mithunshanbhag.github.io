@@ -28,11 +28,11 @@ In order to understand high availability in Azure, we first need to dig into som
 
 [![azure global infrastructure](https://assets.cloudskew.com/assets/blog/images/04-azure-global-infra.jpg)](https://assets.cloudskew.com/assets/blog/images/04-azure-global-infra.jpg)
 
-#### Geography
+### Geography
 
 The "highest-level" entity that exists to meet [data residency](https://azuredatacentermap.azurewebsites.net/), compliance and sovereignty requirements. Currently there are [4 Azure geographies](https://azure.microsoft.com/en-us/global-infrastructure/geographies/) - Americas, Europe, Asia Pacific and Middle East + Africa. An Azure geography contains two or more Azure regions within it.
 
-#### Region
+### Region
 
 As of the time of writing this post, there are [53 Azure regions](https://azure.microsoft.com/en-us/global-infrastructure/regions/) (with 8 more announced) spread across 4 Azure geographies. Each Azure region contains a inter-connected set of datacenters (all datacenters within an azure region are connected via a dedicated regional low-latency network).
 
@@ -44,14 +44,14 @@ _[image attribution: [Azure website](https://azure.microsoft.com/en-us/global-in
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)]_
 [![azure regions](https://assets.cloudskew.com/assets/blog/images/02-azure-availability-zones.jpg)](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
 
-#### Paired Regions
+### Paired Regions
 
 It is recommended that your redundancies span across a set of [paired regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions) in order to meet data residency & compliance requirements even during planned platform maintenance & outages. Azure ensures that during planned platform maintenance, only one region in each pair is updated at a time. Also during multi-regional outages, azure ensures that at least one region in each pair will be prioritized for recovery.
 
 _[image attribution: [Azure documentation](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions)]_
 [![azure regions](https://assets.cloudskew.com/assets/blog/images/03-azure-paired-regions.jpg)](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions)
 
-#### Availability Zone
+### Availability Zone
 
 An [availability zone](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview) comprises of one or more datacenters. Each availability zone has its own autonomous, independent infrastructure for power, cooling, and networking.
 
@@ -63,19 +63,19 @@ The Azure resources that support availability zones are [listed here](https://do
 
 I'll talk about availability zones in detail in a future blog post in this series.
 
-#### Datacenter
+### Datacenter
 
 You can watch one of [Mark Russinovich](https://twitter.com/markrussinovich)'s excellent presentations ([link1](https://www.youtube.com/watch?v=D8hMu4jJAwo), [link2](https://www.youtube.com/watch?v=m7I8ANssACk), [link3](https://www.youtube.com/watch?v=t3Vo37V9oU8) and [link4](https://youtu.be/S2zguwKvlQk)) to peek into what an Azure datacenter comprises of. Also you can take a [virtual tour](https://cloud-platform-assets.azurewebsites.net/datacenter/index.html) of an Azure datacenter.
 
-#### Fault domain (physical server rack)
+### Fault domain (physical server rack)
 
 A single physical rack is considered as a fault domain, since all servers in that rack are connected by common points of failure (common power source and common network switch).
 
-#### Update domain
+### Update domain
 
 An update domain is a logical grouping of machines that Azure upgrades/patches simultaneously during planned platform maintenance.
 
-#### Availability Set
+### Availability Set
 
 It's always a bad idea to run a production workload on a single VM. Best to provision multiple VMs in an [availability set](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#availability-sets), which is a logical grouping of VMs within a datacenter across multiple [fault & update domains](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability#fault-domains).
 
@@ -85,15 +85,16 @@ My next blog post will explore availability sets for VMs in detail.
 
 ## Preemptive FAQs
 
-#### What about VM scale sets?
+### What about VM scale sets?
 
 [VM scale sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview) exist for horizontal scaling under load. In _**my**_ opinion, they have almost nothing to do with redundancies for high availability. So I'll be excluding them from this particular blog series. Perhaps I'll address them in a future series on horizontal & vertical scaling for Azure resources.
 
 Aside: Horizontal scaling & high availability address slightly different issues (performance & reliability respectively). The former adds additional instances when under load to ensure performant service. The latter adds redundant instances (irrespective of load) to prevent service disruption during outages.
 
-#### Will I address high availability on Azure's government cloud?
+### Will I address high availability on Azure's government cloud?
 
 No. I know very little about Azure's government cloud. You're welcome to read the [documentation](https://docs.microsoft.com/en-in/azure/azure-government/) yourself.
 
+<!-- markdownlint-disable-next-line MD033 -->
 <br>
-_Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
+_Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}}).

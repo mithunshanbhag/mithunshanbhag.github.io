@@ -93,5 +93,6 @@ WebSpaces are units of deployment for Azure App Service Plans. An [App Service P
 
 To see the WebSpace associated with an App Service App or App Service Plan, navigate to that resource in the Azure Resource Explorer (via the [Azure Portal](https://portal.azure.com/#blade/HubsExtension/ArmExplorerBlade) or via the [website](https://resources.azure.com/)) and see the `WebSpace` and `SelfLink` properties.
 
+<!-- markdownlint-disable-next-line MD033 -->
 <br>
 _That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._

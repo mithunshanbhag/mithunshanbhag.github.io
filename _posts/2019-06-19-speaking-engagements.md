@@ -4,7 +4,7 @@ title: "Speaking Engagements"
 comments: true
 ---
 
-I often speak at meetup groups and tech conferences targeted at software developers and devops engineers. Just like my blog posts, my talks are mostly centered on open-source, cross-platform technologies driven by Microsoft _(.net core, asp.net core, azure cloud, powershell core, typescript etc)_. 
+I often speak at meetup groups and tech conferences targeted at software developers and devops engineers. Just like my blog posts, my talks are mostly centered on open-source, cross-platform technologies driven by Microsoft _(.net core, asp.net core, azure cloud, powershell core, typescript etc)_.
 
 Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mithunshanbhag/presentations).
 
@@ -59,5 +59,6 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
   * _[Slides](https://www.slideshare.net/mithunshanbhag/creating-usermode-debuggers-for-windows)_
   * _Circa 2004 \| Syracuse University_
 
+<!-- markdownlint-disable-next-line MD033 -->
 <br>
 _Please do get in touch if you'd like me to speak at your meetup group or tech conference. You can leave a comment below or [DM me on twitter]({{site.author.twitter}})._
