@@ -63,6 +63,7 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 * small bets
 * deep work, deep focus, avoid distractions
 * prioritize yourself first, the selfishness illusion
+* prioritizing: important vs urgent
 * inbound, not outbound. make them come to you. don't go to them. pull, not push. get pursued, don't pursue.
 * purpose, focus (maximizing your focus)
 * saying no often (in order to pick the right opportunity, in order to prioritize yourself)
