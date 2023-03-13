@@ -52,14 +52,6 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 * energy management vs time management
 * association programming, environments, create a pit of success
 * deciding vs wanting
-* leverage (how to get 10X output for 1X input, scaling)
-  * capital/money
-  * knowledge/specialization
-  * tech (code)
-  * social media
-  * labour
-  * content: books, videos, podcasts, blogs etc
-  * note: avoid renting out your time, it prevents scaling
 * relying on gut/intuition
 * go after the toughest problems to solve. Don't be in a supporting role. Be a Messi/Ronaldo. Get the bacon for your team.
 * dates, deadlines, calendar, trello, visualization
@@ -80,3 +72,4 @@ Some principles (these are not really habits/systems):
 
 * hold options, hold the power. your loyalty is to yourself.
 * if it is important to you, you will find a way. if not, you'll find an excuse.
+* hold frame
