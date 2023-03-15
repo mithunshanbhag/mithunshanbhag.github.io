@@ -178,7 +178,7 @@ All said and done, there is definitely a time & place, when you may have to opt 
 
 If my energy levels are high, I can pretty much bulldoze through any todo list. Maximizing my energy levels is a super-simple process; in fact, I'll let ChatGPT summarize the steps for me 😃
 
-1. Get enough sleep: One of the most important things we can do to boost our energy levels is to get enough sleep. Aiming for 7-8 hours of sleep per night help our body recharge and feel refreshed. Deep restorative sleep supercharges our batteries.
+1. Get enough sleep: One of the most important things we can do to boost our energy levels is to get enough sleep. Aiming for 7-8 hours of sleep per night helps our body recharge and feel refreshed. Deep restorative sleep supercharges our batteries.
 
 2. Exercise regularly: Exercise is another key factor in maximizing our energy levels. Regular exercise can help improve our mood, boost our energy, and increase our overall fitness levels.
 
