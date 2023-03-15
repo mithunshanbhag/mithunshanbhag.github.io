@@ -172,30 +172,27 @@ All said and done, there is definitely a time & place, when you may have to opt 
 
 ## Maximizing energy
 
-There are several ways you can maximize your energy levels:
+>
+> "Energy and persistence conquer all things." - Benjamin Franklin
+>
 
-    Get enough sleep: One of the most important things you can do to boost your energy levels is to get enough sleep. Aim for 7-8 hours of sleep per night to help your body recharge and feel refreshed.
+If my energy levels are high, I can pretty much bulldoze through any todo list. Maximizing my energy levels is a super-simple process; in fact, I'll let ChatGPT summarize the steps for me 😃
 
-    Exercise regularly: Exercise is another key factor in maximizing your energy levels. Regular exercise can help improve your mood, boost your energy, and increase your overall fitness levels.
+1. Get enough sleep: One of the most important things you can do to boost your energy levels is to get enough sleep. Aim for 7-8 hours of sleep per night to help your body recharge and feel refreshed. Deep restorative sleep supercharges your batteries.
 
-    Eat a healthy diet: Eating a balanced diet rich in whole foods, including fruits, vegetables, lean proteins, and healthy fats, can help provide your body with the nutrients it needs to function at its best.
+2. Exercise regularly: Exercise is another key factor in maximizing your energy levels. Regular exercise can help improve your mood, boost your energy, and increase your overall fitness levels.
 
-    Stay hydrated: Dehydration can cause fatigue, so be sure to drink plenty of water throughout the day to stay hydrated.
+3. Eat a healthy diet: Eating a balanced diet rich in whole foods, including fruits, vegetables, lean proteins, and healthy fats, can help provide your body with the nutrients it needs to function at its best. Eliminate caffeine, alcohol, and other artificial stimulants from your life.
 
-    Manage stress: Chronic stress can sap your energy levels, so it's important to find ways to manage stress in your life. Try meditation, deep breathing, or other relaxation techniques to help reduce stress.
+4. Stay hydrated: Dehydration can cause fatigue, so be sure to drink plenty of water throughout the day to stay hydrated.
 
-    Take breaks: Taking regular breaks throughout the day can help prevent burnout and keep your energy levels up. Even just a short walk or stretching break can help you recharge.
+5. Get enough sunlight: Getting enough sunlight can help boost your energy levels and improve your mood. Try to get outside for at least 15 minutes each day to soak up some sun.
 
-    Limit caffeine and alcohol: While caffeine and alcohol can provide a temporary energy boost, they can also disrupt sleep and lead to fatigue over time. Limit your intake of these substances to help maintain steady energy levels throughout the day.
+6. Posture: Your posture can have a big impact on your energy levels. For example, slouching can make you feel more tired and sluggish, while sitting up straight can help you feel more alert and energized. Even better, just get a standing desk if you can.
 
-Yes, environmental factors, posture, and social associations can also affect energy levels. Here's how:
+7. Environmental factors: Your environment can have a big impact on your energy levels. For example, if you work in a dimly lit, stuffy office with poor air quality, you may feel more sluggish and tired than if you worked in a bright, airy space with good ventilation. Similarly, exposure to natural light can help regulate your body's sleep-wake cycle and boost energy levels during the day.
 
-    Environmental factors: Your environment can have a big impact on your energy levels. For example, if you work in a dimly lit, stuffy office with poor air quality, you may feel more sluggish and tired than if you worked in a bright, airy space with good ventilation. Similarly, exposure to natural light can help regulate your body's sleep-wake cycle and boost energy levels during the day.
-
-    Posture: Your posture can also affect your energy levels. Slouching or hunching over can constrict your breathing and cause muscle tension, which can lead to fatigue and low energy levels. On the other hand, sitting up straight with your shoulders back and your chest open can help you breathe more deeply and improve blood flow, which can boost energy levels.
-
-    Social associations: The people you surround yourself with can also affect your energy levels. If you spend time with people who are negative, critical, or draining, you may find that your energy levels are lower after spending time with them. Conversely, spending time with positive, supportive, and uplifting people can boost your energy and improve your mood.
-
+8. Social associations: The people you surround yourself with can also affect your energy levels. If you spend time with people who are negative, critical, or draining, you may find that your energy levels are lower after spending time with them. Conversely, spending time with positive, supportive, and uplifting people can boost your energy and improve your mood.
 
 -----
 
@@ -207,18 +204,7 @@ Coming soon! Stay tuned!
 
 ## Applying leverage
 
-* leverage (how to get 10X output for 1X input, scaling)
-  * capital/money
-  * knowledge/specialization
-  * tech (code) / skills
-  * social media
-  * team/org
-  * labour
-  * content: books, videos, podcasts, blogs etc
-  * alumni network
-  * note: avoid renting out your time, it prevents scaling
-
-If you need to scale, you cannot be a bottleneck.
+Coming soon! Stay tuned!
 
 -----
 

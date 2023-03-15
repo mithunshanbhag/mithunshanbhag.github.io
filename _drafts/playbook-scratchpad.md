@@ -49,6 +49,23 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 
 -----
 
+## Applying leverage
+
+* leverage (how to get 10X output for 1X input, scaling)
+  * capital/money
+  * knowledge/specialization
+  * tech (code) / skills
+  * social media
+  * team/org
+  * labour
+  * content: books, videos, podcasts, blogs etc
+  * alumni network
+  * note: avoid renting out your time, it prevents scaling
+
+If you need to scale, you cannot be a bottleneck.
+
+-----
+
 * energy management vs time management
 * association programming, environments, create a pit of success
 * deciding vs wanting
