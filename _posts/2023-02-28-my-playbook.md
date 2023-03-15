@@ -178,21 +178,21 @@ All said and done, there is definitely a time & place, when you may have to opt 
 
 If my energy levels are high, I can pretty much bulldoze through any todo list. Maximizing my energy levels is a super-simple process; in fact, I'll let ChatGPT summarize the steps for me 😃
 
-1. Get enough sleep: One of the most important things you can do to boost your energy levels is to get enough sleep. Aim for 7-8 hours of sleep per night to help your body recharge and feel refreshed. Deep restorative sleep supercharges your batteries.
+1. Get enough sleep: One of the most important things we can do to boost our energy levels is to get enough sleep. Aiming for 7-8 hours of sleep per night help our body recharge and feel refreshed. Deep restorative sleep supercharges our batteries.
 
-2. Exercise regularly: Exercise is another key factor in maximizing your energy levels. Regular exercise can help improve your mood, boost your energy, and increase your overall fitness levels.
+2. Exercise regularly: Exercise is another key factor in maximizing our energy levels. Regular exercise can help improve our mood, boost our energy, and increase our overall fitness levels.
 
-3. Eat a healthy diet: Eating a balanced diet rich in whole foods, including fruits, vegetables, lean proteins, and healthy fats, can help provide your body with the nutrients it needs to function at its best. Eliminate caffeine, alcohol, and other artificial stimulants from your life.
+3. Eat a healthy diet: Eating a balanced diet rich in whole foods, including fruits, vegetables, lean proteins, and healthy fats, can help provide our body with the nutrients it needs to function at its best. Just eliminate caffeine, alcohol, and other artificial stimulants.
 
 4. Stay hydrated: Dehydration can cause fatigue, so be sure to drink plenty of water throughout the day to stay hydrated.
 
-5. Get enough sunlight: Getting enough sunlight can help boost your energy levels and improve your mood. Try to get outside for at least 15 minutes each day to soak up some sun.
+5. Get enough sunlight: Getting enough sunlight can help boost our energy levels and improve our mood. Try to get outside for at least 15 minutes each day to soak up some sun.
 
-6. Posture: Your posture can have a big impact on your energy levels. For example, slouching can make you feel more tired and sluggish, while sitting up straight can help you feel more alert and energized. Even better, just get a standing desk if you can.
+6. Posture: Our posture can have a big impact on our energy levels. For example, slouching can make us feel more tired and sluggish, while sitting up straight can help us feel more alert and energized. I've found a standing desk to be immensely helpful.
 
-7. Environmental factors: Your environment can have a big impact on your energy levels. For example, if you work in a dimly lit, stuffy office with poor air quality, you may feel more sluggish and tired than if you worked in a bright, airy space with good ventilation. Similarly, exposure to natural light can help regulate your body's sleep-wake cycle and boost energy levels during the day.
+7. Environmental factors: Our environment can have a big impact on our energy levels. For example, if we work in a dimly lit, stuffy office with poor air quality, we may feel more sluggish and tired than if we worked in a bright, airy space with good ventilation. Similarly, exposure to natural light can help regulate our body's sleep-wake cycle and boost energy levels during the day.
 
-8. Social associations: The people you surround yourself with can also affect your energy levels. If you spend time with people who are negative, critical, or draining, you may find that your energy levels are lower after spending time with them. Conversely, spending time with positive, supportive, and uplifting people can boost your energy and improve your mood.
+8. Social associations: The people we surround ourself with can also affect our energy levels. If we spend time with people who are negative, critical, or draining, we may find that our energy depleted after spending time with them. Conversely, spending time with positive, supportive, and uplifting people can boost our energy and improve our mood.
 
 -----
 
