@@ -188,7 +188,7 @@ If my energy levels are high, I can pretty much bulldoze through any todo list. 
 
 5. Get enough sunlight: Getting enough sunlight can help boost our energy levels and improve our mood. Try to get outside for at least 15 minutes each day to soak up some sun.
 
-6. Posture: Our posture can have a big impact on our energy levels. For example, slouching can make us feel more tired and sluggish, while sitting up straight can help us feel more alert and energized. I've found a standing desk to be immensely helpful.
+6. Posture: Our posture can have a big impact on our energy levels ([check out Amy Cuddy's TED talk](https://youtu.be/Ks-_Mh1QhMc)). For example, slouching can make us feel more tired and sluggish, while sitting up straight can help us feel more alert and energized. I've found a standing desk to be immensely helpful.
 
 7. Environmental factors: Our environment can have a big impact on our energy levels. For example, if we work in a dimly lit, stuffy office with poor air quality, we may feel more sluggish and tired than if we worked in a bright, airy space with good ventilation. Similarly, exposure to natural light can help regulate our body's sleep-wake cycle and boost energy levels during the day.
 
