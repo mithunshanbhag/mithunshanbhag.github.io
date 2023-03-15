@@ -61,7 +61,7 @@ I'm not going to regurgitate what Scott Adams has already said in his book, but 
 
 Financial systems: Someday, I'll do a deep-dive on these, but for now, I'll just briefly mention them: diversifying income streams, regular SIP investing, creating an emergency fund, creating a succession plan (will), getting insured (health & term/life), and saving on taxes.
 
-Productivity systems: Our productivity is a mostly function of two things: our ability to pick the right things to do, and our ability to getting those things done fast. Some systems that apply here: [taking small bets](#taking-small-bets), [letting simplicity win](#letting-simplicity-win), [conquering fear](#conquering-fear), [maximizing energy](#maximizing-energy), [maximizing focus](#maximizing-focus), [being uncomfortable](#being-uncomfortable) and [applying leverage](#applying-leverage).
+Productivity systems: Our productivity is a mostly function of two things: our ability to pick the right things to do, and our ability to getting those things done fast. Once you've identified the right problems to tackle, then it's all about lowering your "Mean Time To Resolution (MTTR)", getting things done at lightning speed. Some systems that apply here: [taking small bets](#taking-small-bets), [letting simplicity win](#letting-simplicity-win), [conquering fear](#conquering-fear), [maximizing energy](#maximizing-energy), [maximizing focus](#maximizing-focus), [being uncomfortable](#being-uncomfortable) and [applying leverage](#applying-leverage).
 
 > Aside: Yes, some of these systems may seem a bit "out there" (for lack of a better word). I'll expound more on them in the coming sections. Stick with me, it's well worth it. Read on.
 
@@ -172,7 +172,27 @@ All said and done, there is definitely a time & place, when you may have to opt 
 
 ## Maximizing energy
 
-Coming soon! Stay tuned!
+>
+> "Energy and persistence conquer all things." - Benjamin Franklin
+>
+
+If my energy levels are high, I can pretty much bulldoze through any todo list. Maximizing my energy levels is a super-simple process; in fact, I'll let ChatGPT summarize the steps for me 😃
+
+1. Get enough sleep: One of the most important things we can do to boost our energy levels is to get enough sleep. Aiming for 7-8 hours of sleep per night help our body recharge and feel refreshed. Deep restorative sleep supercharges our batteries.
+
+2. Exercise regularly: Exercise is another key factor in maximizing our energy levels. Regular exercise can help improve our mood, boost our energy, and increase our overall fitness levels.
+
+3. Eat a healthy diet: Eating a balanced diet rich in whole foods, including fruits, vegetables, lean proteins, and healthy fats, can help provide our body with the nutrients it needs to function at its best. Just eliminate caffeine, alcohol, and other artificial stimulants.
+
+4. Stay hydrated: Dehydration can cause fatigue, so be sure to drink plenty of water throughout the day to stay hydrated.
+
+5. Get enough sunlight: Getting enough sunlight can help boost our energy levels and improve our mood. Try to get outside for at least 15 minutes each day to soak up some sun.
+
+6. Posture: Our posture can have a big impact on our energy levels. For example, slouching can make us feel more tired and sluggish, while sitting up straight can help us feel more alert and energized. I've found a standing desk to be immensely helpful.
+
+7. Environmental factors: Our environment can have a big impact on our energy levels. For example, if we work in a dimly lit, stuffy office with poor air quality, we may feel more sluggish and tired than if we worked in a bright, airy space with good ventilation. Similarly, exposure to natural light can help regulate our body's sleep-wake cycle and boost energy levels during the day.
+
+8. Social associations: The people we surround ourself with can also affect our energy levels. If we spend time with people who are negative, critical, or draining, we may find that our energy depleted after spending time with them. Conversely, spending time with positive, supportive, and uplifting people can boost our energy and improve our mood.
 
 -----
 
