@@ -61,7 +61,7 @@ I'm not going to regurgitate what Scott Adams has already said in his book, but 
 
 Financial systems: Someday, I'll do a deep-dive on these, but for now, I'll just briefly mention them: diversifying income streams, regular SIP investing, creating an emergency fund, creating a succession plan (will), getting insured (health & term/life), and saving on taxes.
 
-Productivity systems: Our productivity is a mostly function of two things: our ability to pick the right things to do, and our ability to getting those things done fast. Once you've identified the right problems to tackle, then it's all about lowering your "Mean Time To Resolution (MTTR)", getting things done at lightning speed. Some systems that apply here: [taking small bets](#taking-small-bets), [letting simplicity win](#letting-simplicity-win), [conquering fear](#conquering-fear), [maximizing energy](#maximizing-energy), [maximizing focus](#maximizing-focus), [being uncomfortable](#being-uncomfortable) and [applying leverage](#applying-leverage).
+Productivity systems: Our productivity is a mostly function of two things: our ability to pick the right things to do, and our ability to getting those things done fast. Once you've identified the right problems to tackle, then it's all about lowering your "Mean Time To Resolution (MTTR)", getting things done at lightning speed. Some systems that apply here: [taking small bets](#taking-small-bets), [letting simplicity win](#letting-simplicity-win), [conquering fear](#conquering-fear), [maximizing energy](#maximizing-energy), [maximizing focus](#maximizing-focus), [managing your environments](#managing-your-environments), [being uncomfortable](#being-uncomfortable) and [applying leverage](#applying-leverage).
 
 > Aside: Yes, some of these systems may seem a bit "out there" (for lack of a better word). I'll expound more on them in the coming sections. Stick with me, it's well worth it. Read on.
 
@@ -202,6 +202,12 @@ Coming soon! Stay tuned!
 
 -----
 
+## Managing your environments
+
+Coming soon! Stay tuned!
+
+-----
+
 ## Applying leverage
 
 Coming soon! Stay tuned!
@@ -234,3 +240,4 @@ A few books, blogs & podcasts have made a profound impact on my life. Here they 
 * [James Clear: Atomic habits](https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834)
 * [Cal Newport: Deep Work](https://www.amazon.in/Deep-Work-Focused-Success-Distracted/dp/0349413681)
 * [Clayton Christensen: How will you measure your life?](https://www.amazon.in/How-Will-Measure-Your-Life/dp/0062102419)
+* [Marshall Goldsmith: Triggers](https://www.amazon.in/Triggers-Creating-Behavior-Lasts-Becoming-Person/dp/0553550934)
