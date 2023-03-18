@@ -66,6 +66,14 @@ If you need to scale, you cannot be a bottleneck.
 
 -----
 
+## Maximizing your focus
+
+* Growing your focus required intentional exercises. Exactly like physical exercises.
+* You're super intentional about what you feed your body. Do the same for your mind.
+* Social media is junk food for the brain.
+
+-----
+
 * energy management vs time management
 * association programming, environments, create a pit of success
 * deciding vs wanting
