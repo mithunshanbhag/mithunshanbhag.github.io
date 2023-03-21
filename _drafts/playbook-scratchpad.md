@@ -71,6 +71,8 @@ If you need to scale, you cannot be a bottleneck.
 * Growing your focus required intentional exercises. Exactly like physical exercises.
 * You're super intentional about what you feed your body. Do the same for your mind.
 * Social media is junk food for the brain.
+* Social media is like lays chips. No one can eat just one. Hence doom scrolling follows.
+* Control/regulate your inputs
 
 -----
 
