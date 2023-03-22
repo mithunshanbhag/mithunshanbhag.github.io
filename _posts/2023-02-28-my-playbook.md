@@ -73,13 +73,11 @@ Productivity systems: Our productivity is a mostly function of two things: our a
 > "Life shrinks or expands in proportion to one's courage." - Anais Nin
 >
 
-I can attribute most of my growth to doing things that INITIALLY scared me: <@TODO: Examples of fear>
-
-What we loosely term as **fear** is generally a brain cocktail blended from multiple ingredients: anxiety, shame, guilt, humiliation, embarrassment, regret, uncertainty, helplessness, inexperience, unfamiliarity, vulnerability, despair, ego, unhappiness, insecurities, laziness, inertia, mistrust, and many more. Yes, and fear itself.
+What we loosely term as **fear** is generally a brain cocktail blended from multiple ingredients: anxiety, shame, guilt, humiliation, embarrassment, regret, uncertainty, helplessness, inexperience, inhibitions, unfamiliarity, vulnerability, apprehension, despair, ego, unhappiness, insecurities, laziness, inertia, mistrust, and many more. Yes, and fear itself.
 
 > Aside: I highly recommend the books by Brené Brown and Chip Conley on many of these fascinating topics.
 
-But know that there is no workaround, we have to take these fears head-on: we have to acknowledge them, define them, face them, and ultimately take action to conquer them.
+But know that there is no workaround, we have to take these fears head-on: we have to acknowledge them, define them, face them, and ultimately take action to conquer them. I can attribute most of my growth to doing things that INITIALLY and IRRATIONALLY scared me: <@TODO: Examples of fear>
 
 -----
 
