@@ -51,7 +51,7 @@ Instead of creating goals, we need to create systems: something we execute repea
 
 For a system to endure, it needs to be consistently executed. The more predictable and boring a system is, the better. The more automated a system is, the better. We have to take will-power out of the equation (cause we only have a very finite supply of it).
 
-With systems, we're creating our personal **pit of success**, that we'll ultimately fall into.
+With systems, we're creating the guardrails that prevents our lives from falling off the cliff, or into a ditch.
 
 > Aside: The words 'systems', 'habits', 'routines', 'practices', 'rituals, 'frameworks', 'trainings' etc. are all synonyms for me. I use them interchangeably.
 

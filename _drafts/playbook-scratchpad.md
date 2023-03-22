@@ -76,6 +76,12 @@ If you need to scale, you cannot be a bottleneck.
 
 -----
 
+## Managing your environment
+
+We need to create our personal **pit of success**, that we'll ultimately fall into.
+
+-----
+
 * energy management vs time management
 * association programming, environments, create a pit of success
 * deciding vs wanting
