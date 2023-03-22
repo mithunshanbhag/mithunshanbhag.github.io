@@ -91,7 +91,7 @@ Two things that have helped me tremendously in dealing with my fears:
    * Then I write down the worst-case scenarios for each fear.
    * Then I write down what I'll do should that worst case scenario ever materialize.
 
-   As an example, I have a (possibly irrationally) paranoia about losing my phone. So I did a simple fear-setting exercise, documenting the worst case outcomes, and the steps that I can take to prevent/mitigate them ([LINK]({{ site.baseurl }}{% post_url 2023-02-25-preparing-for-device-loss %})).
+   As an example, I have a (possibly irrational) paranoia about losing my phone. So I did a simple fear-setting exercise, documenting the worst case outcomes, and the steps that I can take to prevent/mitigate them ([LINK]({{ site.baseurl }}{% post_url 2023-02-25-preparing-for-device-loss %})).
 
 2. [Jeff Bezos recommends having a bias for action](https://youtu.be/NqVoOC2azZI). Take SOME action. ANY action. Basically, just put something into motion.
 
