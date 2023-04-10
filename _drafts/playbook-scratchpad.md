@@ -68,11 +68,33 @@ If you need to scale, you cannot be a bottleneck.
 
 ## Maximizing your focus
 
+>
+> "All of humanity's problems stem from man's inability to sit quietly in a room alone." - Blaise Pascal
+>
+> "The ability to focus is the single most important skill you can have in life." - Naval Ravikant
+>
+> "The successful warrior is the average man with laser-like focus." - Bruce Lee
+>
+> "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell
+>
+> "Energy goes where attention flows." - Tony Robbins
+>
+> "Always remember, your focus determines your reality." - Qui-Gon Jinn
+>
+> "The ability to focus attention on important things is a defining characteristic of intelligence." - Robert J Schiller
+>
+> "To me, the mind should be a servant and a tool, not a master. My monkey mind should not control and drive me 24/7." - Naval Ravikant
+
+Just training your brain to stay focused on the task at hand gives you a massive advantage over distracted people. It's almost a super-power or cheat-code of sorts. Feels unfair even. 🤷
+
 * Growing your focus required intentional exercises. Exactly like physical exercises.
 * You're super intentional about what you feed your body. Do the same for your mind.
 * Social media is junk food for the brain.
 * Social media is like lays chips. No one can eat just one. Hence doom scrolling follows.
 * Control/regulate your inputs
+* deep work, deep focus, avoid distractions
+
+In order to maximize focus, you have to minimize distractions. If you can afford it, throw money at these 'distractions' to make them go away. How do you know if you can afford to do so? I use Naval's rule: I have an internal billing rate for my time. I multiply this billing rate by the time taken up by these distractions. This is the time I could be billing my clients. If the time taken up by these distractions is more than the time I could be billing my clients, then I can afford to throw money at these distractions to make them go away. <@TODO: Refine this>
 
 -----
 
@@ -94,7 +116,6 @@ We need to create our personal **pit of success**, that we'll ultimately fall in
 * reducing orders of ignorance
 * situational awareness
 * small bets
-* deep work, deep focus, avoid distractions
 * prioritize yourself first, the selfishness illusion
 * prioritizing: important vs urgent
 * inbound, not outbound. make them come to you. don't go to them. pull, not push. get pursued, don't pursue.
