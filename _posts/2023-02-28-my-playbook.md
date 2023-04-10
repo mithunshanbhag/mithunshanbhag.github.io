@@ -245,3 +245,4 @@ A few books, blogs & podcasts have made a profound impact on my life. Here they 
 * [Cal Newport: Deep Work](https://www.amazon.in/Deep-Work-Focused-Success-Distracted/dp/0349413681)
 * [Clayton Christensen: How will you measure your life?](https://www.amazon.in/How-Will-Measure-Your-Life/dp/0062102419)
 * [Marshall Goldsmith: Triggers](https://www.amazon.in/Triggers-Creating-Behavior-Lasts-Becoming-Person/dp/0553550934)
+* [Chris Voss: Never split the difference](https://www.amazon.in/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
