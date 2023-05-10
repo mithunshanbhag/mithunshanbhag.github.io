@@ -84,6 +84,9 @@ If you need to scale, you cannot be a bottleneck.
 > "The ability to focus attention on important things is a defining characteristic of intelligence." - Robert J Schiller
 >
 > "To me, the mind should be a servant and a tool, not a master. My monkey mind should not control and drive me 24/7." - Naval Ravikant
+>
+> "You get what you focus on." - Tony Robbins
+>
 
 Just training your brain to stay focused on the task at hand gives you a massive advantage over distracted people. It's almost a super-power or cheat-code of sorts. Feels unfair even. 🤷
 
@@ -96,11 +99,19 @@ Just training your brain to stay focused on the task at hand gives you a massive
 
 In order to maximize focus, you have to minimize distractions. If you can afford it, throw money at these 'distractions' to make them go away. How do you know if you can afford to do so? I use Naval's rule: I have an internal billing rate for my time. I multiply this billing rate by the time taken up by these distractions. This is the time I could be billing my clients. If the time taken up by these distractions is more than the time I could be billing my clients, then I can afford to throw money at these distractions to make them go away. <@TODO: Refine this>
 
+* Embrace boredom
+
 -----
 
 ## Managing your environment
 
 We need to create our personal **pit of success**, that we'll ultimately fall into.
+
+* gym, walking trail
+* dedicated office space (home vs office, separation of concerns)
+* regular meal times
+* sound sleep
+* hydration
 
 -----
 
