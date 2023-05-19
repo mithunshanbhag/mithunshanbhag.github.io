@@ -64,6 +64,8 @@ When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 
 If you need to scale, you cannot be a bottleneck.
 
+Research 'career capital' (from Cal Newport's book 'So Good They Can't Ignore You').
+
 -----
 
 ## Maximizing your focus
