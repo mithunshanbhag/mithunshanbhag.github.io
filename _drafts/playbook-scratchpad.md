@@ -115,6 +115,82 @@ We need to create our personal **pit of success**, that we'll ultimately fall in
 * sound sleep
 * hydration
 
+We need to design our environment to make the right behaviors easier and the wrong behaviors harder.
+
+* [Lewin's Equation](https://en.wikipedia.org/wiki/Lewin%27s_equation)
+
+Visual cues are the greatest catalyst of our behavior. A small change in what you see can lead to a big shift in what you do.
+
+Surface (increase your exposure to) the visual cues for good habits. Hide (reduce your exposure to) the visual cues for bad habits.
+
+If you want to make a habit a big part of your life, then make the cue a big part of your environment.
+
+Office Coffee machine example
+
+
+What are some must haves while designing your environment for productivity?
+
+When designing your environment for productivity, there are several must-haves that can help optimize your focus, organization, and efficiency. Here are some key elements to consider:
+
+    Clutter-free workspace: A clean and organized workspace can significantly impact your ability to concentrate and be productive. Keep your desk or work area free from unnecessary items and clutter. Use storage solutions, such as file organizers or drawers, to maintain order and ensure easy access to essential materials.
+
+    Ergonomic setup: Pay attention to ergonomics to create a comfortable and supportive workspace. Invest in a good chair that promotes proper posture, position your computer monitor at eye level, and arrange your desk and keyboard in a way that minimizes strain on your body. A comfortable environment can help you avoid discomfort and distractions, allowing you to focus better on your tasks.
+
+    Adequate lighting: Ensure that your workspace has sufficient lighting. Natural light is ideal, as it has been shown to boost mood and productivity. Position your desk near a window if possible. If natural light is limited, use artificial lighting that provides a bright, yet glare-free, illumination.
+
+    Personalized organization system: Establish an organizational system that works for you. This may include physical tools like folders, binders, or labels, as well as digital tools like productivity apps or project management software. Find a system that helps you keep track of tasks, deadlines, and important documents effectively.
+
+    Distraction minimization: Minimize potential distractions in your environment to maintain focus. Consider removing or limiting access to distractions such as social media apps or websites that tend to consume your attention. Use website blockers or productivity apps to help you stay on track. Additionally, set boundaries with colleagues or family members to minimize interruptions during dedicated work periods.
+
+    Inspiring elements: Incorporate elements in your environment that inspire and motivate you. This could be artwork, motivational quotes, plants, or any objects that have personal significance or evoke positive emotions. Such elements can help create a pleasant and uplifting atmosphere that enhances your productivity.
+
+    Productive tools and technology: Equip your workspace with the necessary tools and technology to support your work. This may include a reliable computer, high-speed internet connection, essential software applications, a comfortable keyboard and mouse, and any other tools specific to your work or industry.
+
+Remember, everyone's preferences and needs may vary, so it's important to design your environment in a way that aligns with your personal preferences and work style. Regularly evaluate and refine your workspace to ensure it continues to support your productivity and well-being.
+
+
+Make that productivity and focus
+
+Certainly! Here are some additional elements to consider specifically for enhancing productivity and focus in your environment:
+
+    Dedicated workspace: Designate a specific area solely for work or focused tasks. Having a dedicated workspace helps create a mental boundary between work and leisure activities, signaling your brain to enter a productive state when you're in that space.
+
+    Noise control: Minimize noise distractions as much as possible. If you work in a noisy environment, consider using noise-canceling headphones or playing white noise or instrumental music to create a more serene auditory environment. Experiment to find the level of background noise that helps you concentrate best.
+
+    Time management tools: Utilize tools that assist with time management and productivity. These can include timers, productivity apps, or task management systems that help you prioritize and allocate time effectively. Set specific goals and deadlines for your work to stay focused and motivated.
+
+    Minimalism: Adopt a minimalist approach to your workspace, keeping only essential items within reach. A clutter-free environment reduces visual distractions and allows you to maintain a clear and focused mindset.
+
+    Comfortable temperature: Ensure that your workspace is at a comfortable temperature. Extreme heat or cold can be distracting and affect your ability to concentrate. Adjust the temperature or use fans, heaters, or blankets to create an environment conducive to productivity.
+
+    Mindful color choices: Different colors can impact your mood and focus. Choose colors that promote productivity and concentration, such as cool blues or neutral tones. Experiment with color schemes that help you feel calm and engaged in your workspace.
+
+    Inspiring and personal elements: Surround yourself with items that inspire and motivate you, such as vision boards, meaningful quotes, or photographs. Personalize your workspace with items that reflect your values, goals, or achievements, serving as reminders of what you're working towards.
+
+    Proper ventilation: Good air quality is essential for maintaining focus and alertness. Ensure that your workspace is well-ventilated with fresh air circulation. Open windows if possible, use air purifiers if needed, and introduce indoor plants to enhance air quality.
+
+What are the environments that you need to design/manage for peak productivity
+
+To optimize your productivity, there are several environments you may need to design or manage. These environments include:
+
+    Physical workspace: This refers to your immediate physical surroundings, such as your home office, desk, or workspace in a shared office. Design and organize this space to minimize distractions, ensure comfort, and promote focus.
+
+    Digital workspace: Your digital environment encompasses your computer, smartphone, and digital tools. Organize your files, folders, and desktop to reduce digital clutter. Utilize productivity apps, project management tools, and email management systems to streamline your digital workflow.
+
+    Time management environment: Effectively managing your time is crucial for productivity. Create an environment that supports time management by using calendars, planners, or task management systems. Set clear priorities, establish routines, and minimize time-wasting activities to maximize productivity.
+
+    Social environment: Your social environment includes the people you interact with regularly, such as colleagues, friends, or family members. Surround yourself with individuals who support and encourage your productivity goals. Seek accountability partners or join communities that foster a productive mindset.
+
+    Online environment: With the prevalence of digital communication and remote work, managing your online environment is crucial. Organize your email inbox, use filters and labels to manage incoming messages, and set boundaries for online availability and communication. Limit distractions from social media or non-work-related websites by using website blockers or dedicated browsing sessions.
+
+    Mobile environment: As mobile devices have become an integral part of our lives, managing your mobile environment is essential. Organize your apps, create folders, and remove unnecessary or distracting apps from your device. Use productivity apps, timers, or focus-enhancing tools on your mobile device to support your productivity goals.
+
+    Physical well-being environment: Your physical well-being directly affects your productivity. Design an environment that supports your health by incorporating elements such as exercise equipment, ergonomic furniture, healthy snacks, and proper hydration. Ensure you have a conducive environment for restful sleep, as quality sleep contributes to optimal productivity.
+
+    Mindset environment: Cultivate a positive and focused mindset to enhance productivity. Surround yourself with motivational quotes, books, or resources that inspire you. Design a mental environment that supports resilience, goal setting, and a growth mindset.
+
+Remember, these environments are interconnected, and optimizing one can positively impact others. Regularly assess and adjust your environments to align with your productivity goals and preferences. Experiment with different strategies, tools, and systems to find what works best for you.
+
 -----
 
 * energy management vs time management
