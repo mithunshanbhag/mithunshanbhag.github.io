@@ -77,7 +77,7 @@ What we loosely term as **fear** is generally a brain cocktail blended from mult
 
 > Aside: I highly recommend the books by Brené Brown and Chip Conley on many of these fascinating topics.
 
-But know that there is no workaround, we have to take these fears head-on: we have to acknowledge them, define them, face them, and ultimately take action to conquer them. I can attribute most of my growth to doing things that INITIALLY and IRRATIONALLY scared me: <@TODO: Examples of fear>
+But know that there is no workaround, we have to take these fears head-on: we have to acknowledge them, define them, face them, and ultimately take action to conquer them. I can attribute most of my growth to simply just DOING things that INITIALLY and IRRATIONALLY scared me: dealing with paperwork, dealing with govt officials, dealing with medical professionals, asking people for favours/help (note: I did say they were irrational).
 
 -----
 
@@ -200,7 +200,7 @@ Coming soon! Stay tuned!
 
 -----
 
-## Being irreplaceable
+## Becoming irreplaceable
 
 Coming soon! Stay tuned!
 
@@ -232,7 +232,7 @@ Coming soon! Stay tuned!
 
 ## Some recommended reading & listening
 
-A few books, blogs & podcasts have made a profound impact on my life. Here they are, in no particular order:
+A few books, blogs, talks & podcasts have made a profound impact on me. Here they are, in no particular order:
 
 * [Scott Adams: How to fail at almost everything and still win big](https://www.amazon.in/How-Fail-Almost-Everything-Still/dp/0241003709)
 * [Sam Altman: How to be successful](https://blog.samaltman.com/how-to-be-successful)
@@ -246,3 +246,7 @@ A few books, blogs & podcasts have made a profound impact on my life. Here they 
 * [Clayton Christensen: How will you measure your life?](https://www.amazon.in/How-Will-Measure-Your-Life/dp/0062102419)
 * [Marshall Goldsmith: Triggers](https://www.amazon.in/Triggers-Creating-Behavior-Lasts-Becoming-Person/dp/0553550934)
 * [Chris Voss: Never split the difference](https://www.amazon.in/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
+* [Cal Newport: So good they can't ignore you](https://www.amazon.in/Good-They-Cant-Ignore-You/dp/0349415862)
+* [Richard Feynman: The pleasure of finding things out](https://www.amazon.in/PLEASURE-FINDING-THINGS-OUT/dp/0465023959)
+* [Tim Ferris: Fear-setting exercise](https://youtu.be/5J6jAC6XxAI?si=e-bh2cFA3C6d2tL7)
+* [Cal Newport: Digital minimalism](https://www.amazon.in/Digital-Minimalism-Choosing-Focused-Noisy/dp/0241453577)
