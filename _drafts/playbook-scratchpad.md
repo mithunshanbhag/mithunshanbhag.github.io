@@ -193,6 +193,15 @@ Remember, these environments are interconnected, and optimizing one can positive
 
 -----
 
+## Compounding
+
+Career capital = credibility = track record = irreplaceable = reputation = brand = compounding
+
+Can't compound yourself in a vacuum. You HAVE to be useful to others.
+
+
+-----
+
 * energy management vs time management
 * association programming, environments, create a pit of success
 * deciding vs wanting
