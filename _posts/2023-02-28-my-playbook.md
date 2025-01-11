@@ -206,13 +206,13 @@ Coming soon! Stay tuned!
 
 -----
 
-## Managing your environments
+## Applying leverage
 
 Coming soon! Stay tuned!
 
 -----
 
-## Applying leverage
+## Managing your environments
 
 Coming soon! Stay tuned!
 

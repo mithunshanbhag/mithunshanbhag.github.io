@@ -31,48 +31,7 @@ vacation
 audible subscription
 small bets
 
-## Be uncomfortable
-
->
-> "Don't get comfortable." - American Giant
->
-> "Hard choices, easy life. Easy choices, hard life." - Jerzy Gregorek
->
-> "If you want to live a life you've never lived, then you have to do things you've never done." - Jen Sincero
->
-
-The only productivity tool you need is the habit of getting uncomfortable & critical things done and out of the way asap. Apps, reminders, to-do lists while useful, are ultimately pointless if you're just gonna keep procrastinating to avoid stressful situations.
-
-Some amount of stress is good.
-
-When stressed, follow Jeff Bezos' advice: Take some action. Any action.
-
-* anti-fragility (stress to the system), being uncomfortable
-
-
-
------
-
-## Applying leverage
-
-* leverage (how to get 10X output for 1X input, scaling)
-  * capital/money
-  * knowledge/specialization
-  * tech (code) / skills
-  * social media
-  * team/org
-  * labour
-  * content: books, videos, podcasts, blogs etc
-  * alumni network
-  * note: avoid renting out your time, it prevents scaling
-
-If you need to scale, you cannot be a bottleneck.
-
-Research 'career capital' (from Cal Newport's book 'So Good They Can't Ignore You').
-
------
-
-## Maximizing your focus
+## Maximizing focus
 
 >
 > "All of humanity's problems stem from man's inability to sit quietly in a room alone." - Blaise Pascal
@@ -106,6 +65,53 @@ Just training your brain to stay focused on the task at hand gives you a massive
 In order to maximize focus, you have to minimize distractions. If you can afford it, throw money at these 'distractions' to make them go away. How do you know if you can afford to do so? I use Naval's rule: I have an internal billing rate for my time. I multiply this billing rate by the time taken up by these distractions. This is the time I could be billing my clients. If the time taken up by these distractions is more than the time I could be billing my clients, then I can afford to throw money at these distractions to make them go away. <@TODO: Refine this>
 
 * Embrace boredom
+
+-----
+
+## Becoming irreplaceable
+
+Compounding and scaling yourself
+
+So, you've seen that famous venn diagram that says you should find the intersection of what you're good at, what pays well, and what you're passionate about?
+
+Well, let me give you a different one; mine says you should find the intersection of what you're good at, what pays well, and what you're irreplaceable at (@todo: no competition exists).
+
+Career capital = credibility = track record = irreplaceable = reputation = brand = legacy = compounding
+
+The way I see it:
+
+1. You have to compound yourself with the RIGHT people, skills, environment.
+
+2. You can't compound yourself in a vacuum; you HAVE to make yourself useful to others. Else you're just compounding the wrong things.
+
+3. You have to accept that some things compound faster than others. And some things won't compound; you have to cut your losses and move on. You have to be patient and trust the process.
+
+4. There has to be some feedback loop. You have to be able to measure your progress. You have to be able to see the results of your compounding efforts.
+
+Landscapes will shifts, often overnight. Skills you've compounded through throughout your career will become irrelevant. You have to adapt and pivot.
+
+Be hard to compete with
+
+deliberate practice.
+
+-----
+
+## Applying leverage
+
+* leverage (how to get 10X output for 1X input, scaling)
+  * capital/money
+  * knowledge/specialization
+  * tech (code) / skills
+  * social media
+  * team/org
+  * labour
+  * content: books, videos, podcasts, blogs etc
+  * alumni network
+  * note: avoid renting out your time, it prevents scaling
+
+If you need to scale, you cannot be a bottleneck.
+
+Research 'career capital' (from Cal Newport's book 'So Good They Can't Ignore You').
 
 -----
 
@@ -197,33 +203,33 @@ Remember, these environments are interconnected, and optimizing one can positive
 
 -----
 
-## Compounding and scaling yourself
+## Be uncomfortable
 
-So, you've seen that famous venn diagram that says you should find the intersection of what you're good at, what pays well, and what you're passionate about?
+>
+> "Don't get comfortable." - American Giant
+>
+> "Hard choices, easy life. Easy choices, hard life." - Jerzy Gregorek
+>
+> "If you want to live a life you've never lived, then you have to do things you've never done." - Jen Sincero
+>
 
-Well, let me give you a different one; mine says you should find the intersection of what you're good at, what pays well, and what you're irreplaceable at (@todo: no competition exists).
+The only productivity tool you need is the habit of getting uncomfortable & critical things done and out of the way asap. Apps, reminders, to-do lists while useful, are ultimately pointless if you're just gonna keep procrastinating to avoid stressful situations.
 
-Career capital = credibility = track record = irreplaceable = reputation = brand = legacy = compounding
+Some amount of stress is good.
 
-The way I see it:
+When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 
-1. You have to compound yourself with the RIGHT people, skills, environment.
+* anti-fragility (stress to the system), being uncomfortable
 
-2. You can't compound yourself in a vacuum; you HAVE to make yourself useful to others. Else you're just compounding the wrong things.
 
-3. You have to accept that some things compound faster than others. And some things won't compound; you have to cut your losses and move on. You have to be patient and trust the process.
-
-4. There has to be some feedback loop. You have to be able to measure your progress. You have to be able to see the results of your compounding efforts.
-
-Landscapes will shifts, often overnight. Skills you've compounded through throughout your career will become irrelevant. You have to adapt and pivot.
-
-Be hard to compete with
-
-deliberate practice.
 
 -----
 
+
+
 ## Making yourself useful
+
+TBD
 
 -----
 
