@@ -70,6 +70,20 @@ In order to maximize focus, you have to minimize distractions. If you can afford
 
 ## Becoming irreplaceable
 
+By Cal Newport from his book 'So Good They Can't Ignore You'):
+
+Rules:
+
+1. Don't follow your passion.
+2. Be so good they can't ignore you.
+   1. Be a craftsman.
+   2. deliberate practice.
+3. Turn down a promotion.
+   1. Be in control of your time
+   2. Don't rent out your time
+4. Think small, act big.
+
+
 Compounding and scaling yourself
 
 So, you've seen that famous venn diagram that says you should find the intersection of what you're good at, what pays well, and what you're passionate about?
@@ -80,15 +94,17 @@ Career capital = credibility = track record = irreplaceable = reputation = brand
 
 The way I see it:
 
-1. You have to compound yourself with the RIGHT people, skills, environment.
+1. You have to compound yourself with the RIGHT people/team, skills, environment.
 
 2. You can't compound yourself in a vacuum; you HAVE to make yourself useful to others. Else you're just compounding the wrong things.
 
-3. You have to accept that some things compound faster than others. And some things won't compound; you have to cut your losses and move on. You have to be patient and trust the process.
+3. You have to accept that some things compound faster than others. And some things won't compound; you have to cut your losses and move on. Be patient and trust the process.
 
 4. There has to be some feedback loop. You have to be able to measure your progress. You have to be able to see the results of your compounding efforts.
 
-Landscapes will shifts, often overnight. Skills you've compounded through throughout your career will become irrelevant. You have to adapt and pivot.
+Some skills you've compounded throughout your lifetime or career will become irrelevant. Often overnight, when huge seismic shifts happen in the landscape (e.g. the internet, the pandemic, rise of AI, etc). You have to be able to pivot and adapt. You have to be able to unlearn and relearn. You have to be able to compound new skills.
+
+Landscapes will shifts, often overnight. You have to adapt and pivot.
 
 Be hard to compete with
 
