@@ -31,7 +31,7 @@ vacation
 audible subscription
 small bets
 
-## Be uncomfortable, stress is good
+## Be uncomfortable
 
 >
 > "Don't get comfortable." - American Giant
@@ -43,9 +43,13 @@ small bets
 
 The only productivity tool you need is the habit of getting uncomfortable & critical things done and out of the way asap. Apps, reminders, to-do lists while useful, are ultimately pointless if you're just gonna keep procrastinating to avoid stressful situations.
 
+Some amount of stress is good.
+
 When stressed, follow Jeff Bezos' advice: Take some action. Any action.
 
 * anti-fragility (stress to the system), being uncomfortable
+
+
 
 -----
 
@@ -199,7 +203,6 @@ So, you've seen that famous venn diagram that says you should find the intersect
 
 Well, let me give you a different one; mine says you should find the intersection of what you're good at, what pays well, and what you're irreplaceable at (@todo: no competition exists).
 
-
 Career capital = credibility = track record = irreplaceable = reputation = brand = legacy = compounding
 
 The way I see it:
@@ -217,6 +220,7 @@ Landscapes will shifts, often overnight. Skills you've compounded through throug
 Be hard to compete with
 
 deliberate practice.
+
 -----
 
 ## Making yourself useful
