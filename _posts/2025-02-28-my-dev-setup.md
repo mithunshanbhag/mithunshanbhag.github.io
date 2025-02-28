@@ -4,7 +4,7 @@ title: My local dev machine setup
 comments: true
 ---
 
-## IDEs, code editors and related extensions/plugins
+## IDEs, code editors, extensions/plugins
 
 * [Visual Studio](https://visualstudio.microsoft.com/)
   * [ReSharper](https://www.jetbrains.com/resharper/)
