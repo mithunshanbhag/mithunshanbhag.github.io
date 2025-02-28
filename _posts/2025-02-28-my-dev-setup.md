@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my local dev machine setup
+title: My local dev machine setup
 comments: true
 ---
 
