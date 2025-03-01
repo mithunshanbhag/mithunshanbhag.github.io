@@ -4,9 +4,9 @@ title: My local dev machine setup
 comments: true
 ---
 
-Recently I had to replace my PC's SSD, which meant I had to reinstall all my dev tools and utilities. I thought I'd document my setup here for posterity. This is a living document and I'll keep updating it as my setup evolves.
+Recently I had to replace my PC's old SSD, which meant I had to reinstall all my dev tools and utilities. I thought I'd document my setup here for posterity. This is a living document and I'll keep updating it as my setup evolves.
 
-My primary development environment is Windows, but I also use Linux (WSL) heavily and macOS occasionally. Developing with .NET on Azure is where I'm most comfortable at, but I also dabble in Angular / TypeScript, and other frameworks & clouds (mostly as a hobbyist).
+My primary development environment is WSL (Linux on Windows), and macOS occasionally. Developing with .NET on Azure is where I'm most comfortable at, but I also dabble heavily in Angular / TypeScript, and other frameworks & clouds occasionally.
 
 ## IDEs, code editors, extensions/plugins
 
