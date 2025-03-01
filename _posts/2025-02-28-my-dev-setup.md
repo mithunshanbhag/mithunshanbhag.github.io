@@ -10,13 +10,11 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 
 ## IDEs, code editors, extensions/plugins
 
+* [LinqPad](https://www.linqpad.net/): Quick scratchpad app to test out your .NET code snippets. Do buy the license for autocompletion. Worth every penny!
 * [Visual Studio](https://visualstudio.microsoft.com/) with [ReSharper](https://www.jetbrains.com/resharper/) extension.
-
 * [Visual Studio Code](https://code.visualstudio.com/)
   * I use [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) to ensure that my vscode settings & extensions are synced across all my machines.
   * I have some 50+ extensions installed ([see full list here](https://gist.github.com/mithunshanbhag/ad7c4d02856eac62244ccaf37d29ea2c)).
-
-* [LinqPad](https://www.linqpad.net/): Quick scratchpad app to test out your .NET code snippets. Do buy the license for autocompletion. Worth every penny!
 
 > I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET core development. But I'm so set in my ways with Visual Studio (especially the key bindings) that I haven't made the switch yet.
 
