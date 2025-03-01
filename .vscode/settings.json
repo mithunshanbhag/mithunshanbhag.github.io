@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "agnoster",
         "Anais",
         "appinsights",
         "architecting",
@@ -56,24 +57,25 @@
         "yada",
         "youtube"
     ],
+    "peacock.remoteColor": "#93db83",
     "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#b5e6aa",
-        "activityBar.background": "#b5e6aa",
+        "activityBar.activeBackground": "#84cb64",
+        "activityBar.background": "#84cb64",
         "activityBar.foreground": "#15202b",
         "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#8494db",
-        "activityBarBadge.foreground": "#15202b",
+        "activityBarBadge.background": "#587ac7",
+        "activityBarBadge.foreground": "#e7e7e7",
         "commandCenter.border": "#15202b99",
-        "sash.hoverBorder": "#b5e6aa",
-        "statusBar.background": "#93db83",
+        "sash.hoverBorder": "#84cb64",
+        "statusBar.background": "#66bd3f",
         "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#71d05b",
-        "statusBarItem.remoteBackground": "#93db83",
+        "statusBarItem.hoverBackground": "#519732",
+        "statusBarItem.remoteBackground": "#66bd3f",
         "statusBarItem.remoteForeground": "#15202b",
-        "titleBar.activeBackground": "#93db83",
+        "titleBar.activeBackground": "#66bd3f",
         "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#93db8399",
+        "titleBar.inactiveBackground": "#66bd3f99",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.remoteColor": "#93db83"
+    "peacock.color": "#66bd3f"
 }

@@ -4,17 +4,19 @@ title: My local dev machine setup
 comments: true
 ---
 
+Recently I had to replace my PC's SSD, which meant I had to reinstall all my dev tools and utilities. I thought I'd document my setup here for posterity. This is a living document and I'll keep updating it as my setup evolves.
+
+My primary development environment is Windows, but I also use Linux (WSL) heavily and macOS occasionally. Developing with .NET is where I'm most comfortable at, but I also dabble in Angular / TypeScript, and other frameworks (mostly as a hobbyist).
+
 ## IDEs, code editors, extensions/plugins
 
-* [Visual Studio](https://visualstudio.microsoft.com/)
-  * [ReSharper](https://www.jetbrains.com/resharper/)
-
+* [Visual Studio](https://visualstudio.microsoft.com/) with [ReSharper](https://www.jetbrains.com/resharper/) extension.
 * [Visual Studio Code](https://code.visualstudio.com/)
   * I use [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) to ensure that my vscode settings & extensions are synced across all my machines.
-
+  * I have some 50+ extensions installed ([see full list here](https://gist.github.com/mithunshanbhag/ad7c4d02856eac62244ccaf37d29ea2c)).
 * [LinqPad](https://www.linqpad.net/): Quick scratchpad app to test out your .NET code snippets. Do buy the license for autocompletion. Worth every penny!
 
-> I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET core development.
+> I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET core development. But I'm so set in my ways with Visual Studio (especially the key bindings) that I haven't made the switch yet.
 
 ## Tools, utilities
 
@@ -23,7 +25,7 @@ comments: true
 * [Docker Desktop](https://www.docker.com/products/docker-desktop): For running containers locally (internally it uses the WSL partitions).
 * [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/): Basically "apt-get" for Windows.
 * [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.5): For ad-hoc scripting tasks.
-* [Oh My Posh](https://ohmyposh.dev/): For customizing your PowerShell prompt.
+* [Oh My Posh](https://ohmyposh.dev/): For customizing your PowerShell prompt. I use the [agnoster theme](https://ohmyposh.dev/docs/themes#agnoster) as-is.
 * [Cascadia Code (font)](https://github.com/microsoft/cascadia-code): An awesome monospaced font; I use the nerd-font version in my terminal and IDEs.
 * [DevToys](https://devtoys.app/): Collection of oddball developer utils (e.g. Base64 encoder/decoder, JWT decoder, regex tester, JSON <-> YAML converter, etc).
 * [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/): Tons of useful tools, including [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit).
@@ -68,6 +70,7 @@ comments: true
 * [Github Copilot](https://copilot.github.com/): AI-powered code completion tool. And more.
 * [ChatGPT Plus](https://chat.openai.com/): AI-powered chatbot. And more.
 * [Trello](https://trello.com/): For managing tasks.
+* [Microsoft Todo](https://todo.microsoft.com/): Also for managing tasks.
 * [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365): For office apps, but mostly for OneNote and OneDrive.
 
 That's it folks! Know of any awesome tool that I should be using? Would love to hear from you, [send me a tweet]({{site.author.twitter}}).
