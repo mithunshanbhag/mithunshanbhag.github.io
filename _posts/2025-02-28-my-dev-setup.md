@@ -8,6 +8,8 @@ Recently I had to replace my PC's old SSD, which meant I had to reinstall all my
 
 My primary development environment is WSL (Linux on Windows), and macOS occasionally. Developing with .NET on Azure is where I'm most comfortable at, but I also dabble heavily in Angular / TypeScript, and other frameworks & clouds occasionally.
 
+![my pc](../../../images/my-pc.jpg)
+
 ## IDEs, code editors, extensions/plugins
 
 * [LinqPad](https://www.linqpad.net/): Quick scratchpad app to test out your .NET code snippets. Do buy the license for autocompletion. Worth every penny!
