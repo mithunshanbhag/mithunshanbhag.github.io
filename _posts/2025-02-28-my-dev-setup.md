@@ -62,7 +62,7 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 * [WinDirStat](https://windirstat.net/): For visualizing disk usage.
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys): A set of Windows utilities to enhance productivity. I mostly use fancy zones and color picker.
 * [1Password](https://1password.com/): For managing passwords & keys.
-* [CloudFlare WARP](https://www.cloudflare.com/warp/): DNS resolver and VPN service.
+* [CloudFlare WARP](https://one.one.one.one/): DNS resolver and VPN service.
 
 ## Misc services
 
