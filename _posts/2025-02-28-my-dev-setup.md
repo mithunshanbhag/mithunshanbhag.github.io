@@ -29,7 +29,11 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 * [Oh My Posh](https://ohmyposh.dev/): For customizing your PowerShell prompt. I use the [agnoster theme](https://ohmyposh.dev/docs/themes#agnoster) as-is.
 * [Cascadia Code (font)](https://github.com/microsoft/cascadia-code): An awesome monospaced font; I use the nerd-font version in my terminal and IDEs.
 * [Git](https://git-scm.com/): For version control.
+  * Also enable [Git Credential Manager](https://github.com/GitCredentialManager/git-credential-manager#readme) for better authentication management.
+  * And [Git LFS](https://git-lfs.github.com/) for managing large files.
+  * And long path support: `git config --global core.longpaths true` (also do this in the [Windows OS](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=powershell#enable-long-paths-in-windows-10-version-1607-and-later))
 * [GitHub CLI](https://cli.github.com/): For managing GitHub repositories.
+* [Clipboard History](https://support.microsoft.com/en-us/windows/using-the-clipboard-30375039-ce71-9fe4-5b30-21b7aab6b13f): For copy/pasting multiple items.
 
 ## Browser and web stuff
 
