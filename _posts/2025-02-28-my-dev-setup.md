@@ -65,6 +65,7 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 * [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/): Tons of useful tools, including [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit).
 * [WinDirStat](https://windirstat.net/): For visualizing disk usage.
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys): A set of Windows utilities to enhance productivity. I mostly use fancy zones and color picker.
+* [Handy](https://handy.computer/): Voice to text transcriber. This is a great alternative to Windows' built-in `WIN + H` dictation tool.
 * [1Password](https://1password.com/): For managing passwords & keys.
 * [CloudFlare WARP](https://one.one.one.one/): DNS resolver and VPN service.
 
