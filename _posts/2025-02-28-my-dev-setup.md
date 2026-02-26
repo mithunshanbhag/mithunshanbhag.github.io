@@ -69,6 +69,7 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 * [WinMerge](https://winmerge.org/): Useful for diffing directories and their nested contents. 
 * [1Password](https://1password.com/): For managing passwords & keys.
 * [CloudFlare WARP](https://one.one.one.one/): DNS resolver and VPN service.
+* [DB Browser for SQLite](https://sqlitebrowser.org/): A nice GUI for SQLite DB management, queries. 
 
 ## Misc services
 
