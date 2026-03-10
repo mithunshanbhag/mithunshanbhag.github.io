@@ -4,7 +4,7 @@ title: My local dev machine setup
 comments: true
 ---
 
-Recently I had to replace my PC's old SSD, which meant I had to reinstall all my dev tools and utilities. I thought I'd document my setup here for posterity. This is a living document and I'll keep updating it as my setup evolves.
+Recently, I had to replace my PC's old SSD, which meant I had to reinstall all my dev tools and utilities. I thought I'd document my setup here for posterity. This is a living document, and I'll keep updating it as my setup evolves.
 
 My primary development environment is WSL (Linux on Windows), and macOS occasionally. Developing with .NET on Azure is where I'm most comfortable at, but I also dabble heavily in Angular / TypeScript, and other frameworks & clouds occasionally.
 
@@ -14,11 +14,12 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 
 * [LinqPad](https://www.linqpad.net/): Quick scratchpad app to test out your .NET code snippets. Do buy the license for autocompletion. Worth every penny!
 * [Visual Studio](https://visualstudio.microsoft.com/) with [ReSharper](https://www.jetbrains.com/resharper/) extension.
+  * I also use the [ReSharper CLI tools](https://www.jetbrains.com/help/resharper/ReSharper_Command_Line_Tools.html), which includes nifty utilities for code inspection and code cleanup. 
 * [Visual Studio Code](https://code.visualstudio.com/)
   * I use [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) to ensure that my vscode settings & extensions are synced across all my machines.
   * I have some 50+ extensions installed ([see full list here](https://gist.github.com/mithunshanbhag/ad7c4d02856eac62244ccaf37d29ea2c)).
 
-> I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET core development. But I'm so set in my ways with Visual Studio (especially the key bindings) that I haven't made the switch yet.
+> I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET Core development. But I'm so set in my ways with Visual Studio (especially the key bindings) that I haven't made the switch yet.
 
 ## Core utilities, terminal, scripting
 
@@ -64,7 +65,7 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 * [DevToys](https://devtoys.app/): Collection of oddball developer utils (e.g. Base64 encoder/decoder, JWT decoder, regex tester, JSON <-> YAML converter, etc).
 * [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/): Tons of useful tools, including [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit).
 * [WinDirStat](https://windirstat.net/): For visualizing disk usage.
-* [Microsoft PowerToys](https://github.com/microsoft/PowerToys): A set of Windows utilities to enhance productivity. I mostly use fancy zones and color picker.
+* [Microsoft PowerToys](https://github.com/microsoft/PowerToys): A set of Windows utilities to enhance productivity. I mostly use fancy zones and the color picker.
 * [Handy](https://handy.computer/): Voice to text transcriber. This is a great alternative to Windows' built-in `WIN+H` dictation tool.
 * [WinMerge](https://winmerge.org/): Useful for diffing directories and their nested contents. 
 * [1Password](https://1password.com/): For managing passwords & keys.
