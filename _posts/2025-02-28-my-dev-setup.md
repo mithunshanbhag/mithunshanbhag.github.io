@@ -14,7 +14,7 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 
 * [LinqPad](https://www.linqpad.net/): Quick scratchpad app to test out your .NET code snippets. Do buy the license for autocompletion. Worth every penny!
 * [Visual Studio](https://visualstudio.microsoft.com/) with [ReSharper](https://www.jetbrains.com/resharper/) extension.
-  * I also use the [ReSharper CLI tools](https://www.jetbrains.com/help/resharper/ReSharper_Command_Line_Tools.html), which includes nifty utilities for code inspection and code cleanup. 
+  * I also use the [ReSharper CLI tools](https://www.jetbrains.com/help/resharper/ReSharper_Command_Line_Tools.html), which include nifty utilities for code inspection and code cleanup.
 * [Visual Studio Code](https://code.visualstudio.com/)
   * I use [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) to ensure that my vscode settings & extensions are synced across all my machines.
   * I have some 50+ extensions installed ([see full list here](https://gist.github.com/mithunshanbhag/ad7c4d02856eac62244ccaf37d29ea2c)).
@@ -67,10 +67,11 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 * [WinDirStat](https://windirstat.net/): For visualizing disk usage.
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys): A set of Windows utilities to enhance productivity. I mostly use fancy zones and the color picker.
 * [Handy](https://handy.computer/): Voice to text transcriber. This is a great alternative to Windows' built-in `WIN+H` dictation tool.
-* [WinMerge](https://winmerge.org/): Useful for diffing directories and their nested contents. 
+* [WinMerge](https://winmerge.org/): Useful for diffing directories and their nested contents.
 * [1Password](https://1password.com/): For managing passwords & keys.
 * [CloudFlare WARP](https://one.one.one.one/): DNS resolver and VPN service.
-* [DB Browser for SQLite](https://sqlitebrowser.org/): A nice GUI for SQLite DB management, queries. 
+* [TailScale](https://tailscale.com/): Secure VPN between my devices.
+* [DB Browser for SQLite](https://sqlitebrowser.org/): A nice GUI for SQLite DB management, queries.
 
 ## Misc services
 
