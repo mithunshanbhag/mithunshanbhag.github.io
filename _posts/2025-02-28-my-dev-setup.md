@@ -19,7 +19,17 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
   * I use [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) to ensure that my vscode settings & extensions are synced across all my machines.
   * I have some 50+ extensions installed ([see full list here](https://gist.github.com/mithunshanbhag/ad7c4d02856eac62244ccaf37d29ea2c)).
 
-> I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET Core development. But I'm so set in my ways with Visual Studio (especially the key bindings) that I haven't made the switch yet.
+> I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET Core development. But I'm so set in my ways with Visual Studio + ReSharper (especially the key bindings) that I haven't made the switch yet.
+
+## AI development tools
+
+* [Github Copilot CLI](https://github.com/features/copilot/cli): My daily driver for AI-assisted coding. Allows me to choose from multiple models.
+* [Codex Desktop App](https://developers.openai.com/codex/app): This app has made "chat with your codebase" seamless.
+* [Codex CLI](https://developers.openai.com/codex/cli): Command-line interface for Codex.
+* [ChatGPT Desktop App](https://chatgpt.com/download/): The OG.
+* [NotebookLM](https://notebooklm.google.com/): Chat and converse with your documents & other sources of information. Love the "interactive podcast" feature.
+
+> For now, my go-to model is `GPT 5.4 x-high`. Things are very rapidly evolving and new models, tools, IDEs, etc. are popping up all the time. I'm sure I'll be adding more to this list in the near future.
 
 ## Core utilities, terminal, scripting
 
@@ -75,8 +85,6 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 
 ## Misc services
 
-* [Github Copilot](https://copilot.github.com/): AI-powered code completion tool. And more.
-* [ChatGPT Plus](https://chat.openai.com/): AI-powered chatbot. And more.
 * [Trello](https://trello.com/): For managing tasks.
 * [Microsoft Todo](https://todo.microsoft.com/): Also for managing tasks.
 * [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365): For office apps, but mostly for OneNote and OneDrive.
