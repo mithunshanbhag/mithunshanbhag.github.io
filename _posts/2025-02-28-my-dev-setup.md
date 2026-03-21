@@ -21,6 +21,13 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 
 > I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET Core development. But I'm so set in my ways with Visual Studio (especially the key bindings) that I haven't made the switch yet.
 
+## AI development tools
+
+* [Github Copilot CLI](https://github.com/features/copilot/cli): AI-powered code completion tool. And more.
+* [Codex Desktop App](https://developers.openai.com/codex/app):
+* [Codex CLI](https://developers.openai.com/codex/cli):   
+* [ChatGPT Desktop App](https://chatgpt.com/download/): AI-powered chatbot. And more.
+
 ## Core utilities, terminal, scripting
 
 * [WSL](https://docs.microsoft.com/en-us/windows/wsl/): For running Linux on Windows.
@@ -75,8 +82,6 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 
 ## Misc services
 
-* [Github Copilot](https://copilot.github.com/): AI-powered code completion tool. And more.
-* [ChatGPT Plus](https://chat.openai.com/): AI-powered chatbot. And more.
 * [Trello](https://trello.com/): For managing tasks.
 * [Microsoft Todo](https://todo.microsoft.com/): Also for managing tasks.
 * [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365): For office apps, but mostly for OneNote and OneDrive.
