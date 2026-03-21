@@ -19,7 +19,7 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
   * I use [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) to ensure that my vscode settings & extensions are synced across all my machines.
   * I have some 50+ extensions installed ([see full list here](https://gist.github.com/mithunshanbhag/ad7c4d02856eac62244ccaf37d29ea2c)).
 
-> I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET Core development. But I'm so set in my ways with Visual Studio (especially the key bindings) that I haven't made the switch yet.
+> I've been meaning to play with [Rider](https://www.jetbrains.com/rider/) for a while now. I've heard good things about it, especially for .NET Core development. But I'm so set in my ways with Visual Studio + ReSharper (especially the key bindings) that I haven't made the switch yet.
 
 ## AI development tools
 
