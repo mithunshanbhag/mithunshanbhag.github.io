@@ -45,6 +45,7 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
   * And long path support: `git config --global core.longpaths true` (also do this in the [Windows OS](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=powershell#enable-long-paths-in-windows-10-version-1607-and-later))
 * [GitHub CLI](https://cli.github.com/): For managing GitHub repositories.
 * [Clipboard History](https://support.microsoft.com/en-us/windows/using-the-clipboard-30375039-ce71-9fe4-5b30-21b7aab6b13f): For copy/pasting multiple items.
+* [RipGrep](https://github.com/burntsushi/ripgrep): A faster grep variant that respects .gitignore files.
 
 ## Browser and web stuff
 
