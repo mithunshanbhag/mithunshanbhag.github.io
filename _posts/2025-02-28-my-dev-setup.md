@@ -96,5 +96,6 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 * [NodeJS](https://nodejs.org/en/): For some server-side development, managing NPM packages.
 * [TypeScript](https://www.typescriptlang.org/): Mostly for building Angular apps.
 * [Angular](https://angular.dev/installation): For building SPAs / web apps.
+* [Aspire](https://aspire.dev/): Orchestrate microservices in your local dev environment.
 
 That's it folks! Know of any awesome tool that I should be using? Would love to hear from you, [send me a tweet]({{site.author.twitter}}).
