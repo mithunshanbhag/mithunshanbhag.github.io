@@ -70,7 +70,7 @@ In order to maximize focus, you have to minimize distractions. If you can afford
 
 ## Becoming irreplaceable
 
-By Cal Newport from his book 'So Good They Can't Ignore You'):
+By Cal Newport from his book 'So Good They Can't Ignore You':
 
 Rules:
 
@@ -102,17 +102,13 @@ The way I see it:
 
 4. There has to be some feedback loop. You have to be able to measure your progress. You have to be able to see the results of your compounding efforts.
 
-Some skills you've compounded throughout your lifetime or career will become irrelevant. Often overnight, when huge seismic shifts happen in the landscape (e.g. the internet, the pandemic, rise of AI, etc). You have to be able to pivot and adapt. You have to be able to unlearn and relearn. You have to be able to compound new skills.
-
-Landscapes will shifts, often overnight. You have to adapt and pivot.
-
-Be hard to compete with
-
-deliberate practice.
+> Aside: Some skills you've compounded throughout your lifetime or career will eventually become irrelevant. Most of this will happen gradually over time. Some will happen overnight due to seismic landscape shifts (e.g. the pandemic, 9/11 global aftermath, rise of AI, etc). Firstly, it is important to acknowledge to yourself that your hard-acquired skills are either fading into irrelevance (best case), or are no longer relevant (worst case). You'll have to pivot, you have to be unlearn and relearn. It is *almost* like starting from scratch, but you might be able to draw from your past experiences & skills.
 
 -----
 
 ## Applying leverage
+
+Be hard to compete with
 
 * leverage (how to get 10X output for 1X input, scaling)
   * capital/money
