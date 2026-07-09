@@ -19,7 +19,7 @@ As an agent author, you need to ensure that your agent is not hallucinating at 3
 
 Every software developer I know is burning out. Thanks to agentic AI, everyone is now trying to be (or worse, expected to be) a polyglot, full-stack, multi-disciplinary, domain expert. People are just taking on unsustainable workloads, and with unrealistic expectations. Everything starts off as "this is too much fun". Soon the dopamine receptors are fried, and you've become a sleep-deprived, token-consuming junkie.
 
-Spot on. Grappling with this abrupt function/role change is gonna be hard for many engineers. Time to unlearn some things, reskill on others.
+Spot on. Grappling with this abrupt function/role change is gonna be hard for many engineers. Time to unlearn some things, re-skill on others.
 
 ====
 
