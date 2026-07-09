@@ -5,9 +5,11 @@ title: Blog
 <h1>Latest blog posts</h1>
 
 <!-- <ul> -->
-    {% for post in site.posts %}
+  {% for post in site.posts %}
+    {% unless post.unlisted %}
       <!-- <li> -->
         <p>[{{ post.date | date_to_string }}] <a href="{{ post.url }}">{{ post.title }}</a></p>
       <!-- </li> -->
-    {% endfor %}
-  <!-- </ul> -->
+    {% endunless %}
+  {% endfor %}
+<!-- </ul> -->
