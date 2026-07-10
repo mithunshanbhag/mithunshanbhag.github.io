@@ -7,9 +7,14 @@ unlisted: true
 
 Use daily bite-sized comic strips to create cohesive teams. Drive internal workplace comms in an engaging way.
 
+## App form
+
+- Primary interaction will be via Slack bot (or Microsoft Teams bot, or Google Workspace bot).
+- Web app for configuration and analytics.
+
 ## Step 1: Identify key workplace objectives
 
-Choose what you want to emphasize and reinforce. Some examples:
+Choose what you want to emphasize and reinforce in your workplace. Some examples:
 
 - Employee morale
 - Employee wellness
