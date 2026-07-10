@@ -24,7 +24,9 @@ Choose what you want to emphasize and reinforce. Some examples:
 
 ## Step 2: Comic strips and messaging generated
 
-The app will automatically generate comic strips based on the identified objectives. You can choose from a variety of styles and expressions to represent your team in the comic strips.
+The app will automatically generate comic strips based on the identified objectives.
+
+You can personalize those strips with your company's branding (logos, mascots, color palette, etc) and choose from a variety of styles and expressions to represent your team in the comic strips.
 
 ## Step 3: Internal comms via daily personalized comic strips
 
