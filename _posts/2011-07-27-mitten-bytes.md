@@ -36,7 +36,7 @@ Ok. Here goes......
 
 - People like Alice frustrate and infuriate in equal measures.  
 
-- Much like the congressmen. Reid vs Boehner? Raise debt ceiling by $2.4 trillion? or just $1 trillion? Cut spending? or make entitlement reforms? Should we increase taxes instead? I say, just flip a coin. Time is running out. *Any* decision is better than debt default.  
+- Much like the congressmen. Reid vs Boehner? Raise debt ceiling by $2.4 trillion? or just $1 trillion? Cut spending? or make entitlement reforms? Should we increase taxes instead? I say, just flip a coin. Time is running out. _Any_ decision is better than debt default.  
 
 - Chocolate chip mint > Extreme moose tracks.
 
@@ -52,7 +52,7 @@ Ok. Here goes......
 
 - A skeleton goes to a bar. What does he order? A beer and a mop.
 
-- Grandiose vision statements. Company-wide manifestos on realignment for organizational agility. Emails on org synergies & efficiencies. Endless slide-decks on strategy & planning. Ultimately, all these land up right where they belong. In the trash folder, next to those p***s enlargement junk mails. 
+- Grandiose vision statements. Company-wide manifestos on realignment for organizational agility. Emails on org synergies & efficiencies. Endless slide-decks on strategy & planning. Ultimately, all these land up right where they belong. In the trash folder, next to those p***s enlargement junk mails.
 
 - Yesterday's 5K run on treadmill was 27:12. Neither happy nor sad. It is what it is.
 
