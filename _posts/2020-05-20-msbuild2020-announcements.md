@@ -202,4 +202,4 @@ _____
 
 I still haven't caught up with all the updates from the C# and .Net teams (I should perhaps do another separate post for that when I'm done).
 
-_That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
+_That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you. Feel free to [send me a tweet]({{site.author.twitter}})._

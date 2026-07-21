@@ -48,4 +48,4 @@ Technically speaking, there is nothing preventing us from transitioning our web 
 
 So for the foreseeable future, we'll be sticking with asp.net core + azure web apps to host our web APIs. But really hoping the azure functions team addresses the above-mentioned issues, so we can go 'truly' serverless.
 
-Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}}).
+Comments? Suggestions? Thoughts? Would love to hear from you. Feel free to [send me a tweet]({{site.author.twitter}}).

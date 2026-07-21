@@ -97,4 +97,4 @@ No. I know very little about Azure's government cloud. You're welcome to read th
 
 <!-- markdownlint-disable-next-line MD033 -->
 <br>
-_Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}}).
+_Comments? Suggestions? Thoughts? Would love to hear from you. Feel free to [send me a tweet]({{site.author.twitter}}).

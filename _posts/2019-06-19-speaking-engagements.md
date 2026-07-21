@@ -61,4 +61,4 @@ Slides from my talks are [uploaded on slideshare](https://www.slideshare.net/mit
 
 <!-- markdownlint-disable-next-line MD033 -->
 <br>
-_Please do get in touch if you'd like me to speak at your meetup group or tech conference. You can leave a comment below or [DM me on twitter]({{site.author.twitter}})._
+_Please do get in touch if you'd like me to speak at your meetup group or tech conference. Feel free to [DM me on twitter]({{site.author.twitter}})._

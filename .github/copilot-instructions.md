@@ -17,7 +17,7 @@ The site is served at `http://localhost:4000` by default. The `run-local.sh` scr
 ## Architecture
 
 - **`_layouts/default.html`** — Master layout. Contains the header (site navigation, author links, quick links sidebar), Google Analytics hook, and jekyll-seo-tag integration. All pages inherit from this.
-- **`_layouts/post.html`** — Extends `default`. Renders post title, date, author, content, and a Disqus comments block (currently disabled).
+- **`_layouts/post.html`** — Extends `default`. Renders post title, date, author, and content.
 - **`index.html`** — Home page. Iterates `site.posts` to list all published posts in reverse chronological order.
 - **`_config.yml`** — Site metadata (author info, social links, theme, plugins).
 - **`_posts/`** — Published posts (included in builds).
@@ -40,7 +40,6 @@ _drafts/kebab-case-title.md
 ---
 layout: post
 title: My Post Title
-comments: true
 ---
 ```
 

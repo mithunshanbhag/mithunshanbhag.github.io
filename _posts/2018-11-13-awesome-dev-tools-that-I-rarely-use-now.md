@@ -131,6 +131,6 @@ Thought I should take a small trip down the memory lane and capture these tools 
 
 * **[WBEMTest](https://msdn.microsoft.com/en-us/library/dn529014.aspx)**: GUI app to explore WMI namespaces and classes.
 
-I'm pretty sure there were a couple more .Net and Windows tools that I've forgotten about. Know of any? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}}).
+I'm pretty sure there were a couple more .Net and Windows tools that I've forgotten about. Know of any? Would love to hear from you. Feel free to [send me a tweet]({{site.author.twitter}}).
 
 That's it for today folks!

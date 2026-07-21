@@ -95,4 +95,4 @@ To see the WebSpace associated with an App Service App or App Service Plan, navi
 
 <!-- markdownlint-disable-next-line MD033 -->
 <br>
-_That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
+_That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you. Feel free to [send me a tweet]({{site.author.twitter}})._

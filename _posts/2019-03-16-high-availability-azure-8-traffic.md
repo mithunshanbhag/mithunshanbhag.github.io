@@ -121,4 +121,4 @@ Just mentioning it for completeness sake; I haven't actually used it ever.
 
 <!-- markdownlint-disable-next-line MD033 -->
 <br>
-_That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you, please leave a comment below or [send me a tweet]({{site.author.twitter}})._
+_That's all for today folks! Comments? Suggestions? Thoughts? Would love to hear from you. Feel free to [send me a tweet]({{site.author.twitter}})._
