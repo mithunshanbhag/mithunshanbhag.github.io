@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speaking Engagements"
-comments: true
+comments: false
 ---
 
 I often speak at meetup groups and tech conferences targeted at software developers and devops engineers. Just like my blog posts, my talks are mostly centered on open-source, cross-platform technologies driven by Microsoft _(.net core, asp.net core, azure cloud, powershell core, typescript etc)_.

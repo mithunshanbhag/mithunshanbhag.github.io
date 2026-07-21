@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Awesome Azure DevOps Resources
-comments: true
+comments: false
 ---
 My curated list of awesome resources related to azure devops (this will be a living document that I'll be updating frequently).
 

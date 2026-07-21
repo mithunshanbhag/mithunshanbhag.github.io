@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI
-comments: true
+comments: false
 ---
 
 Function of:

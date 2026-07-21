@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hello World!
-comments: true
+comments: false
 ---
 
 Hello there folks, welcome to my corner of the web. I created this blog in the hopes of improving my writing muscle. No real agenda or theme to this blog.

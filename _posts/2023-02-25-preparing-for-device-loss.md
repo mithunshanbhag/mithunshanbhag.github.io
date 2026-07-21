@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Preparing for device loss
-comments: true
+comments: false
 ---
 
 ![device on fire](../../../images/mobile-fire.gif)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why we're not moving our web APIs to azure functions yet
-comments: true
+comments: false
 ---
 I'm a big proponent of azure functions, having used it on a daily basis for over a year now (for both work and personal projects). The cost savings have been enormous, especially with the [consumption plan](https://docs.microsoft.com/en-in/azure/azure-functions/functions-scale#consumption-plan).
 

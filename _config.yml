@@ -21,3 +21,10 @@ plugins:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: false

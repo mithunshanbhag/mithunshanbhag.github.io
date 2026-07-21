@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My favorite announcements from MSBuild2020
-comments: true
+comments: false
 ---
 
 I had so much fun viewing the [MSBuild 2020 Virtual Conference](https://mybuild.microsoft.com/). Tons of amazing new products & features were announced over three days; here are a few that I'm personally excited about (ordered alphabetically):

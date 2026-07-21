@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My local dev machine setup
-comments: true
+comments: false
 ---
 
 Recently, I had to replace my PC's old SSD, which meant I had to reinstall all my dev tools and utilities. I thought I'd document my setup here for posterity. This is a living document, and I'll keep updating it as my setup evolves.

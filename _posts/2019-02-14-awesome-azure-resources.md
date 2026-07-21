@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Awesome Azure Resources
-comments: true
+comments: false
 ---
 My curated list of awesome azure-related resources (this will be a living document that I'll be updating frequently).
 

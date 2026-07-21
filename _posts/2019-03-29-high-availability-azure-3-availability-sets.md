@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "High Availability in Azure: Availability Sets"
-comments: true
+comments: false
 ---
 _Note: This blog post is part of a series centered around the topic of high availability in Azure:_
 
