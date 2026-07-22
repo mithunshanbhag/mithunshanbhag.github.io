@@ -1,19 +1,40 @@
 theme: jekyll-theme-minimal
 repository: mithunshanbhag/mithunshanbhag.github.io
 logo: images/logo_400_400.jpg
+lang: en-US
 
 # 
 author: 
   name: Mithun Shanbhag
+  bio: Bangalore-based software architect, SaaS builder, and technical writer.
+  location: Bengaluru, India
   github: https://github.com/mithunshanbhag
   linkedin: https://www.linkedin.com/in/mithunshanbhag/
   twitter: https://twitter.com/MithunShanbhag
   
+social:
+  name: Mithun Shanbhag
+  links:
+    - https://github.com/mithunshanbhag
+    - https://www.linkedin.com/in/mithunshanbhag/
+    - https://twitter.com/MithunShanbhag
+    - https://www.cloudskew.com
+
+twitter:
+  username: MithunShanbhag
+  card: summary_large_image
 
 # SEO related
 title: Mithun Shanbhag
-description: Is anyone actually reading this?
+description: Bangalore-based software architect, SaaS builder, and technical writer writing about .NET, Azure, software architecture, developer productivity, and AI-assisted product ideas.
 url: https://www.mithunshanbhag.com
+social_image: /images/logo_400_400.jpg
+expertise:
+  - .NET
+  - Microsoft Azure
+  - Software architecture
+  - SaaS product development
+  - AI-assisted product workflows
 
 # 
 plugins:
@@ -23,6 +44,10 @@ plugins:
   - jekyll-sitemap
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/logo_400_400.jpg
   - scope:
       path: ""
       type: posts

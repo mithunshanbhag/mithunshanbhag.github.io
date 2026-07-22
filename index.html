@@ -1,15 +1,108 @@
 ---
 layout: default
-title: Blog
+title: Software architect, SaaS builder, and technical writer
+description: Bangalore-based software architect and builder sharing practical writing on .NET, Azure, software architecture, developer productivity, and AI-assisted product ideas.
 ---
-<h1>Latest blog posts</h1>
+<div class="hero">
+  <h1>Mithun Shanbhag is a software architect, SaaS builder, and technical writer.</h1>
+  <p class="lede">I build products, speak at developer events, and write about .NET, Azure, software architecture, developer productivity, and AI-assisted product ideas.</p>
+  <p class="cta-links">
+    <a href="{{ "/about/" | relative_url }}">About</a>
+    <a href="{{ "/projects/" | relative_url }}">Projects</a>
+    <a href="{{ "/writing/" | relative_url }}">Writing</a>
+    <a href="{{ "/speaking/" | relative_url }}">Speaking</a>
+  </p>
+</div>
 
-<!-- <ul> -->
-  {% for post in site.posts %}
-    {% unless post.unlisted %}
-      <!-- <li> -->
-        <p>[{{ post.date | date_to_string }}] <a href="{{ post.url }}">{{ post.title }}</a></p>
-      <!-- </li> -->
-    {% endunless %}
-  {% endfor %}
-<!-- </ul> -->
+<div class="content-section">
+  <h2>Selected projects</h2>
+  <div class="feature-grid">
+    <article class="feature-card">
+      <h3><a href="https://www.cloudskew.com">CloudSkew</a></h3>
+      <p>A browser-based cloud diagramming product, with architecture notes and product context captured in the writing archive.</p>
+      <p><a href="{{ "/2020/05/19/cloudskew-architecture.html" | relative_url }}">Read the architecture write-up</a></p>
+    </article>
+    <article class="feature-card">
+      <h3><a href="{{ "/2026/07/09/spc-concept1.html" | relative_url }}">Journal to comic</a></h3>
+      <p>An AI-assisted storytelling concept for turning daily journal entries into personalized comic strips.</p>
+    </article>
+    <article class="feature-card">
+      <h3><a href="{{ "/2026/07/09/spc-concept2.html" | relative_url }}">Workplace comic strips</a></h3>
+      <p>An internal communications concept for using short comics to reinforce team culture, safety, and workplace habits.</p>
+    </article>
+  </div>
+</div>
+
+<div class="content-section">
+  <h2>Explore by topic</h2>
+  <div class="feature-grid">
+    <article class="feature-card">
+      <h3><a href="{{ "/topics/azure/" | relative_url }}">Azure and cloud architecture</a></h3>
+      <p>High-availability series posts, architecture notes, and curated Azure resources.</p>
+    </article>
+    <article class="feature-card">
+      <h3><a href="{{ "/topics/software-architecture/" | relative_url }}">Software architecture</a></h3>
+      <p>Product architecture, API design choices, and system-level implementation notes.</p>
+    </article>
+    <article class="feature-card">
+      <h3><a href="{{ "/topics/developer-productivity/" | relative_url }}">Developer productivity</a></h3>
+      <p>Dev environment setup, productivity systems, and practical tooling notes.</p>
+    </article>
+    <article class="feature-card">
+      <h3><a href="{{ "/topics/ai-and-comics/" | relative_url }}">AI and comic product ideas</a></h3>
+      <p>Early product experiments at the intersection of AI workflows, storytelling, and product exploration.</p>
+    </article>
+  </div>
+</div>
+
+<div class="content-section">
+  <h2>Selected writing</h2>
+  <ul class="post-list">
+    <li>
+      <article>
+        <time datetime="2025-02-28">28 Feb 2025</time>
+        <a href="{{ "/2025/02/28/my-dev-setup.html" | relative_url }}">My local dev machine setup</a>
+      </article>
+    </li>
+    <li>
+      <article>
+        <time datetime="2020-05-19">19 May 2020</time>
+        <a href="{{ "/2020/05/19/cloudskew-architecture.html" | relative_url }}">How I built cloudskew.com</a>
+      </article>
+    </li>
+    <li>
+      <article>
+        <time datetime="2019-03-31">31 Mar 2019</time>
+        <a href="{{ "/2019/03/31/high-availability-azure-4-availability-zones.html" | relative_url }}">High Availability in Azure: Availability Zones</a>
+      </article>
+    </li>
+    <li>
+      <article>
+        <time datetime="2019-02-14">14 Feb 2019</time>
+        <a href="{{ "/2019/02/14/awesome-azure-resources.html" | relative_url }}">Awesome Azure Resources</a>
+      </article>
+    </li>
+  </ul>
+</div>
+
+<div class="content-section">
+  <h2>Speaking</h2>
+  <p>I speak about cloud architecture, Azure, developer tooling, and lessons learned while building products. The speaking page links to videos, slides, and workshop material.</p>
+  <p><a href="{{ "/speaking/" | relative_url }}">View speaking profile</a></p>
+</div>
+
+<div class="content-section">
+  <h2>Latest posts</h2>
+  <ul class="post-list">
+    {% for post in site.posts limit: 8 %}
+      {% unless post.unlisted %}
+      <li>
+        <article>
+          <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d %b %Y" }}</time>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </article>
+      </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>

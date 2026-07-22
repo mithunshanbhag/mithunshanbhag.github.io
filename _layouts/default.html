@@ -12,27 +12,44 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   {% seo %}
+  {% assign social_image = page.image | default: site.social_image %}
+  {% if social_image %}
+  <meta property="og:image" content="{{ social_image | absolute_url }}">
+  <meta name="twitter:image" content="{{ social_image | absolute_url }}">
+  {% endif %}
 </head>
 
 <body>
   <div class="wrapper">
-    <header>
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.author.name }}</a></h1>
-      <p>(<a href="/">blog</a> | <a href="/feed.xml">rss</a> | <a href="{{site.author.twitter}}">twitter</a> | <a
-          href="{{site.author.linkedin}}">linkedin</a> | <a href="{{site.author.github}}">github)</a> </p>
+    <header class="site-header">
+      <p class="site-title"><a href="{{ "/" | relative_url }}">{{ site.author.name }}</a></p>
+      <p class="site-tagline">{{ site.author.bio }}</p>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="{{ "/about/" | relative_url }}">About</a>
+        <a href="{{ "/projects/" | relative_url }}">Projects</a>
+        <a href="{{ "/writing/" | relative_url }}">Writing</a>
+        <a href="{{ "/speaking/" | relative_url }}">Speaking</a>
+        <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
+      </nav>
+      <p class="social-links">
+        <a href="{{ site.author.twitter }}">X</a>
+        <span aria-hidden="true">&middot;</span>
+        <a href="{{ site.author.linkedin }}">LinkedIn</a>
+        <span aria-hidden="true">&middot;</span>
+        <a href="{{ site.author.github }}">GitHub</a>
+      </p>
 
       {% if site.logo %}
-      <img src="{{site.logo | relative_url}}" alt="Logo" />
+      <img class="site-logo" src="{{site.logo | relative_url}}" alt="{{ site.author.name }}" width="400" height="400" />
       {% endif %}
 
-      <br>
-      <br>
-      <br>
-
-      <h3>Quick links</h3>
-      <p><a href="https://www.cloudskew.com">cloudskew.com</a></p>
-      <p><a href="/2019/06/19/speaking-engagements">my speaking engagements</a></p>
-      <p><a href="https://blogs.msdn.microsoft.com/mithuns/">my old blog</a></p>
+      <div class="quick-links">
+        <h2>Highlights</h2>
+        <p><a href="https://www.cloudskew.com">CloudSkew</a></p>
+        <p><a href="{{ "/topics/azure/" | relative_url }}">Azure topic hub</a></p>
+        <p><a href="{{ "/speaking/" | relative_url }}">Speaking profile</a></p>
+        <p><a href="https://blogs.msdn.microsoft.com/mithuns/">Legacy blog archive</a></p>
+      </div>
 
       <!--
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -54,7 +71,7 @@
         {% endif %}
         -->
     </header>
-    <section>
+    <section class="page-content">
 
       {{ content }}
 
@@ -67,9 +84,55 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         -->
 
+      <p class="footer-note">Built around practical writing on cloud architecture, developer productivity, and product experiments.</p>
     </footer>
   </div>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  {% if page.url == "/" %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "{{ "/" | absolute_url }}#website",
+          "url": "{{ "/" | absolute_url }}",
+          "name": "{{ site.title }}",
+          "description": {{ site.description | jsonify }}
+        },
+        {
+          "@type": "Person",
+          "@id": "{{ "/" | absolute_url }}#person",
+          "name": "{{ site.author.name }}",
+          "url": "{{ "/" | absolute_url }}",
+          "jobTitle": "Software architect, SaaS builder, and technical writer",
+          "homeLocation": "{{ site.author.location }}",
+          "sameAs": {{ site.social.links | jsonify }},
+          "knowsAbout": {{ site.expertise | jsonify }}
+        }
+      ]
+    }
+  </script>
+  {% endif %}
+  {% if page.url == "/about/" %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "url": "{{ page.url | absolute_url }}",
+      "name": "{{ page.title }}",
+      "mainEntity": {
+        "@type": "Person",
+        "@id": "{{ "/" | absolute_url }}#person",
+        "name": "{{ site.author.name }}",
+        "description": {{ site.description | jsonify }},
+        "homeLocation": "{{ site.author.location }}",
+        "sameAs": {{ site.social.links | jsonify }},
+        "knowsAbout": {{ site.expertise | jsonify }}
+      }
+    }
+  </script>
+  {% endif %}
   {% if site.google_analytics %}
   <script>
     (function (i, s, o, g, r, a, m) {
