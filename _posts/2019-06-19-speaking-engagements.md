@@ -1,7 +1,14 @@
 ---
 layout: post
 title: "Speaking Engagements"
+description: Talks, workshops, and recordings covering Azure, cloud architecture, identity, developer tooling, and product-building lessons.
 comments: false
+last_reviewed: 2026-07-22
+topic_hub_url: /speaking/
+topic_hub_title: Speaking
+related_posts:
+  - /2020/05/19/cloudskew-architecture.html
+  - /2019/02/14/awesome-azure-resources.html
 ---
 
 I often speak at meetup groups and tech conferences targeted at software developers and devops engineers. Just like my blog posts, my talks are mostly centered on open-source, cross-platform technologies driven by Microsoft _(.net core, asp.net core, azure cloud, powershell core, typescript etc)_.

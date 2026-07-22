@@ -1,7 +1,15 @@
 ---
 layout: post
 title: "High Availability in Azure: Traffic management"
+description: An overview of Azure Traffic Manager, what it does, what it does not do, and how it fits into high-availability architectures.
 comments: false
+last_reviewed: 2026-07-22
+topic_hub_url: /topics/azure/
+topic_hub_title: Azure and cloud architecture
+related_posts:
+  - /2019/02/28/high-availability-azure-1-basics.html
+  - /2019/03/31/high-availability-azure-4-availability-zones.html
+  - /2019/03/23/high-availability-azure-9-apps.html
 ---
 _Note: This blog post is part of a series centered around the topic of high availability in Azure:_
 

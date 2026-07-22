@@ -1,7 +1,14 @@
 ---
 layout: post
 title: Awesome Azure DevOps Resources
+description: A curated collection of Azure DevOps documentation, tools, videos, blogs, labs, and supporting resources.
 comments: false
+last_reviewed: 2026-07-22
+topic_hub_url: /topics/azure/
+topic_hub_title: Azure and cloud architecture
+related_posts:
+  - /2019/02/14/awesome-azure-resources.html
+  - /2019/06/19/speaking-engagements.html
 ---
 My curated list of awesome resources related to azure devops (this will be a living document that I'll be updating frequently).
 
