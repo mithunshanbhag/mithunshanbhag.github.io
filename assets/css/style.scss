@@ -4,12 +4,16 @@
 @import "jekyll-theme-minimal";
 
 @media print, screen and (min-width: 961px) {
+  body {
+    padding: 32px;
+  }
+
   .wrapper {
-    width: 980px;
+    width: 1280px;
   }
 
   .page-content {
-    width: 620px;
+    width: 910px;
   }
 }
 
