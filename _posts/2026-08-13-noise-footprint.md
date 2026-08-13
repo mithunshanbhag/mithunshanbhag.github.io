@@ -2,6 +2,17 @@
 layout: post
 title: Noise footprint
 comments: false
+description: Public spaces and offices in India are often relentlessly noisy. Why it happens, how it affects deep work, and the coping strategies that actually help.
+author:
+  name: Mithun Shanbhag
+  twitter: MithunShanbhag
+image:
+  path: /images/noise-comic-strip.png
+  width: 1303
+  height: 434
+  alt: Comic strip about workplace noise
+twitter:
+  card: summary_large_image
 ---
 
 ![comic strip](../../../images/noise-comic-strip.png)

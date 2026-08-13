@@ -14,6 +14,15 @@ author:
 title: Mithun Shanbhag
 description: Is anyone actually reading this?
 url: https://www.mithunshanbhag.com
+twitter:
+  username: MithunShanbhag
+  card: summary
+social:
+  name: Mithun Shanbhag
+  links:
+    - https://twitter.com/MithunShanbhag
+    - https://www.linkedin.com/in/mithunshanbhag/
+    - https://github.com/mithunshanbhag
 
 # 
 plugins:
@@ -28,3 +37,4 @@ defaults:
       type: posts
     values:
       comments: false
+      image: /images/logo_400_400.jpg
