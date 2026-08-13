@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-minimal";
 
+body {
+  font-size: 15px;
+}
+
 @media print, screen and (min-width: 961px) {
   body {
     padding: 24px;
