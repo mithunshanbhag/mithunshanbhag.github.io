@@ -1,7 +1,15 @@
 ---
 layout: post
 title: Awesome Azure Resources
+description: A curated collection of Azure documentation, tools, videos, blogs, pricing references, and starter resources.
 comments: false
+last_reviewed: 2026-07-22
+topic_hub_url: /topics/azure/
+topic_hub_title: Azure and cloud architecture
+related_posts:
+  - /2019/11/14/awesome-azure-devops-resources.html
+  - /2019/02/28/high-availability-azure-1-basics.html
+  - /2019/03/31/high-availability-azure-4-availability-zones.html
 ---
 My curated list of awesome azure-related resources (this will be a living document that I'll be updating frequently).
 

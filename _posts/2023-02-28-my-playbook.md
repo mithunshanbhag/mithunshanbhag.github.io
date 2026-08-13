@@ -2,6 +2,13 @@
 layout: post
 title:  My playbook
 sitemap: false
+description: A living document of personal systems, routines, and mental models that have helped me grow in work and life.
+last_reviewed: 2026-07-22
+topic_hub_url: /topics/developer-productivity/
+topic_hub_title: Developer productivity
+related_posts:
+  - /2025/02/28/my-dev-setup.html
+  - /2019/03/08/dark-mode.html
 ---
 
 Based on my life experiences, I've cobbled together this playbook that has helped me in my growth/development. This is mostly for my own reference, but I hope it helps you too (disclaimer: I make no guarantees).

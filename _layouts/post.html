@@ -1,8 +1,73 @@
 ---
 layout: default
 ---
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ "/" | relative_url }}">Home</a>
+  <span aria-hidden="true">/</span>
+  <a href="{{ "/writing/" | relative_url }}">Writing</a>
+  {% if page.topic_hub_url and page.topic_hub_title %}
+  <span aria-hidden="true">/</span>
+  <a href="{{ page.topic_hub_url | relative_url }}">{{ page.topic_hub_title }}</a>
+  {% endif %}
+  <span aria-hidden="true">/</span>
+  <span>{{ page.title }}</span>
+</nav>
 <h1>{{ page.title }}</h1>
-<small>Published on {{ page.date | date_to_string }} by {{ site.author.name }}</small>
+<p class="post-meta">
+  Published on {{ page.date | date_to_string }} by {{ site.author.name }}
+  {% if page.last_reviewed %}
+  <br>
+  Last reviewed on {{ page.last_reviewed | date: "%-d %B %Y" }}
+  {% endif %}
+</p>
+{% if page.topic_hub_url and page.topic_hub_title %}
+<p class="topic-hub-link">Part of the <a href="{{ page.topic_hub_url | relative_url }}">{{ page.topic_hub_title }}</a> hub.</p>
+{% endif %}
 <hr>
 {{ content }}
+{% if page.related_posts and page.related_posts.size > 0 %}
 <hr>
+<div class="related-links">
+  <h2>Related reading</h2>
+  <ul class="post-list compact">
+    {% for related_url in page.related_posts %}
+      {% assign related_post = site.posts | where: "url", related_url | first %}
+      {% if related_post %}
+      <li>
+        <article>
+          <time datetime="{{ related_post.date | date: "%Y-%m-%d" }}">{{ related_post.date | date: "%d %b %Y" }}</time>
+          <a href="{{ related_post.url | relative_url }}">{{ related_post.title }}</a>
+        </article>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+<hr>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ "/" | absolute_url }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Writing",
+        "item": "{{ "/writing/" | absolute_url }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": {{ page.title | jsonify }},
+        "item": "{{ page.url | absolute_url }}"
+      }
+    ]
+  }
+</script>

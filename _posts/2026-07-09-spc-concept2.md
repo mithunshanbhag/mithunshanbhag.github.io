@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  Concept 2 - Workplace comic strips
+title: Workplace comic strips - an AI internal communications concept
+description: A product concept for using AI-assisted comic strips to improve internal communications, reinforce team culture, and make workplace messaging more engaging.
+image: /images/workplace1.png
 comments: false
 unlisted: true
+topic_hub_url: /topics/ai-and-comics/
+topic_hub_title: AI and comic product ideas
 ---
 
-Use daily bite-sized comic strips to create cohesive teams. Drive internal workplace comms in an engaging way.
+Use daily bite-sized comic strips to create cohesive teams and make internal workplace communication more engaging.
 
 ## App form
 

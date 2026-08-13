@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  Concept 1 - Journal to comic
+title: Journal to comic - an AI comic journaling concept
+description: A product concept for turning daily journal entries into personalized comic strips generated from selfies, avatars, and AI-assisted storytelling.
+image: /images/comic-strip1.png
 comments: false
 unlisted: true
+topic_hub_url: /topics/ai-and-comics/
+topic_hub_title: AI and comic product ideas
 ---
 
-Turn your journal into daily comic strips.
+Turn your journal into daily comic strips, with AI helping translate your reflections into visual stories.
 
 ## Step 1: Upload selfies
 

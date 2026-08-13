@@ -1,7 +1,16 @@
 ---
 layout: post
 title: "High Availability in Azure: Availability Zones"
+description: A practical explanation of Azure Availability Zones, when to use them, how they compare with availability sets, and the tradeoffs involved.
 comments: false
+last_reviewed: 2026-07-22
+topic_hub_url: /topics/azure/
+topic_hub_title: Azure and cloud architecture
+related_posts:
+  - /2019/02/28/high-availability-azure-1-basics.html
+  - /2019/03/29/high-availability-azure-3-availability-sets.html
+  - /2019/03/16/high-availability-azure-8-traffic.html
+  - /2019/03/23/high-availability-azure-9-apps.html
 ---
 _Note: This blog post is part of a series centered around the topic of high availability in Azure:_
 

@@ -1,7 +1,15 @@
 ---
 layout: post
 title: "High Availability in Azure: The basics"
+description: A foundational guide to Azure high availability covering geographies, regions, paired regions, and availability zones.
 comments: false
+last_reviewed: 2026-07-22
+topic_hub_url: /topics/azure/
+topic_hub_title: Azure and cloud architecture
+related_posts:
+  - /2019/03/31/high-availability-azure-4-availability-zones.html
+  - /2019/03/16/high-availability-azure-8-traffic.html
+  - /2019/02/14/awesome-azure-resources.html
 ---
 _Note: This blog post is part of a series centered around the topic of high availability in Azure:_
 

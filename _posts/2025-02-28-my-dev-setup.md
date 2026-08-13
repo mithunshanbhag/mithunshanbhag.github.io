@@ -1,7 +1,16 @@
 ---
 layout: post
 title: My local dev machine setup
+description: A practical snapshot of the tools, utilities, frameworks, and AI coding workflow I use across Windows, WSL, .NET, Azure, and TypeScript development.
+image: /images/my-pc.jpg
 comments: false
+last_reviewed: 2026-07-22
+topic_hub_url: /topics/developer-productivity/
+topic_hub_title: Developer productivity
+related_posts:
+  - /2023/02/28/my-playbook.html
+  - /2019/03/08/dark-mode.html
+  - /2018/11/13/awesome-dev-tools-that-I-rarely-use-now.html
 ---
 
 Recently, I had to replace my PC's old SSD, which meant I had to reinstall all my dev tools and utilities. I thought I'd document my setup here for posterity. This is a living document, and I'll keep updating it as my setup evolves.
