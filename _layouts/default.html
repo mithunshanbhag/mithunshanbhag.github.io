@@ -11,11 +11,50 @@
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  {% seo %}
+  {% assign social_title = page.title | default: site.title %}
   {% assign social_image = page.image | default: site.social_image %}
+  {% assign derived_description = nil %}
+  {% if page.layout == "post" %}
+    {% assign paragraph_chunks = content | split: '<p' %}
+    {% for paragraph_chunk in paragraph_chunks offset:1 %}
+      {% assign paragraph_html = '<p' | append: paragraph_chunk %}
+      {% assign paragraph_text = paragraph_html | strip_html | normalize_whitespace | strip %}
+      {% unless paragraph_html contains 'class="post-meta"' or paragraph_html contains 'class="topic-hub-link"' or paragraph_html contains '<img' %}
+        {% if paragraph_text != "" %}
+          {% assign derived_description = paragraph_text %}
+          {% break %}
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+    {% if page.image == nil %}
+      {% assign image_chunks = content | split: '<img ' %}
+      {% if image_chunks.size > 1 %}
+        {% assign first_image_chunk = image_chunks[1] %}
+        {% assign extracted_image = first_image_chunk | split: 'src="' | last | split: '"' | first %}
+        {% if extracted_image != "" %}
+          {% assign social_image = extracted_image %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+  {% assign social_description = page.description | default: derived_description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | strip_newlines | strip %}
+  {% assign normalized_social_image = social_image | replace: '../../../', '/' | replace: '../../', '/' | replace: '../', '/' %}
+  {% assign twitter_username = site.twitter.username | default: "" | replace: "@", "" %}
+  {% assign twitter_card = page.twitter_card | default: site.twitter.card | default: "summary_large_image" %}
+  {% seo %}
+  <meta name="description" content="{{ social_description | escape_once }}">
+  <meta property="og:description" content="{{ social_description | escape_once }}">
+  <meta name="twitter:description" content="{{ social_description | escape_once }}">
+  <meta name="twitter:card" content="{{ twitter_card }}">
+  {% if twitter_username != "" %}
+  <meta name="twitter:site" content="@{{ twitter_username }}">
+  <meta name="twitter:creator" content="@{{ twitter_username }}">
+  {% endif %}
   {% if social_image %}
-  <meta property="og:image" content="{{ social_image | absolute_url }}">
-  <meta name="twitter:image" content="{{ social_image | absolute_url }}">
+  <meta property="og:image" content="{{ normalized_social_image | absolute_url }}">
+  <meta property="og:image:alt" content="{{ page.image_alt | default: social_title | escape_once }}">
+  <meta name="twitter:image" content="{{ normalized_social_image | absolute_url }}">
+  <meta name="twitter:image:alt" content="{{ page.image_alt | default: social_title | escape_once }}">
   {% endif %}
 </head>
 
