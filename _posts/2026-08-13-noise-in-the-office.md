@@ -48,6 +48,6 @@ Next, get a good pair of noise-cancelling headphones. It won't cut out the noise
 
 ## Food for thought
 
-I propose the concept of noise footprint. Similar to carbon footprint, but for noise. A metric which could be applied to individuals, organizations and societies. How much noise do you make in a day?
+I propose the concept of noise footprint. Similar to carbon footprint, but for noise. How much noise do you make in a day? A metric which could be applied to individuals, organizations and societies. Create a world index! 😄
 
->FWIW: noise, distractions and interruptions are all different things (but often correlated). More on that in a future post.
+BTW - noise, distractions and interruptions are all different things (but often correlated). More on that in a future post.
