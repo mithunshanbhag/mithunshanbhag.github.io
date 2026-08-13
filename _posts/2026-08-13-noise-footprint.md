@@ -4,6 +4,8 @@ title: Noise footprint
 comments: false
 ---
 
+![comic strip](../../../images/noise-comic-strip.png)
+
 ## Public spaces in India are noisy
 
 First-time visitors to India are often overwhelmed by the constantly high noise levels: vehicles honking, music blaring, construction work, people talking loudly, aside from the general hustle and bustle of the streets.
