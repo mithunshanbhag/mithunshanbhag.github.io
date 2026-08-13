@@ -34,7 +34,7 @@ Lack of infrastructure planning also plays a part. Floor plans for office buildi
 
 ## Dealing with noise
 
-I hate being cynical, but attempting to bring about culture change and awareness on this topic is futile. That takes decades (or centuries). We'll all be long dead by then. I encourage you to be a good role model and lead by example. But don't expect anyone to follow suit.
+I hate being cynical, but attempting to bring about culture change and awareness on this topic is futile. That takes decades (or centuries). We'll all be long dead by then. While I encourage you to be a good role model and lead by example, please don't expect anyone to follow suit.
 
 In the meanwhile, the first (and probably most important) thing is acceptance. Accept and embrace the fact that noise is inevitable. You can't fight it. You can't change it anytime soon. Build your tolerance, adapt and slowly learn to live with it.
 
