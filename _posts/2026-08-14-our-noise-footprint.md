@@ -23,7 +23,7 @@ First-time visitors to India are often overwhelmed by the constantly high noise 
 
 Travel in a train or a bus. Go to a mall, a park, or a restaurant. In public spaces, everyone's speakerphone is on. Metaphorically, but also very literally. No one uses headphones. It's a cacophonic soup of multiple, simultaneous phone conversations, bollywood music, youtube videos, and instagram reels blaring away endlessly.
 
-Noise is omnipresent here, and often does not abate until very, very late into the night.
+Noise is omnipresent here, and often does not abate until very, very late into the night. Anti-noise ordinances and regulations are practically non-existent here.
 
 ## But our offices are less noisy, right?
 
@@ -39,7 +39,7 @@ Deep work? What deep work? By default, there is no possibility of deep work here
 
 Over on social media, people often debate about what causes this... a lack of workplace etiquette? Or a lack of civic sense? Personally, I think it's neither.
 
-I'm convinced that the singular root cause is the lack of awareness. If one is not aware of the rules/etiquettes, then can they be expected to follow them? Can they be blamed for breaking them? Our society has normalized noise to such an extent that people don't even know that quiet workspaces can be a possibility.
+I'm convinced that the singular root cause is the lack of awareness. If one is not aware of the rules/etiquettes, then can they be expected to follow them? Can they be blamed for breaking them? Our society has normalized noise to such an extent that people have become desensitized to it and don't even know that quiet workspaces can be a possibility.
 
 Lack of infrastructure planning also plays a part. Floor plans for office buildings do not often include focus rooms or phone rooms (for cost reasons).
 
