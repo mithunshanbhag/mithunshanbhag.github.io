@@ -31,9 +31,12 @@ Ummm, not really. Constant phone calls. Zoom meetings. Music playing in the back
 
 For the last 8 years, I've worked out of a cabin in a co-working space. In my time here, I've seen hundreds of companies come and go. The one constant has been their high noise footprint. In many startups, these noisy environments are fomented by the founders themselves who feel compelled to create this exuberant high-energy hustle-culture hubris. A founder once told me that a silent workspace feels "dead" to them, and that they feel compelled to inject some "energy".
 
-Once in a blue moon, someone from their HR department will send out a reminder (or post a flyer) to keep noise levels down. Almost always lip service, never backed by any punitive action.
+Once in a blue moon, someone from their HR department will send out a reminder (or post a super-cringy flyer) to keep noise levels down. Almost always lip service, never backed by any punitive action.
 
-Deep work? What deep work? By default, there is no possibility of deep work here. Unless you change the environment. More on that a bit later.
+Sometimes someone in the org will hand out copies of Cal Newport's Deep Work. The ironic thing being that everyone is so attention deficit these days, they're unable to read the book from cover to cover. Deep work? What deep work? By default, there is no possibility of deep work here. Unless you change the environment. More on that a bit later.
+
+![cringy flyer](../../../images/noise-cringy-flyers.png)
+![deep work book](../../../images/noise-deep-work-book.png)
 
 ## Why oh why does this happen?
 
@@ -63,6 +66,10 @@ Next, get a good pair of noise-cancelling headphones. It won't cut out the noise
 
 I propose the concept of noise footprint. Similar to carbon footprint, but for noise. How much noise do you make in a day? A metric which could be applied to individuals, organizations and societies. Create a world index! 😄
 
+Remember those radar speed signs that warn you if you're going too fast? In a similar vein, we need to build something that beeps when the decibel level in the office gets too high.
+
+![radar speed sign](../../../images/noise-radar-speed-sign.png)
+
 BTW - noise, distractions and interruptions are all different things (but often correlated). More on that in a future post.
 
-What are your thoughts on noise levels in offices? Any interesting stories or anecdotes? Please leave a comment below.
+What are your thoughts on noise levels in offices? How do you deal with it? Any interesting stories or anecdotes? Please leave a comment below.
