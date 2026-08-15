@@ -23,13 +23,12 @@ My primary development environment is WSL (Linux on Windows), and macOS occasion
 
 ## AI development tools
 
-* [Github Copilot CLI](https://github.com/features/copilot/cli): My daily driver for AI-assisted coding. Allows me to choose from multiple models.
-* [Codex Desktop App](https://developers.openai.com/codex/app): This app has made "chat with your codebase" seamless.
+* [Codex/ChatGPT Desktop App](https://developers.openai.com/codex/app): My daily driver for AI-assisted coding. This app has made "chat with your codebase" seamless. I've configured tons of plugins and daily scheduled tasks in it.
+* [Github Copilot CLI](https://github.com/features/copilot/cli): I use it very infrequently now (mostly because I still have an active annual subscription). Allows me to choose from multiple models.
 * [Codex CLI](https://developers.openai.com/codex/cli): Command-line interface for Codex.
-* [ChatGPT Desktop App](https://chatgpt.com/download/): The OG.
 * [NotebookLM](https://notebooklm.google.com/): Chat and converse with your documents & other sources of information. Love the "interactive podcast" feature.
 
-> For now, my go-to model is `GPT 5.4 x-high`. Things are very rapidly evolving and new models, tools, IDEs, etc. are popping up all the time. I'm sure I'll be adding more to this list in the near future.
+> For now, my go-to models are `5.6 Sol` and `5.6 Terra` (depending on the complexity of the tasks). Things are very rapidly evolving and new models, tools, IDEs, etc. are popping up all the time. I'm sure I'll be adding more to this list in the near future.
 
 ## Core utilities, terminal, scripting
 
