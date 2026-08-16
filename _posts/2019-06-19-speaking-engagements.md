@@ -38,6 +38,16 @@ Here are some of my previous speaking engagements:
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hEDnZgrWW6k?si=k2ypf6YV_tkC0TLk&amp;start=11838" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
+
+* Title: **How I built a live quiz app for 100K players on Azure**
+* _[Aug 06, 2022](https://www.meetup.com/softwarearchitectsbangalore/events/286413094/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
+* _[Video](https://youtu.be/ZNUmYwBptNM?si=gahdbqQcZUv0MjGP)_
+
+  <!-- markdownlint-disable-next-line -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZNUmYwBptNM?si=gahdbqQcZUv0MjGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Building CloudSkew
 
 * Title: **How I built cloudskew.com on Azure**
