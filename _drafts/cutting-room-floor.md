@@ -1,4 +1,10 @@
-## noise
+---
+layout: post
+title:  Cutting room floor
+sitemap: false
+---
+
+## our noise footprint
 
 Accompanying research: Deep work (see chatgpt summary)
 
@@ -17,4 +23,5 @@ people don't know how to be bored. People feel the need to fill every second of 
 - As a company owner, what I tell my employees
 - Cal Newport books
 
-## 
+## moonlighting, side hustles, side gigs, side projects
+
