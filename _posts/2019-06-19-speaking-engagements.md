@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Speaking Engagements"
+title: My talks
 comments: false
+unlisted: true
 ---
 
 I often speak at meetup groups and tech conferences targeted at software developers and devops engineers. Just like my blog posts, my talks are mostly centered on open-source, cross-platform technologies driven by Microsoft _(.net core, asp.net core, azure cloud, powershell core, typescript etc)_.
 
 Slides from my talks are usually [uploaded on slideshare](https://www.slideshare.net/mithunshanbhag/presentations).
-
-Here are some of my previous speaking engagements:
 
 ## Building CartePlus
 
@@ -18,6 +17,9 @@ Here are some of my previous speaking engagements:
 
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zJMvxi90LIw?si=EYD_sjCqFnLvCGJG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
 
 ## Building QuizHub
 
@@ -48,6 +50,9 @@ Here are some of my previous speaking engagements:
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZNUmYwBptNM?si=gahdbqQcZUv0MjGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
+
 ## Building CloudSkew
 
 * Title: **How I built cloudskew.com on Azure**
@@ -61,28 +66,84 @@ Here are some of my previous speaking engagements:
   <br>
 
 * Lightning Talk:  **My experience building CloudSkew (browser-based, real-time, online diagram editor)**
-* _[Video (skip to 3:49:00 for my presentation)](https://youtu.be/_dZwMidN9wY?t=13741)_
 * _June 17, 2020 \| [Cloud Community Days (online event)](https://ccdays.konfhub.com/)_
+* _[Video (skip to 3:49:00 for my presentation)](https://youtu.be/_dZwMidN9wY?t=13741)_
 
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_dZwMidN9wY?si=kN-kz9PRGCTevj57&amp;start=13741" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Azure Happy Hours: Data Stores On Azure
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
 
+* Title: **Architecture Deep-Dive: CloudSkew.com**
+* _[Jul 14, 2020](https://www.meetup.com/AzureDublin/events/271842024/) \| [Cloud Lunch and Learn (online event)](https://www.youtube.com/channel/UCHZeZzSlTtmfgPozIq8J2Kw)_
+* _[Slides](https://www.slideshare.net/mithunshanbhag/cloudskew-architecture) \| [Video](https://youtu.be/aZyPlXiXsqY)_
+
+  <!-- markdownlint-disable-next-line -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aZyPlXiXsqY?si=Lg-mqJo_Nluiq697" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
+
+* Title: **Architecture Deep-Dive: CloudSkew.com**
+* _[Feb 22, 2020](https://www.meetup.com/BDotNetUG/events/268474571/) \| [Bangalore Dotnet (BDotnet)](https://www.meetup.com/BDotNetUG) meetup group_
+* _[Feb 8, 2020](https://www.meetup.com/SoftwareArchitectsBangalore/events/267425357/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
+* _[Slides](https://www.slideshare.net/mithunshanbhag/cloudskew-architecture) \| [Video](https://youtu.be/b0FMTwO0olc)_
+
+  <!-- markdownlint-disable-next-line -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/b0FMTwO0olc?si=jbS_3tHumjXPVhAC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
+
+* Title: **How I built cloudskew.com on Azure**
+* [Nov 24, 2020](https://2020.techxconf.com/) \| [AzConf/TechXConf 2020](https://2020.techxconf.com/)
+* _[Video](https://youtu.be/isRLHQZbs08?si=UQFELrpGV2Y3jsGW)_
+
+  <!-- markdownlint-disable-next-line -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/isRLHQZbs08?si=UQFELrpGV2Y3jsGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
+
+* Title: **CloudSkew - Diagramming tool with a focus**
+* _[StackToHeap Podcast](https://www.youtube.com/playlist?list=PLFnYksRW2j9qpwjZviPs2bbXsOQn-a7po)_
+* _[Video](https://youtu.be/75PBxvnqckg?si=DXAn07jtSwIzaY2x)_
+
+  <!-- markdownlint-disable-next-line -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/75PBxvnqckg?si=DXAn07jtSwIzaY2x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
+
+* Title: **CloudSkew**
+* _[CloudMonk Podcast](https://www.cloud-monk.com/)_
+* _[Audio](https://www.cloud-monk.com/podcast/mithun/)_
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
+
+## Data Stores
+
+* Title: **Data stores on Azure**
 * _[Jul 24, 2020](https://www.meetup.com/Microsoft-Reactor-Bangalore/events/271748075/) \| [Microsoft Reactor Bangalore (online event)](https://www.meetup.com/Microsoft-Reactor-Bangalore/)_
 * _[Video](https://www.youtube.com/watch?v=uK0kbAfG3fo)_
 
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/uK0kbAfG3fo?si=6f1igjEp8U2EQX6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Architecture Deep-Dive: CloudSkew.com
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
 
-* _[Slides](https://www.slideshare.net/mithunshanbhag/cloudskew-architecture) \| [Video1](https://youtu.be/aZyPlXiXsqY)\| [Video2](https://youtu.be/b0FMTwO0olc)_
-* _[Jul 14, 2020](https://www.meetup.com/AzureDublin/events/271842024/) \| [Cloud Lunch and Learn (online event)](https://www.youtube.com/channel/UCHZeZzSlTtmfgPozIq8J2Kw)_
-* _[Feb 22, 2020](https://www.meetup.com/BDotNetUG/events/268474571/) \| [Bangalore Dotnet (BDotnet)](https://www.meetup.com/BDotNetUG) meetup group_
-* _[Feb 8, 2020](https://www.meetup.com/SoftwareArchitectsBangalore/events/267425357/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
+* Title: **Design Patterns for Data Management & Consistency**
+* _[Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
+* _[Video](https://youtu.be/_nozzpKXeQ4) \| [Slides](https://www.slideshare.net/mithunshanbhag/design-patterns-for-data-management-and-consistency)_
 
   <!-- markdownlint-disable-next-line -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_nozzpKXeQ4?si=35f6OvPnl1BgNRwZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
 
 ## Workshop: Azure DevOps for DotNetCore Developers
 
@@ -100,9 +161,10 @@ Here are some of my previous speaking engagements:
 
 ## Terraform on Azure
 
+* Title: **Terraform for Azure**
 * _[Dec 7, 2019](https://www.meetup.com/CloudOps-Meetup-Bangalore/events/266384457/) \| [Azure Developers Day at EY (Cloud Computing & DevOps Meetup Bangalore)](https://www.meetup.com/CloudOps-Meetup-Bangalore)_
 * _Dec 8, 2019 \| [Azure Advent Calendar (online event)](https://azureadventcalendar.com/)_
-* _[Video1](https://youtu.be/oHMei2-CUkY) \| [Slides](https://www.slideshare.net/mithunshanbhag/terraform-on-azure-166063069)_
+* _[Video](https://youtu.be/oHMei2-CUkY) \| [Slides](https://www.slideshare.net/mithunshanbhag/terraform-on-azure-166063069)_
 
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/oHMei2-CUkY?si=CUJt4V3CA0wuhS34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -110,11 +172,15 @@ Here are some of my previous speaking engagements:
   <!-- markdownlint-disable-next-line MD033 -->
   <br>
 
+* Title: **Terraform on Azure**
 * _[Aug 24, 2019](https://www.meetup.com/Microsoft-Azure-Bangalore/events/263353117/) \| [Microsoft Azure Bangalore](https://www.meetup.com/Microsoft-Azure-Bangalore/) meetup group_
 * _[Video](https://youtu.be/ibuHDIwrry8) \| [Slides](https://www.slideshare.net/mithunshanbhag/terraform-on-azure-166063069) \| [Code Samples](https://github.com/mithunshanbhag/meetup-azureblr-08242019/)_
 
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ibuHDIwrry8?si=aezwFvbZFo_S80Ti" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
 
 ## Identity, AuthN & AuthZ with OpenID Connect & OAuth2
 
@@ -134,22 +200,21 @@ Here are some of my previous speaking engagements:
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ejinvJkBuHI?si=T5fORGfpPW-NFIM9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Design Patterns for Data Management & Consistency
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
 
-* _[Video](https://youtu.be/_nozzpKXeQ4) \| [Slides](https://www.slideshare.net/mithunshanbhag/design-patterns-for-data-management-and-consistency)_
-* _[Jul 13, 2019](https://www.meetup.com/SoftwareArchitectsBangalore/events/261222082/) \| [Software Architects Bangalore](https://www.meetup.com/SoftwareArchitectsBangalore/) meetup group_
+## WSL (Windows Subsystem for Linux)
 
-  <!-- markdownlint-disable-next-line -->
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_nozzpKXeQ4?si=35f6OvPnl1BgNRwZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Internals of WSL (Windows Subsystem for Linux)
-
+* Title: **Internals of WSL (Windows Subsystem for Linux)**
 * _[Nov 9, 2019](https://www.meetup.com/DotNetBLR/events/264545071) \| [Dotnet Bangalore](https://www.meetup.com/DotNetBLR/) meetup group_
 * _[Jun 29, 2019](https://www.meetup.com/BangaloreITProUG/events/261867126/) \| [Bangalore IT Pro](https://www.meetup.com/BangaloreITProUG/) meetup group_
 * _[Video](https://youtu.be/I0b5Bef_NtI) \| [Slides](https://www.slideshare.net/mithunshanbhag/wsl-windows-subsytem-for-linux)_
 
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/I0b5Bef_NtI?si=3v0v0v0v0v0v0v0v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
 
 ## High Availability Architectures in Azure
 
@@ -168,6 +233,9 @@ Here are some of my previous speaking engagements:
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/fVrOYv5pJag?si=wCo6iiXa0sfAMBEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
+
 ## Introduction to Git and Github
 
 * _Oct 22, 2017 \| [Youtube live webinar for SkewCode](https://www.youtube.com/skewcode)_
@@ -176,6 +244,9 @@ Here are some of my previous speaking engagements:
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/rsWsKJSGMAE?si=fAuBkealgkrL4x6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
+
 ## Introduction to SQL
 
 * _Jun 9, 2017 \| [Youtube live webinar for SkewCode](https://www.youtube.com/skewcode)_
@@ -183,6 +254,9 @@ Here are some of my previous speaking engagements:
 
   <!-- markdownlint-disable-next-line -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FvJL1Xj5-9w?si=DLqJaDz_cE4WbZhe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  <!-- markdownlint-disable-next-line MD033 -->
+  <br>
 
 ## Creating User-Mode Debuggers for Windows
 
