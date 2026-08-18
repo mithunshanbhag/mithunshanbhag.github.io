@@ -27,8 +27,13 @@
   <div class="wrapper">
     <header>
       <h1><a href="{{ "/" | absolute_url }}">{{ site.author.name }}</a></h1>
-      <p>(<a href="/">blog</a> | <a href="{{site.author.twitter}}">twitter</a> | <a
-          href="{{site.author.linkedin}}">linkedin</a> | <a href="{{site.author.github}}">github)</a> </p>
+      <p>
+        <a href="/">blog</a> |
+        <a href="{{site.author.twitter}}">twitter</a> |
+        <a href="{{site.author.linkedin}}">linkedin</a> |
+        <a href="{{site.author.github}}">github</a> |
+        <a href="{{site.author.instagram}}">insta</a>
+      </p>
 
       {% if site.logo %}
       <img src="{{site.logo | relative_url}}" alt="Logo" />
