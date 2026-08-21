@@ -66,7 +66,7 @@ Next, get a good pair of noise-cancelling headphones. It won't cut out the noise
 
 I propose the concept of noise footprint. Similar to carbon footprint, but for noise. How much noise do you make in a day? A metric which could be applied to individuals, organizations, and societies. Create a world index! 😄
 
-Remember those radar speed signs that warn you if you're going too fast? In a similar vein, we need to build something that beeps when the decibel level in the office gets too high.
+Also, remember those radar speed signs that warn you if you're going too fast? In a similar vein, we need to build something that beeps when the decibel level in the office gets too high.
 
 ![radar speed sign](../../../images/noise-radar-speed-sign.png)
 
