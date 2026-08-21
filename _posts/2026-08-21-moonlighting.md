@@ -17,6 +17,8 @@ twitter:
 
 Moonlighting: The act of secretly working a second job, without informing your first job.
 
+![comic strip](../../../images/moonlighting-comic-strip.png)
+
 ## The over-employment (OE) phenomenon 💼
 
 Soon after the Covid19 pandemic, when remote work became the new norm, the [/r/overemployed](https://www.reddit.com/r/overemployed/) subreddit exploded in popularity, seemingly overnight. People were posting crazy, outlandish stories of:
@@ -78,6 +80,8 @@ We kept deluding ourselves, and just didn't trust our gut. If mental gymnastics 
 **Empire building**: The employee's own manager was a tad busy with empire building, and was very reluctant to let anyone go. To them, it was important to keep the headcount numbers up for budgetary reasons. To the extent that they simply glossed over the employee's obvious performance issues.
 
 This is somewhat my fault. I helped create this misaligned incentives structure in my org.
+
+![bicycle fall](../../../images/moonlighting-bicycle-fall.png)
 
 ## The new fertile grounds for moonlighting 🌱
 
