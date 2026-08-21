@@ -25,9 +25,9 @@ Circa early 2022, I was serving as a fractional CTO for an mid-stage startup. Li
 
 I was in the remote interview loop, and was pretty impressed with the candidate: technically sound, easy going, and a seemed like a good culture fit. The overall consensus was a strong "hire". Then the HR department did their standard background verification. No red flags. The references checked out too. We rolled out the offer letter, and the candidate accepted and joined us. Off to a great start!
 
-Things started off great! The employee's engineer manager's was enthusiastic: __**"He looks very promising"**__.
+Things started off great! The employee's engineer manager was enthusiastic: __**"He looks very promising"**__.
 
-A few months went by, and the enthusiasm had waned a bit: __**"He's doing OK"**__.
+A few months went by, and the enthusiasm had waned a bit: __**"He's doing all right"**__.
 
 A few more months went by and there were mentions of performance/delivery gaps. But the manager was still gung-ho about handling this situation, giving the employee the benefit of the doubt, chalking up the gaps to __**"He's still acclimatizing to our engineering processes and tech stack"**__.
 
