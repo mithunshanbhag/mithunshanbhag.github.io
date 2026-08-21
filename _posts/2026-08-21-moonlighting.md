@@ -1,7 +1,18 @@
 ---
 layout: post
 title:  A moonlighting tale
-sitemap: false
+comments: false
+description: The rise of agentic AI and remote work have created new fertile grounds for employee moonlighting. As an organization leader, are you paying attention?
+author:
+  name: Mithun Shanbhag
+  twitter: MithunShanbhag
+image:
+  path: /images/moonlighting-comic-strip.png
+  width: 1303
+  height: 434
+  alt: Comic strip about workplace moonlighting
+twitter:
+  card: summary_large_image
 ---
 
 Moonlighting: The act of secretly working a second job, without informing your first job.
