@@ -27,13 +27,13 @@ Circa early 2022, I was serving as a fractional CTO for an mid-stage startup. Li
 
 I was in the remote interview loop, and was pretty impressed with the candidate: he had aced the coding interviews, was technically sound, was easy going, and a seemed like a good culture fit. The overall consensus was a strong "hire". Then the HR department did their standard background verification. No red flags were uncovered. The references checked out too. We rolled out the offer letter, and the candidate accepted and joined us.
 
-_**"He looks super-promising"**_. Off to a great start! The employee's engineer manager all enthusiastic!
+- _**"He looks super-promising"**_. Off to a great start! The employee's engineer manager all enthusiastic!
 
-_**"He's doing all right"**_. Two months went by, and the manager's enthusiasm had waned a bit.
+- _**"He's doing all right"**_. Two months went by, and the manager's enthusiasm had waned a bit.
 
-_**"He's still acclimatizing to our engineering processes and tech stack"**_. Two more months went by and there were mentions of performance/delivery gaps. But the manager was still gung-ho about handling this situation, and giving the employee a second (and third) chance.
+- _**"He's still acclimatizing to our engineering processes and tech stack"**_. Two more months went by and there were mentions of performance/delivery gaps. But the manager was still gung-ho about handling this situation, and giving the employee a second (and third) chance.
 
-One fine day, someone from payroll flagged discrepancies in this remote employee's EPFO (Employees Provident Fund) records. Apparently, the employee was also simultaneously working full-time for three other companies (side note: I'm hazy on the exact details now, but seemingly multiple companies were simultaneously linked to the employee's EPFO UAN).
+Then, one fine day, someone from payroll flagged discrepancies in this remote employee's EPFO (Employees Provident Fund) records. Apparently, the employee was also simultaneously working full-time for three other companies (side note: I'm hazy on the exact details now, but seemingly multiple companies were simultaneously linked to the employee's EPFO UAN).
 
 After this, I asked the HR department to intervene: they started a formal investigation, collected evidence and eventually terminated the employee. A legal notice had to be dispatched to recover the company's equipment (laptop, monitors, etc). And till date, I have no idea whether the HR department actually notified the other three companies where this person was simultaneously employed. Perhaps he's still working for all of them! 😂
 
@@ -43,11 +43,11 @@ I'll fully acknowledge that we discovered this moonlighting situation purely by 
 
 The employee's moonlighting had gone on for about five months before we discovered it. Reflecting back, there were some obvious tell-tale signs that something was amiss with this employee:
 
-**Bare minimum effort**: Not taking ownership of their work, not taking the lead on anything. No proactivity. But just doing enough to not get fired.
+1. **Bare minimum effort**: Not taking ownership of their work, not taking the lead on anything. No proactivity. But just doing enough to not get fired.
 
-**Frequent absenteeism**: Often skipping daily standup + other team meetings + 1:1s, not responding to emails or slack messages in a timely manner, sometimes refusing to come on camera in video calls.
+1. **Frequent absenteeism**: Often skipping daily standup + other team meetings + 1:1s, not responding to emails or slack messages in a timely manner, sometimes refusing to come on camera in video calls.
 
-**Missed deadlines**: It became a running joke that you had to add "+3 weeks" to any task this employee was assigned to.
+1. **Missed deadlines**: It became a running joke that you had to add "+3 weeks" to any task this employee was assigned to.
 
 Side note: The terms "calculated mediocrity", "deliberate mediocrity", "rehearsed mediocrity" are most often used to describe this kind of work ethic.
 
@@ -60,7 +60,7 @@ Side note: The terms "calculated mediocrity", "deliberate mediocrity", "rehearse
 
 So, how did we miss all this? Retrospectively, I think there were a few issues with how our org functioned:
 
-**Too much trust and naivety**: We kept giving the employee the benefit of the doubt. We did a WHOLE LOT OF MENTAL GYMNASTICS to convince ourselves that the employee was not at fault here, and this was a fixable situation. Perhaps they were just distracted / lazy / unmotivated, and all they needed was little nudge. Perhaps they had a personal / family / medical situation, and all they needed was some time to sort it out. Maybe they're just getting to grips with ReactJS, so let's enroll them in a Pluralsight course! 😂
+**Too much trust and naivety**: We kept giving the employee the benefit of the doubt. We did a WHOLE LOT OF MENTAL GYMNASTICS to convince ourselves that the employee was not at fault here, and this was inherently fixable. Perhaps they were just distracted / lazy / unmotivated, and all they needed was little nudge. Perhaps they had a personal / family / medical situation, and all they needed was some time to sort it out. Maybe they're just getting to grips with ReactJS, so let's enroll them in a Pluralsight course! 😂
 
 We kept deluding ourselves, and just didn't trust our gut. If mental gymnastics and delusion were an Olympic sport, we were gold medals winners!
 
@@ -68,7 +68,7 @@ We kept deluding ourselves, and just didn't trust our gut. If mental gymnastics 
 
 This is somewhat my fault. I helped create this misaligned incentives structure in my org.
 
-## 🚀 The new fertile grounds for moonlighting
+## The new fertile grounds for moonlighting 🌱
 
 Ok. It's 2026. Now what?
 
@@ -78,4 +78,4 @@ All the necessary preconditions are now in place: remote work, agentic AI, and a
 
 It's rampant now. People are moonlighting in plain sight, and employers have still not caught on!
 
-Did you encounter any moonlighting in your org? Any interesting stories or anecdotes to share? Please leave a comment below.
+Have you encountered any moonlighting in your org? Any interesting stories or anecdotes to share? Please leave a comment below.
