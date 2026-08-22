@@ -2,6 +2,7 @@
 layout: post
 title:  My playbook
 sitemap: false
+unlisted: true
 ---
 
 Based on my life experiences, I've cobbled together this playbook that has helped me in my growth/development. This is mostly for my own reference, but I hope it helps you too (disclaimer: I make no guarantees).
