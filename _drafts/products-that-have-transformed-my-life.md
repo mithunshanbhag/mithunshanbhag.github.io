@@ -11,6 +11,7 @@ sitemap: false
 * Pocketcasts
 * eye mask, ear plugs
 * UPI
+* AI
 
 ## Other miscellaneous tools
 * **[Logopit Plus](http://logopit.net/)**: Mobile app to quickly design logos, banners and flyers. 
