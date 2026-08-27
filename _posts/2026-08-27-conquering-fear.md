@@ -16,7 +16,7 @@ comments: false
 
 What we loosely term as **fear** is generally a cocktail that your brain blends together from multiple ingredients: anxiety, shame, guilt, humiliation, embarrassment, regret, uncertainty, helplessness, inexperience, inhibitions, unfamiliarity, vulnerability, apprehension, despair, ego, unhappiness, insecurities, laziness, inertia, reservation, misgiving, mistrust, and many more. Yes, and fear itself.
 
-Sip this cocktail and you'll be in a perpetual state of anxiety-driven paralysis.
+Sip this cocktail, and you'll be in a perpetual state of anxiety-driven paralysis.
 
 ## No silver bullets
 
@@ -92,6 +92,6 @@ Fear scares us INITIALLY and IRRATIONALLY. Take solace in these two facts:
 
 ![comic strip - fear setting](../../../images/conquering-fear-comic-strip-fear-setting.png)
 
-The more you face your fears, the more it shrinks. Crucially, as organizational leaders, conquering your fears lowers your barrier to taking risks. More on that some other day.
+The more you face your fears, the more they shrinks. Crucially, as organizational leaders, conquering your fears lowers your barrier to taking risks. More on that some other day.
 
 What's your equation with fear & anxiety? How do you cope with it? How do you overcome it? Any interesting stories or anecdotes to share? Please leave a comment below.
