@@ -2,7 +2,7 @@
 layout: post
 title:  Conquering fear
 comments: false
-description: Fear often feels bigger than it is. A practical process for defining your fears, taking action and ultimately overcoming them.  
+description: Fear often feels bigger than it is. A practical process for defining your fears, taking action, and ultimately overcoming them.  
 author:
   name: Mithun Shanbhag
   twitter: MithunShanbhag
