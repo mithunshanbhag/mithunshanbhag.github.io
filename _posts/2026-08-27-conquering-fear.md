@@ -4,6 +4,8 @@ title:  Conquering fear
 comments: false
 ---
 
+![comic strip - linkedin cover](../../../images/conquering-fear-comic-strip-linkedin-cover.png)
+
 >
 > "Life shrinks or expands in proportion to one's courage." - Anais Nin
 >
