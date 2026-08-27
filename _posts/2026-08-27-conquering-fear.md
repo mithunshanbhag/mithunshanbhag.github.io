@@ -2,6 +2,17 @@
 layout: post
 title:  Conquering fear
 comments: false
+description: Fear often feels bigger than it is. A practical process for defining your fears, taking action and ultimately overcoming them.  
+author:
+  name: Mithun Shanbhag
+  twitter: MithunShanbhag
+image:
+  path: /images/conquering-fear-comic-strip-linkedin-cover.png
+  width: 1303
+  height: 434
+  alt: Comic strip about conquering fear
+twitter:
+  card: summary_large_image
 ---
 
 ![comic strip - linkedin cover](../../../images/conquering-fear-comic-strip-linkedin-cover.png)
