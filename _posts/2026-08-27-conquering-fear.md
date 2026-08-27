@@ -24,7 +24,7 @@ But know that there is no workaround, we have to take these fears head-on: we ha
 
 Growing up as a kid, and for the early part of my adult life, my fears were mostly about embarrassing myself in front of my friends/peers/coworkers.
 
-Later in life my fears evolved too. As a business owner and organization leader, I dreaded dealing with govt officials, dealing with paperwork, talking to customers, asking people for favours/help. 
+Later in life my fears evolved too. As a business owner and organization leader, I dreaded dealing with govt officials, dealing with paperwork, talking to customers, asking people for favours/help.
 
 Note: I did say these fears were irrational 😀.
 
@@ -89,6 +89,8 @@ Fears scares us INITIALLY and IRRATIONALLY. Take solace in these two facts:
    * should anything bad happen you can handle/mitigate it. or
    * should anything bad happen you can recover from it. or
    * You can prevent anything bad from happening in the first place.
+
+![comic strip - fear setting](../../../images/conquering-fear-comic-strip-fear-setting.png)
 
 The more you face our fears, the more it shrinks. Crucially, as organization leaders, conquering your fears lowers your barrier to taking risks. More on that some other day.
 
