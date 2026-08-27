@@ -64,3 +64,14 @@ https://www.reddit.com/r/overemployed/comments/1fzpv8h/the_bosses_are_onto_us/
 When an entrepreneur does it?
 No one questions it when entrepreneurs / CEOs run side hustles.
 Everyone celebrates it.
+
+## Conquering fear
+
+[6:09 pm, 24/08/2026] Mithun: Gumption: uber, airbnb
+[6:09 pm, 24/08/2026] Mithun: Go up against taxi unions and the hotel lobby
+
+As a business owner
+Fear of talking to customers, fear of embarassing yourself (in front of peers and others), 
+
+Build a network & support system: lawyers, law enforcement, fixers/agents, politicians
+
