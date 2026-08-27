@@ -91,9 +91,9 @@ For me, a powerful framing equation was `Anxiety = Powerlessness x Uncertainty`.
 
 Fear scares us INITIALLY and IRRATIONALLY. Take solace in these two facts:
 
-1. *Almost EVERYTHING seems scary the first time around*: Driving, swimming, public speaking, asking someone out, hiring someone, purchasing a home, yada yada. Once you take some action, you soon realize that your fears aren't as bad as you thought they'd be.
+1. Almost everything seems scary the first time around: Driving, swimming, public speaking, asking someone out, hiring someone, purchasing a home, yada yada. Once you take some action, you soon realize that your fears aren't as bad as you thought they'd be.
 
-2. *Most fears are just imaginary/irrational*: As soon as you take some action, you'll realize that:
+2. Most fears are just imaginary/irrational: As soon as you take some action, you'll realize that:
 
    * the worst-case scenario isn't as bad as you thought it'd be. OR
    * the probability of anything bad happening is extremely low. or
