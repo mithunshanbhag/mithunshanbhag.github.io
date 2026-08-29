@@ -29,6 +29,7 @@ sitemap: false
 - Laziness manifesto (Tim Krider: We learn nothing)
 - Trust your instincts
 - The only productivity tool you need is courage
+- Half-life of a skill has reduced now. You'll have to reskill several times in your career.
 
 ## ENTREPRENEURSHIP
 
