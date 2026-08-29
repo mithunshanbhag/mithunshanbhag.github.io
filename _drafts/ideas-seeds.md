@@ -4,10 +4,41 @@ title:  Ideas, seeds
 sitemap: false
 ---
 
-## Ideas for future blog posts
+## CAREER / LEADERSHIP
+
+- Be easy to work with
+- Make yourself useful (Cal Newport book
+- Being a journeymam (always in learning mode, anti-compounding)
+- Getting everyone to row in the same direction 
+- Competition vs collaboration
+- Throw away work
+- Lessons from Dale Carnegie book
+
+## HR / OFFICE
 
 - Sandwich leaves
+- HR works for you or the company
+- Benefits of daily standups
+- Remote work, hybrid work
+
+## PRODUCTIVITY
+
+- Deadlines
+- Habits, routines
+- Compounding
 - Laziness manifesto (Tim Krider: We learn nothing)
-- Make yourself useful (Cal Newport book)
-- Be easy to work with
-- Dale Carnegie book
+- Trust your instincts
+- The only productivity tool you need is courage
+
+## ENTREPRENEURSHIP
+
+- Finding PMF by charging for your product from day 1.
+
+## BRANDING / MARKETING
+
+## PERSONAL FINANCE
+
+
+
+
+
