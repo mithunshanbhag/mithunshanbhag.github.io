@@ -34,6 +34,7 @@ sitemap: false
 ## ENTREPRENEURSHIP
 
 - Finding PMF by charging for your product from day 1.
+- Why no one want to partner with you (tech choice, working style: tight control, personality: intimidating, no creative control, not buying the vision, not buying my ability to lead/execute, they may not have the same risk appetite.
 
 ## BRANDING / MARKETING
 
