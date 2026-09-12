@@ -14,6 +14,7 @@ sitemap: false
 - Throw away work
 - Lessons from Dale Carnegie book
 - Rowing (activity vs motion vs progress, KPIs, everyone rowing in the same 'wrong' direction, disagree and commit).
+- Incentives (read Freakonomics)
 
 ## HR / OFFICE
 
