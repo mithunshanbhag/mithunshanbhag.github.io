@@ -16,7 +16,7 @@ The second panel does the switch/transition. This is usually where the brand com
 
 ![carousel - image 2](../../../images/befores-and-afters-3.jpg)
 
-The third panel is the payoff. The subject is now in a significantly better mood.
+The third panel is the payoff. The subject is now in a significantly better mood. Mission accomplished!
 
 ![carousel - image 3](../../../images/befores-and-afters-4.jpg)
 
