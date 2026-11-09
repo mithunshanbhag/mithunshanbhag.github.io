@@ -14,7 +14,7 @@ The second panel does the switch/transition. This is usually where the brand com
 
 The third panel is the payoff. The subject is now in a significantly better mood.
 
-Honestly, this comic strip doesn't need dialogues or speech bubbles. Technically speaking, even the mascot isn't really needed in these scenes. But mascots and embossed logos help readers recall the brand instantly.
+Honestly, this comic strip doesn't need dialogue or speech bubbles. Technically speaking, even the mascot isn't really needed in these scenes. But mascots and embossed logos help readers recall the brand instantly.
 
 What's the "before vs after" that **YOU** strive to create for your customers? And how do you help them visualize it?
 
