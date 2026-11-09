@@ -12,10 +12,10 @@ As business and brand owners, we all strive to create that first "wow moment" fo
 
 What's that first magical moment that **YOU** strive to create for your customers? And how do you help them visualize it?
 
+`#branding` `#storytelling` `#visualstorytelling` `#visualbranding` `#comicfire` `comicfire.com`
+
 ![aquarium](../../../images/wow-moment-1.jpg)
 
 ![plant nursery](../../../images/wow-moment-2.jpg)
 
 ![toothpaste](../../../images/wow-moment-3.jpg)
-
-`#branding` `#storytelling` `#comicfire`
