@@ -4,7 +4,7 @@ title:  Befores and afters
 comments: false
 ---
 
-The simplest way for a brand to tell a story is to show a "before" and an opposite "after", with the brand effecting the change.
+The simplest way for a brand to tell a story is to show a `before` and an opposite `after`, with the brand effecting that change.
 
 Let's create a simple "before vs after" story for a fictional local neighborhood record store, 'GrooveNest'.
 
