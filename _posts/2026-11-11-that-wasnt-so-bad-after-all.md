@@ -6,25 +6,25 @@ comments: false
 
 Most brand stories are about exceeding customers' expectations and delighting them.
 
-But what if customers dread using your product/service? Or have some reservations about it? Maybe they're forced to use it only because of an emergency? Or an impending deadline? Maybe there are high costs associated? Maybe the process is convoluted, long-drawn and painful?
+But what if customers dread using your product/service? Or have some reservations about it? Maybe they're forced to use it only because of an emergency? Or an impending deadline? Maybe there are high costs associated? Maybe the process is convoluted, long-drawn, and painful?
 
-Lawyers, medical staff, tow-truck operators, plumbers, and locksmiths and other swathes of service providers deal with distressed customers who are not in the best frames of mind. By the way, this is equally applicable to products too; no one looks forward to gleefully using EpiPens, jumper cables, fire extinguishers, and tax-filing software. First time users especially.
+Lawyers, medical staff, tow-truck operators, CPAs, plumbers, locksmiths, and other service providers often deal with distressed customers who engage their services because of circumstances. This applies to products too; no one looks forward to gleefully using EpiPens, jumper cables, fire extinguishers, and defibrillators. First-time users especially.
 
-As a brand owner, the reassurance you need to provide is "It's not as bad as you think. We got you covered.".
+As a brand owner, the reassurance you need to provide is "It's not as bad as you think. We got you covered."
 
-Let's use ComicFire to storyboard this scenario. Imagine a fictional business called 'Hearth Help' providing general contractors to assist with emergency home-repairs: leaky pipes, malfunctioning heaters, short-circuiting wires, damaged roofs, et al.
+Let's use ComicFire to storyboard this scenario. Imagine a fictional business called 'Hearth Help' that provides general contractors for emergency home repairs: leaky pipes, malfunctioning heaters, short-circuiting wires, damaged roofs, et al. The story's emotional beats are as follows:
 
-The story beats are simple:
+1. A malfunctioning kitchen faucet has riddled our subject with anxiety and guilt: "How did this happen? Did I accidentally break this?", "How long will this take to fix? I've got a meeting to attend at 2 PM.", "How much is this going to cost me?", "Will the entire kitchen plumbing line need to be replaced?".
 
-1. A malfunctioning kitchen faucet has riddled our subject with anxiety and guilt: "How did this happen? Did I accidentally break this?", "How long will this take to fix? I've got a meeting to attend at 2 PM", "How much is this gonna cost me?" "Will the entire kitchen plumbing line need to be replaced?".
+2. The brand's contractor/technician enters the frame, reassures the subject, fixes the problem, saves the day.
 
-2. The brand's contractor/technician enters frame to save the day.
+3. Our subject's mini-arc ends with a feeling of massive relief: "Phew! That wasn't so bad after all. I can trust this brand!"
 
-3. Our subject's mini-arc ends with a feeling of massive relief, "Phew! That wasn't so bad after all."
+We'll keep the visuals simple and bare-bones: no dialogue or speech captions. The brand mascot "Finn, the fox" follows the same arc as the subject.
 
-We'll keep the visuals simple and bare-bones: no dialogues and speech captions. And voila! Your illustrated story is ready to be published or printed.
+And voila! Your illustrated story is ready to be published.
 
-What's that one trepidation that holds people back from using your product or service? And how do you assuage it?
+What trepidation do people have when engaging with **YOUR** product or service? And how do you assuage it?
 
 `#branding` `#storytelling` `#visualstorytelling` `#visualbranding` `#comicfire` `comicfire.com`
 
@@ -43,7 +43,7 @@ ridden subject into a tailspin
 
 Trepidation could be about your brand or your industry in general
 
-
+who aren't in the best frame of mind
 
 
 When to use this storytelling format? 
