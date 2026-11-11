@@ -22,45 +22,18 @@ Let's use ComicFire to storyboard this scenario. Imagine a fictional business ca
 
 We'll keep the visuals simple and bare-bones: no dialogue or speech captions. The brand mascot "Finn, the fox" follows the same arc as the subject.
 
-And voila! Your illustrated story is ready to be published.
+And voila! Your illustrated story and branded visuals are ready to be published.
 
 What trepidation do people have when engaging with **YOUR** product or service? And how do you assuage it?
 
 `#branding` `#storytelling` `#visualstorytelling` `#visualbranding` `#comicfire` `comicfire.com`
 
-================
+![carousel 1](../../../images/that-wasnt-so-bad-2.jpg)
 
+![carousel 2](../../../images/that-wasnt-so-bad-3.jpg)
 
-- Better/faster/cheaper/less-painful than expected
-- pleasantly surprised
+![carousel 3](../../../images/that-wasnt-so-bad-4.jpg)
 
+![full portrait comic](../../../images/that-wasnt-so-bad-1.png)
 
-Better than I expected 
-Vs
-Not as bad as I expected
-
-ridden subject into a tailspin
-
-Trepidation could be about your brand or your industry in general
-
-who aren't in the best frame of mind
-
-
-When to use this storytelling format? 
-
-
-artwork should not be overly colorful or the tone humourous?
-
-Important to communicate that the "after" ain't that painful after all.
-
-
-==========
-
-Character arcs should end in the third panel.
-
-Hard to do episodic content on social media, thanks to algorithms (stuff may not get shown), dwindling attention spans, etc.
-
-
-the customers do not have high expectations to begin with
-
-despise or 
+![preview](../../../images/that-wasnt-so-bad-5.jpg)
