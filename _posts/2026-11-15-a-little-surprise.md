@@ -16,7 +16,9 @@ twitter:
 canonical_url: https://blog.comicfire.com/2026/11/15/an-unexpected-surprise.html
 ---
 
-What’s a little extra you could give your customers that they’d be genuinely happy to get? Two warm [Cheddar Bay Biscuits](https://www.redlobster.com/ORDER/biscuits-extras) with your entrée at Red Lobster. A warm [chocolate chip cookie](https://stories.hilton.com/doubletree-cookie) when you check in at DoubleTree by Hilton. Five Guys burgers are famous for their generous helping of [extra fries](https://www.fiveguys.com/support-hub/faqs/). Something small enough that you can say, “Here, this is just for you.”
+What’s a little extra you could give your customers that would genuinely make them happy? Something small enough that you can say, “Here, this is just for you.”
+
+Red Lobster serves two warm [Cheddar Bay Biscuits](https://www.redlobster.com/ORDER/biscuits-extras) with each entrée. When you check in at DoubleTree by Hilton, a warm [chocolate chip cookie](https://stories.hilton.com/doubletree-cookie) awaits you. Five Guys burgers are famous for their generous helping of [extra fries](https://www.fiveguys.com/support-hub/faqs/).
 
 Let’s use ComicFire to storyboard one of these moments. Imagine a fictional catering business called ‘Lunch Tables’. Three coworkers have ordered sandwiches and salad for an office lunch. Their meal arrives along with a mystery teal box.
 
